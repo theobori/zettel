@@ -3,7 +3,7 @@
 :END:
 #+title: Window
 
-Une fenêtre dans Emacs est une portion graphique d'une [[file:file:Frame.org][Frame]], elle sert à visualiser un [[Window/Buffer.org][Buffer]].
+Une fenêtre dans Emacs est une portion graphique d'une [[file:../Frame.org][Frame]], elle sert à visualiser un [[./Window/Buffer.org][Buffer]].
 
 En bas de fenêtre, on trouve le nom de [[file:Window/Buffer.org][Buffer]] et le mode.
 

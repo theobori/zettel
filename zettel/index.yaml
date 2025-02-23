@@ -8,6 +8,6 @@ page:
 template:
   name: /templates/layouts/note
   baseUrl: /zettel/
-  # iconUrl: /static/ners.jpg
+  iconUrl: ${ema:homeUrl}nixos.svg
   theme: red
   urlStrategy: pretty

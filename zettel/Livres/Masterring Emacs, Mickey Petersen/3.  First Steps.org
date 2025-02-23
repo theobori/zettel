@@ -15,7 +15,7 @@ Emacs est doté d'un mode client-serveur.
     - =H-= (Hyper)
     - =A-= (Alt)
 
-=C-x=est très commun comme préfix de séquence de touches.
+=C-x= est très commun comme préfix de séquence de touches.
 
 =M-x= (Execute Extended Command)
 
