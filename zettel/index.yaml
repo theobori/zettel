@@ -7,7 +7,7 @@ page:
 
 template:
   name: /templates/layouts/note
-  baseUrl: /zettel/
+  # baseUrl: /zettel/
   iconUrl: ${ema:homeUrl}nixos.svg
   theme: red
   urlStrategy: pretty
