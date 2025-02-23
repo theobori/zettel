@@ -1,12 +1,13 @@
 page:
   siteTitle: Théo's Bori Public Zettelkasten
   siteName: zettelkasten
+  siteUrl: https://theobori.github.io
   headHtml: |
     <snippet var="js.prism" />
 
 template:
   name: /templates/layouts/note
+  baseUrl: /zettel/
   # iconUrl: /static/ners.jpg
   theme: red
   urlStrategy: pretty
-  sidebar: true

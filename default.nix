@@ -21,7 +21,7 @@ stdenvNoCC.mkDerivation {
     runHook preBuild
 
     mkdir -p output
-    emanote --layers "zettel" gen output
+    emanote --layers "./zettel" gen output
 
     runHook postBuild
   '';
