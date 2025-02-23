@@ -4,3 +4,7 @@
 #+title: Mode
 
 Un mode est un ensemble de comportements qui affectent un [[file:Frame/Window/Buffer.org][Buffer]].
+
+#+begin_src query
+path:./*
+#+end_src

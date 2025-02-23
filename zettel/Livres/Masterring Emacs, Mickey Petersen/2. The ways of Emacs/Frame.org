@@ -4,3 +4,7 @@
 #+title: Frame
 
 C'est un regroupement de [[file:Frame/Window.org][Window]], c'est un objet Emacs qui sert à afficher les [[file:Frame/Window.org][Window]].
+
+#+begin_src query
+path:./*
+#+end_src

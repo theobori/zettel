@@ -11,3 +11,7 @@ I'm using [[file:../GNU/Linux.org][Linux]]. A library that emacs uses to communi
 #+end_quote
 
 Le LISP (List Processing) est un langage dynamique, à la fois impératif et fonctionnel.
+
+#+begin_src query
+path:./*
+#+end_src

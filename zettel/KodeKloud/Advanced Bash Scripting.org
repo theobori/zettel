@@ -4,3 +4,7 @@
 #+title: Advanced Bash Scripting
 
 Learning bash is a benefit for the career, it is installed on 99% of the UNIX/Linux systems, earn time, lightweight, etc.
+
+#+begin_src query
+path:./*
+#+end_src

@@ -18,3 +18,7 @@ Also always based directly or indirectly on the =derivation= function built in t
 
 ** Output hash
 The hash of the out path is based solely on the input [[file:file:Derivation.org][Derivation]] in the current version of Nix, [[../Nix.org][Nix]] on the contents of the build product.
+
+#+begin_src query
+path:./*
+#+end_src

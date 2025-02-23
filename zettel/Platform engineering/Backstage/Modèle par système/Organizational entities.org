@@ -5,3 +5,7 @@
 
 Ci-dessous, un schéma représentant le fonctionnement global de l'écosystème.
 [[file:../../../Attachments/Pasted image 20250221012234.png.org][../../../Attachments/Pasted image 20250221012234.png]]
+
+#+begin_src query
+path:./*
+#+end_src

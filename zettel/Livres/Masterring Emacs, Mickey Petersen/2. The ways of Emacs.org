@@ -15,3 +15,7 @@ Pour le customiser il faut écrire du Emacs Lisp (elisp), c'est simplement une i
 
 *** Emacs customizations
 La configuration d'Emacs peut s'écrire plusieurs fichier, =.emacs.d=, =init.el=, et =.emacs=.
+
+#+begin_src query
+path:./*
+#+end_src

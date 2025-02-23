@@ -4,3 +4,7 @@
 #+title: Zone de disponibilité
 
 C'est une centre de données isolé dans une [[file:Région.org][Région]] AWS.
+
+#+begin_src query
+path:./*
+#+end_src

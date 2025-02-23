@@ -4,3 +4,7 @@
 #+title: Linux
 
 GNU Linux est un système dexploitation [[file:../UNIX.org][UNIX]] basé sur Linux qui comprend des logiciels écrit par le projet [[file:../GNU.org][GNU]] (gcc, tar, sed, etc.).
+
+#+begin_src query
+path:./*
+#+end_src

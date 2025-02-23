@@ -4,3 +4,7 @@
 #+title: Forme fixe
 
 Existe depuis l'Antiquité grecque. Des règles ont changées mais d'autres ont traversé les époques. Généralement ces règles concernent, le nombre et le type de [[file:Vers.org][Vers]] et le nombre et le type de [[file:Strophe.org][Strophe]].
+
+#+begin_src query
+path:./*
+#+end_src

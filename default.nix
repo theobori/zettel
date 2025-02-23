@@ -27,17 +27,17 @@ stdenvNoCC.mkDerivation {
   '';
 
   installPhase = ''
-    runHook predInstalll
+    runHook predInstall
 
-    # mkdir -p $out
+    install
     cp -r output $out
 
-    runHook postInstalll
+    runHook postInstall
   '';
 
   meta = {
-    description = "";
-    homepage = "";
-    license = lib.licenses.mit;
+    description = "My public zettelkasten";
+    homepage = "https://github.com/theobori/zettel";
+    license = lib.licenses.gpl3Plus;
   };
 }

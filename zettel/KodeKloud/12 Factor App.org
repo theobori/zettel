@@ -9,3 +9,7 @@
   - [[file:../../Glossaire/Scaling/Concurrence.org][Concurrence]]
 
 The goal is to build an application that is scable, resilient and easy to manage. Itis a set of best practices but also a mindset.
+
+#+begin_src query
+path:./*
+#+end_src

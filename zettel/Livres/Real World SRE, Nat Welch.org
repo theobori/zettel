@@ -4,3 +4,7 @@
 #+title: Real World SRE, Nat Welch
 
 An interesting book about a Nat Welch and his experiences while working as SRE.
+
+#+begin_src query
+path:./*
+#+end_src

@@ -11,3 +11,7 @@ La poésie est un genre littéraire qui utilise le langage pour créer des image
 Le texte poétique ne vise pas à raconter une histoire comme le ferait le texte narratif. La poésie cherche plutôt à éveiller la sensibilité du lecteur. On reconnaît principalement la poésie par sa forme différente qui témoigne d'une utilisation créative du langage.
 
 #+end_quote
+
+#+begin_src query
+path:./*
+#+end_src

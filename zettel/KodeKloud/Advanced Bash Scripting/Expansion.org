@@ -4,3 +4,7 @@
 #+title: Expansion
 
 It is the process of accessing a value stored in a variable or generating a value.
+
+#+begin_src query
+path:./*
+#+end_src

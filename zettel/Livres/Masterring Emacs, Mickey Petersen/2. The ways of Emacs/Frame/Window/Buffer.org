@@ -8,3 +8,7 @@ Emacs utilise des buffers, ce sont simplement des espaces mémoire gérés par E
 Tous les fichiers sont des buffers, mais tous les buffers ne sont pas des fichiers.
 
 On peut utiliser ces buffers pour par exemple communiquer avec dautres process (device i/o).
+
+#+begin_src query
+path:./*
+#+end_src

@@ -16,3 +16,7 @@ Ca signifie Logical Volume Management, c'est un logiciel de gestion des espaces 
 ** Références
 - https://linuxhandbook.com/lvm-guide/
 - Manuels Linux
+
+#+begin_src query
+path:./*
+#+end_src

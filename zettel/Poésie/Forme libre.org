@@ -4,3 +4,7 @@
 #+title: Forme libre
 
 Apparue à la fin du 19ème et début du 20ème, ne répond à aucune règle.
+
+#+begin_src query
+path:./*
+#+end_src

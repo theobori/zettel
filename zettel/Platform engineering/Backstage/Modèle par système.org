@@ -5,3 +5,7 @@
 
 ** Références
 - https://backstage.io/docs/features/software-catalog/system-model/
+
+#+begin_src query
+path:./*
+#+end_src

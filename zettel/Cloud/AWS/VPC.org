@@ -20,3 +20,7 @@ Avant la feature VPC d'AWS (2006 à 2009) il y avait tout dans le meme réseau, 
 ** Références
 - https://www.youtube.com/watch?v=bweJ3TZ5ynI&t=13s&ab_channel=cocadmin
 - https://docs.google.com/presentation/d/1iDgMphJRJF1kPkjE6OribQJCopj-nj3FLhij0EEv-u8/edit?pli=1#slide=id.gaa05659b14_0_2026
+
+#+begin_src query
+path:./*
+#+end_src

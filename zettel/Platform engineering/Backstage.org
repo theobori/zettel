@@ -8,3 +8,7 @@ C'est une [[file:../Glossaire/Plateforme.org][Plateforme]] open-source pour cons
 Ça unifie/regroupe/simplifie tous les services, outils, documentations pour créer un environement personnalisé.
 
 L'outil, une fois mis en place, est principalement destiné aux développeurs.
+
+#+begin_src query
+path:./*
+#+end_src

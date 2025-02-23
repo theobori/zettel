@@ -6,3 +6,7 @@
 C'est à l'origine un système d'exploitation.
 
 Ajourdh'ui, c'est désigne une famille de système d'exploitation, ayant en commun, la philosophie, le fonctionnement et yavant une même base de programmes.
+
+#+begin_src query
+path:./*
+#+end_src

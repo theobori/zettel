@@ -26,3 +26,7 @@ Le protocole a 2 fonctions de base.
 ** Références
 - https://datatracker.ietf.org/doc/html/rfc791#section-1.1
 - http://abcdrfc.free.fr/rfc-vf/pdf/rfc0791.pdf
+
+#+begin_src query
+path:./*
+#+end_src

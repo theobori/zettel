@@ -4,3 +4,7 @@
 #+title: Arda
 
 C'est le monde dans lequel se déroulent les histoires de Tolkien.
+
+#+begin_src query
+path:./*
+#+end_src

@@ -12,3 +12,7 @@
 
 *** The chapter two
 Also see the bytecode VM chapter made in french, [[file:Crafting Interpreters, Robert Nystrom/Machine virtuelle de bytecode (clox).org][Crafting Interpreters, Robert Nystrom/Machine virtuelle de bytecode (clox)]].
+
+#+begin_src query
+path:./*
+#+end_src

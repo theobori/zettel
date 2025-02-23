@@ -18,3 +18,7 @@ Dit regional quand il est question de définitions fonctione ou de classes entie
 
 *** Global
 Dit global quand on change de buffer ou de window.
+
+#+begin_src query
+path:./*
+#+end_src

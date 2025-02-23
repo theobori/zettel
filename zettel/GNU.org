@@ -6,3 +6,7 @@
 GNU signifie GNU's Not [[file:UNIX.org][UNIX]].
 
 C'est un système d'exploitation développé par Richar Stallman, il reprend le fonctionnement d'[[file:UNIX.org][UNIX]].
+
+#+begin_src query
+path:./*
+#+end_src

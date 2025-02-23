@@ -4,3 +4,7 @@
 #+title: Core entities
 
 [[file:../../../Attachments/Pasted image 20250221012141.png.org][../../../Attachments/Pasted image 20250221012141.png]]
+
+#+begin_src query
+path:./*
+#+end_src

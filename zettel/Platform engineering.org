@@ -13,3 +13,7 @@ Le [[file:../Glossaire/Plateforme.org][Plateforme]] Engineering est l'art de con
 #+end_quote
 
 [[file:../Attachments/Pasted image 20240407104809.png.org][../Attachments/Pasted image 20240407104809.png]]
+
+#+begin_src query
+path:./*
+#+end_src

@@ -23,3 +23,7 @@ A cross platform package manager and a language. Actually, it is not a package m
 ** References
 - [[https://nixos.org/guides/nix-pills/00-preface][Nix pills]]
 - [[https://nixcloud.io/tour][A tour of Nix]]
+
+#+begin_src query
+path:./*
+#+end_src
