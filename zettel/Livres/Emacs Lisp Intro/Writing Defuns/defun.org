@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0aa8523e-e6b7-4f12-a51c-042dce219dd2
+:END:
+
+C'est une macro qui sert a définir une fonction.
+  1. Le nom du symbole
+  2. Une liste de paramètres
+  3. Une documentation (optionelle)
+  4. Une expression pour rendre la fonction intéractive (optionelle)
+  5. Le corps, les instructions
+
+Voici un exemple de fonction intéractive qui passe le prefix argument en argument de fonction.
+
+#+begin_src lisp
+ (defun multiply-by-seven (number)       ; Interactive version.
+   "Multiply NUMBER by seven."
+   (interactive "p")
+   (message "The result is %d" (* 7 number)))
+#+end_src

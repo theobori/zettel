@@ -1,0 +1,4 @@
+** Pacticing Evaluation
+Quand jeffectue des actions avec les touches du claviers, en réalité, des expressions elisp sont évaluées.
+
+La fonction =current-buffer= retourne le [[file:../Masterring Emacs, Mickey Petersen/2. The ways of Emacs/Frame/Window/Buffer.org][buffer]] lui-même dans la [[file:../Masterring Emacs, Mickey Petersen/2. The ways of Emacs/Frame/Window.org][window]], en bas de [[file:../Masterring Emacs, Mickey Petersen/2. The ways of Emacs/Frame.org][frame]], on voit noté =#<buffer *info*= qui l'indique.

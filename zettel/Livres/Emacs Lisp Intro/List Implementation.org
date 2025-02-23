@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       86aa89cf-e9c1-4d3a-b798-d4400b6cf9ce
+:END:
+
+Les listes du language sont implémenté à travers des listes chainées, le [[file:Cons Cell/CAR.org][CAR]] point vers laddresse de la value et le [[file:Cons Cell/CDR.org][CDR]] pointe vers le prochain [[file:Cons Cell.org][Cons Cell]].
+
+[[file:../../Attachments/Pasted image 20250211101523.png.org][../../Attachments/Pasted image 20250211101523.png]]

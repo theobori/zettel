@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       26c941a3-2813-43b7-8c21-fc43f0334b7a
+:END:
+
+
+C'est un mot.
+Plus précisément, c'est tout ce qui n'est pas une [[file:Cons Cell.org][Cons Cell]].

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6f5f8500-3442-4cf5-8a46-639eae0b5981
+:END:
+
+Performe une action sur chaque élément.

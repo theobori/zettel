@@ -1,0 +1,10 @@
+** Writing Defuns
+Il y a les fonctions écrites en C (primitives) et les fontions écrites en [[file:../Masterring Emacs, Mickey Petersen/Emacs.org][Emacs]] [[file:Lisp.org][LISP]].
+
+#+begin_quote
+Le format de manuel utilisé par le projet [[file:../../GNU.org][GNU]] sappelle Texinfo ! Pouvant être compilé vers des fichiers =.info=.
+#+end_quote
+
+#+begin_src query
+path:./*
+#+end_src

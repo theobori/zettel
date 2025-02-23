@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: F3ACE1B7-D178-448D-9D1D-64922B3855B6
+:END:
+#+title: Emacs Lisp Intro
+
+C'est une introduction au [[file:Emacs Lisp Intro/Lisp.org][LISP]] proposée par [[file:Masterring Emacs, Mickey Petersen/Emacs.org][Emacs]].
+
+#+begin_src query
+path:./*
+#+end_src

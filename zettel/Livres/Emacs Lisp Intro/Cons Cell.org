@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ca17af7-6b1d-464b-b603-8c3c4eef08cb
+:END:
+
+C'est une paire de données ordonnées.
+
+C'est une structure de donnée utilisée pour [[file:List Implementation.org][implémenter une liste]].
+
+#+begin_src query
+path:./*
+#+end_src

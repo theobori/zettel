@@ -1,0 +1,15 @@
+En général les gens utilisent pluto le mot clé =while= mais c'est aussi puissant d'utiliser la récursivité.
+
+La macro =dolist= est plutot intéressante.
+
+** [[file:../../Glossaire/Récursivité.org][Récursivité]]
+
+*** Directe
+La fonction se rappelle elle-même explicitement.
+
+*** Indirecte
+La fonction appelle une autre fonction, parfois sapellent entre elles.
+
+#+begin_src query
+path:./*
+#+end_src

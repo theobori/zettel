@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8372a44b-35c8-47b4-9393-4881a9d089bc
+:END:
+
+Le mot clé =let= permets de définir des variables locales dans un nouvel espace de noms. Ci-dessous sa syntaxe.
+[[file:../../../Attachments/Pasted image 20250210144640.png.org][../../../Attachments/Pasted image 20250210144640.png]]

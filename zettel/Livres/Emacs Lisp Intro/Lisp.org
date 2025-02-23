@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db940b69-3689-4a41-a696-b95e9058e91f
+:END:
+
+Le LISP est simplement un langage basé sur l'évaluation de listes.
+
+Pour déclarer une liste, il faut un single-quote en préfixe, comme ci-dessous.
+
+#+begin_src common-lisp
+'(hello world)
+#+end_src

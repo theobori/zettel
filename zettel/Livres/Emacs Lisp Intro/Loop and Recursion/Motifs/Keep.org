@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       732af184-d8e1-4719-abf2-8a22672e553d
+:END:
+
+Agit comme un filtre, ça teste chaque élément pour savoir s'il faut le garde (par ex la fonction =filter= en python)
+
+[[file:../../../../Attachments/Pasted image 20250211111943.png.org][../../../../Attachments/Pasted image 20250211111943.png]]

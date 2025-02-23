@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2ab2c2c3-d9b3-4d5e-9760-ddadc607d8b7
+:END:
+
+Decrement fait référence à une partie spécifique d'un mot mémoire (surement 32 bits). Aucun rapport avec "soustraire par 1".

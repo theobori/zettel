@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b17d44c0-61c8-4189-820d-c34777ce74f5
+:END:
+
+C'est le reste d'une liste, l'emplacement de droite d'un [[file:../Cons Cell.org][Cons Cell]].

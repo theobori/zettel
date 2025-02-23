@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       87c0384b-da14-47d2-af48-62f717c24771
+:END:
+
+C'est le premier élément d'une list, l'emplacement de gauche d'un [[file:../Cons Cell.org][Cons Cell]].

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9a661cb5-21de-4026-be21-6c4402115b1a
+:END:
+
+Le binding lexical est par rapport à où se trouve le corps de la fonction.

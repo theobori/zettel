@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e164d2b0-5691-437b-8de5-d60a30a0f3d3
+:END:
+
+Le bindind dynamic est par rapport aux valeurs attribuées au runtime.

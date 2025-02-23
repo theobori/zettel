@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       02e67479-1660-4eb0-8eff-fc42ea3c0010
+:END:
+
+Uninitialized variables are defined to the =nil= value.
+Selon le contexte, =nil= peut être une liste vide ou false.
