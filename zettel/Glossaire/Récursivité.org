@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: 2319D92C-E42D-48A8-9BA5-2D8B279E02F8
+:END:
+#+title: Récursivité
+
+La récursivité est une démarche qui fait référence à l'objet même de la démarche à un moment du processus.
+
+** Contexte
+- Algorithme récursif (cours, [[file:../NixOS/Nix.org][Nix]])
+- fonction récursive (cours)
+- image récursive (lindenmayer)

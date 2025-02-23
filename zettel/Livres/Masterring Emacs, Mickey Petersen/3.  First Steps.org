@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID: CB10060E-A9E2-44B5-B87B-BEA847644D02
+:END:
+#+title: 3.  First Steps
+
+Emacs est doté d'un mode client-serveur.
+
+- Emacs a plusieurs touches modifiantes
+  - Communs
+    - =C-= (Control)
+    - =M-= (Meta)
+    - =S-= (Shift)
+  - Existent pour des raisons historiques (compatibilité avec les claviers d'ordinateurs Space Cadet)
+    - =s-= (Super)
+    - =H-= (Hyper)
+    - =A-= (Alt)
+
+=C-x=est très commun comme préfix de séquence de touches.
+
+=M-x= (Execute Extended Command)
+
+Les commandes sont des types de fonctions accessibles à l'utilisateur.
+Pour accéder à certaines commandes, il faut donner l'universal argument (C-u), qui par défault, vaut 4. Ca permet de par exemple, créer de la répétition ou changer le comportement d'une commande.
+
+Pour utiliser le système d'aide d'Emacs, on peut ajouter C-h devant une prefix key.
+Savoir trouver des réponses à travers ce système d'aide est essentiel !
+
+=C-h i= démarre aide intéractive.
+
+=C-h a= démarre la recherche into apropos.
+
+Les pages d'aides [[file:../../GNU.org][GNU]] sont écrites en TeXinfo, [[file:../../GNU.org][GNU]] emacs a un viewer intégré pour ce language.

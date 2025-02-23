@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 34322EF1-E5D1-4EFA-A35E-A22D0FA6EDC6
+:END:
+#+title: Emacs
+
+Emacs est un éditeur de texte simple très extensible, il peut être modifié de manière précise comme je souhaite qu'il soit.
+
+C'est un géant changeable (mutable), il est sa propre documentation.

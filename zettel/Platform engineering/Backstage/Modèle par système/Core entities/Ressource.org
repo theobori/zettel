@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 3D76659D-4C3C-425E-B04A-9BEC43CDDEC9
+:END:
+#+title: Ressource
+
+Les =Resource= sont des infrastructures nécessaires au fonctionnement des [[file:Component.org][Component]].

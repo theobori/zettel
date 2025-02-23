@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: F53C7086-994F-46B9-8A82-1F12589BDB1C
+:END:
+#+title: 2024-07-26
+
+Ajout d'un alias dans la configuration fish.
+
+- Collection de scripts
+  - Refaire README
+  - Arranger le timer
+  - Refactor les arguments CLI
+    - Ajout des arguments "longs"

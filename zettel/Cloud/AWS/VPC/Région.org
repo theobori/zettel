@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 8913309F-8B9A-4FD9-A946-1F78EB9DD41E
+:END:
+#+title: Région
+
+Elément réseau AWS (us, fr, etc.)
+
+En avoir plusieurs peut servir à faire de la très haute disponibilité avec des ressources dans des [[file:Région.org][Région]] différentes par exemple.

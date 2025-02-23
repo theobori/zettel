@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID: 1F7122E7-C4C8-49B0-A987-7ABC2895C5F7
+:END:
+#+title: Trucs stylés
+
+Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
+
+- [[file:http://www.rosaliewagner.com/img/Portfolio_RWagner.pdf.org][http://www.rosaliewagner.com/img/Portfolio_RWagner.pdf]]
+- https://ewalthert.com/
+- Type designer / font engineer
+- https://lock.cmpxchg8b.com/
+- https://lock.cmpxchg8b.com/zenbleed.html
+- https://xkcd.com/
+- https://azeria-labs.com/writing-arm-assembly-part-1/
+- https://www.scummvm.org/
+- nitter (access twitter sans compte)
+- icecat
+- ngrok
+- proxitok
+- [[https://swizec.com/blog/the-wally-reflector/][https://swizec.com/blog/the-wally-reflectoér/]]
+- https://tilde.news/
+- https://webring.xxiivv.com/#icons
+- https://www.punk.ist/
+- https://www.aphrodite.dev/
+- https://oniricorpe.eu/
+- https://cadence.moe/
+- https://lieu.cblgh.org/
+- https://deuxfleurs.fr/
+- https://diataxis.fr/
+- gemini://[[http://unbon.cafe/][unbon.cafe/]]
+- https://www.automario.eu/
+- [[http://chatons.org][chatons.org]]
+- https://3hg.fr/
+- https://cpu.land/
+- [[http://crimethinc.com][crimethinc.com]]
+- je prends note de https://www.marginalia.nu/log/09-system-upgrade/
+- https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/
+- https://www.chapril.org/
+- https://ilinux.fr/fr
+- https://allella.fr/
+- https://stats.chatons.org/index.xhtml
+- [[https://framagit.org/chatons/CHATONS/-/blob/master/docs/Liste_de_conformit%C3%A9_%C3%A0_la_Charte_CHATONS.pdf][https://framagit.org/chatons/CHATONS/-/blob/master/docs/Liste_de_conformité_à_la_Charte_CHATONS.pdf]]
+- https://services.siick.fr/index.html
+- https://cock.li
+- https://git.immae.eu/cgit/
+- https://www.verto.sh/
+- https://hub.docker.com/r/wernight/duplicity/
+- tetragon (security, observability throught eBPF)
+- https://eternal.lol/
+- reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion
+- XDP
+- https://wizardzines.com/
+- https://thephilosophyforum.com/
+- https://3drealms.com/
+- https://universal-blue.org/
+- https://www.torrent.ws/
+- heart of darkness
+- https://frame.work/fr/fr
+- https://www.cachix.org/
+- https://adelfaure.net/tools/jgs/
+- https://mistigris.org/
+- https://gitlab.com/adelfaure/ascii-facemaker
+- https://flowergame.net/
+- https://tamanotchi.world/
+- https://roxwize.xyz/
+- https://leprd.space/
+- https://punkx.org
+- gemini://hd.206267.xyz
+- https://riseup.net/fr
+- https://3ds.hacks.guide/
+- https://selfh.st/apps
+- https://demonic.net
+- Mystic BBS + wiki
+- https://16colo.rs/pack/fire-37/
+- https://animetosho.org/
+- https://osintframework.com/
+- http://blocktronics.org/
+- https://16colo.rs/group/blocktronics
+- https://www.ansilove.org/
+- https://mamot.fr
+- https://docs.polycentric.io/harbor/
+- https://catoonhub.com

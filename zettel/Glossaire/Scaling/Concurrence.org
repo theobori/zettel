@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: A5F6AE9B-0D1E-47F2-A4C9-A81D7B92299E
+:END:
+#+title: Concurrence
+
+C'est la capacité d'un système à permettre plusieurs traitements, plusieurs taches en simultané et partager des ressources.

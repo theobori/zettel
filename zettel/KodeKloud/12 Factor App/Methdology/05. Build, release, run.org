@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: 4D228733-D989-4ACE-939B-FCD1C5B4E143
+:END:
+#+title: 05. Build, release, run
+
+- Strict separation between the following stages
+  - build
+  - release
+  - run

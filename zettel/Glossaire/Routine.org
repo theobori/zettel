@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: D9878F46-B91E-4467-B509-42C71DD9D0E2
+:END:
+#+title: Routine
+
+C'est simplement un bout de code / une séquence d'instructions.

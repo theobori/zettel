@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: D4C6B158-DE9A-4798-BE83-33D12A491DD2
+:END:
+#+title: Groupe de volumes
+
+C'est juste une collection de [[file:Volume physique.org][Volume physique]] utilisé comme une pool de stockage avec du coup la capacité de tous ses [[file:Volume physique.org][Volume physique]].

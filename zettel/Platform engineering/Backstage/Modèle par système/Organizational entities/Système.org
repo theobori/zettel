@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: 5D368B3B-2859-426D-B9A5-AA6AA57DE41E
+:END:
+#+title: Système
+
+Un =System= est une collection d'[[file:../Entity.org][Entity]] qui coopèrent.
+
+#+begin_quote
+[!NOTE]
+
+A system, in this sense, is a collection of resources and components that exposes one or several public APIs.
+
+#+end_quote

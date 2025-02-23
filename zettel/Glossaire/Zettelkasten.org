@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: ED0C9FBD-9AD0-4220-9C6C-805B25D3C3EF
+:END:
+#+title: Zettelkasten
+
+Ca signifie "boîte de notes", c'est une méthode d'organisation des connaissances et de prise de notes.
+
+** Références
+- https://zettelkasten.de/overview/

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: 72B629C8-08FA-4592-BC14-50F9825E9CB8
+:END:
+#+title: Platform engineering
+
+L' art de créer / maintenir des services et des outils qui facilitent la gestion du cycle de vie des applications et le déploiement de ressources.
+
+L' objectif c'est de rendre les développeurs plus autonomes.
+
+#+begin_quote
+Le [[file:../Glossaire/Plateforme.org][Plateforme]] Engineering est l'art de construire et de maintenir des infrastructures, des services et des outils qui permettent l'autonomie des équipes pour le dev et le run des briques logicielles quelles qu'elles soient.
+
+#+end_quote
+
+[[file:../Attachments/Pasted image 20240407104809.png.org][../Attachments/Pasted image 20240407104809.png]]

@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID: 03BFF22D-1E2F-4B09-A3A2-28EA6F78E79A
+:END:
+#+title: Fake bindings
+
+#+begin_src nix
+  fix =
+    f:
+    let
+      result = f result;
+    in
+    result;
+
+pkgs = self: { a = 3; b = 4; c = self.a+self.b; }
+fix pkgsmkLib
+#+end_src
+
+It should be an infinite loop =result = f(f(f(...)))=, but the langage is lazy so it doesnt.
+
+By expansion we obtain.
+
+#+begin_src nix
+result = (self: { a = 3; b = 4; c = self.a + self.b; }) result
+#+end_src
+
+So we can see result as the following.
+
+#+begin_src nix
+result = { a = 3; b = 4; c = result.a + result.b; }
+#+end_src
+
+The final state.
+
+#+begin_src nix
+let
+  result = { a = 3; b = 4; c = result.a+result.b;};
+in
+  { a = 3; b = 4; c = result.a+result.b;}
+#+end_src
+
+** References
+- [[http://r6.ca/blog/20140422T142911Z.html][Fake dynamic binding]]

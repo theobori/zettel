@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: 841024C4-03EA-45C6-A610-0369D8331678
+:END:
+#+title: Sémantique
+
+Etude du sens des unités linguistiques et de leurs combinaisons.
+
+Le sens des mots.
+
+** Contexte
+Originelement, trouvé dans une documentation, le langage [[file:../../NixOS/Nix.org][Nix]] a une [[file:Syntaxe.org][Syntaxe]] et une sémantique particulière.

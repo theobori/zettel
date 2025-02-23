@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 826A2922-81C2-4E43-8793-324C3C51382B
+:END:
+#+title: Prose
+
+Poème qui ne suit aucune règles, il est différent du poème en [[file:../Vers.org][Vers]] libres qui doit être composer obligatoirement de [[file:../Vers.org][Vers]].

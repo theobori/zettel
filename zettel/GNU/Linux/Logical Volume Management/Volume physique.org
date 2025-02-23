@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: FCB26866-CA8C-42F5-84E2-CC735F097B40
+:END:
+#+title: Volume physique
+
+C'est une partition ou un disque désigné pour être utiliser avec [[file:../Logical Volume Management.org][Logical Volume Management]].

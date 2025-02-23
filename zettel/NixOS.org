@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 728D9DB1-F328-4B40-92B2-290EC0C8EEAF
+:END:
+#+title: NixOS
+
+C'est une distribution [[file:GNU/Linux.org][Linux]] déclarative basée sur [[file:NixOS/Nix.org][Nix]].

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: A02882A2-4443-42BF-8191-264BA0440937
+:END:
+#+title: Partition
+
+Plus grand élément réseau d'AWS (aws, aws-cn, aws-us-gov).
+
+Deux partitions différentes ne peuvent pas communiquer entre elles.

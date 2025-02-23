@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 5AF10D43-E4E0-4CBA-8BFB-81972E5080D8
+:END:
+#+title: Syntaxe
+
+C'est l'étude de la combinaison des mots pour former une phrase / un énoncé.
+
+Dans un contexte informatique, la syntaxe dicte la grammaire formelle d'un langage, c'est-à-dire l'agencement des [[file:Lexème.org][Lexème]].

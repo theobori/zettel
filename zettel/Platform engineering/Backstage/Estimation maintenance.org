@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: 70C4729F-9B24-4972-BD68-3DB3EBE3C45D
+:END:
+#+title: Estimation maintenance
+
+Après avoir mis en oeuvre les choses suivantes.
+
+- Plugins installés et configurés
+- Core features paramétrées et comprises
+- Découpage organisationnel
+- Software Template créées et disponibles
+- Solution personnalisées
+- CICD pipeline pour construire les potentielles documentations
+
+Il faut simplement s'assurer que les [[file:Modèle par système/Organizational entities/Utilisateur.org][Utilisateur]] réguliers de la [[file:../../Glossaire/Plateforme.org][Plateforme]] continuent à mettre à jour leur fichier de déclaration d'[[file:Modèle par système/Entity.org][Entity]] et les documentations associées. [[file:Modèle par système/Entity.org][Entity]], auxquelles ils ont accès à coté de leur code source (normalement), dans un dépôt et qu'ils peuvent générer avec les templates.
+
+Spotify recommande d'avoir une personne de l'équipe "infrastructure" qui s'occupe de Backstage.

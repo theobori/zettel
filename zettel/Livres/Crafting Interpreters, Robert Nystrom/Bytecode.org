@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 90C6F863-0958-44B5-B7F4-287275B9E373
+:END:
+#+title: Bytecode
+
+C'est une séquence d'instructions binaires interprétée par une machine virtuelle.
+
+C'est une représentation intermédiaire entre le code source et les instructions machines.

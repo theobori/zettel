@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 56E061EF-2967-4F4C-B5B5-54CF51418966
+:END:
+#+title: UNIX
+
+C'est à l'origine un système d'exploitation.
+
+Ajourdh'ui, c'est désigne une famille de système d'exploitation, ayant en commun, la philosophie, le fonctionnement et yavant une même base de programmes.

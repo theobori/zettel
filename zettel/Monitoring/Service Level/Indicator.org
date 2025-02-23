@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 9EBD755E-C3C1-40B8-9840-1848431C211A
+:END:
+#+title: Indicator
+
+C'est un [[file:../Métrique.org][Métrique]] important utilisé pour établir des [[file:Objective.org][Objective]].

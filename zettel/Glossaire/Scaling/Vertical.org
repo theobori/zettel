@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 0AFC5505-1D74-4DAE-A3EC-D053234781A5
+:END:
+#+title: Vertical
+
+Ajout de ressources sur une même machine.

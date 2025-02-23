@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID: AF419386-A0D3-4FFC-962C-2ECA80359CC9
+:END:
+#+title: Nix
+
+A cross platform package manager and a language. Actually, it is not a package manager, it is a deployment tool used as a package manager. It means it can be used for others stuff, like building container images etc..
+
+- Environments
+  - Imperative
+    - [[file:../Glossaire/Ad hoc.org][Ad hoc]] (nix-shell can provide virtual env)
+  - Declarative
+    - Reproductible
+
+** Advantages
+- Immutables [[file:../NixOS/Nix/Derivation.org][Derivation]]
+- High flexibility
+- Cross [[file:../Glossaire/Plateforme.org][Plateforme]]
+- [[file:../Glossaire/Système déterministe.org][Système déterministe]]
+- Reproductible
+- Easy systems deployment
+- Can be used with cicd pipelines
+
+** References
+- [[https://nixos.org/guides/nix-pills/00-preface][Nix pills]]
+- [[https://nixcloud.io/tour][A tour of Nix]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: F729D767-E45B-4A18-B2DF-6376D5E475E6
+:END:
+#+title: pkg-config
+
+A computer program that offer an unified interface (CLI flags) to query installed libraries.
+
+There are =.pc= files usually located at =/usr/lib/pkg-config=.
+The =pc= extension refers to the pkg-config first letters.

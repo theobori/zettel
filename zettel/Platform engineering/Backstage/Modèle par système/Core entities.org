@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 827B3AC6-3409-4456-AC88-3670D3742793
+:END:
+#+title: Core entities
+
+[[file:../../../Attachments/Pasted image 20250221012141.png.org][../../../Attachments/Pasted image 20250221012141.png]]

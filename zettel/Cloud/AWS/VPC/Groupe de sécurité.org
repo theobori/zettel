@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 36793D87-E7CA-49C9-99F1-CE77893CBA20
+:END:
+#+title: Groupe de sécurité
+
+C'est un firewall.
+
+On peut y ajouter des instances, une instance peut être dans plusieurs groupes de sécurité.

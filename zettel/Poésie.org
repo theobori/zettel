@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: D5888510-65CA-48AD-8DC3-3FC8BF61B5D0
+:END:
+#+title: Poésie
+
+La poésie est un genre littéraire qui utilise le langage pour créer des images, des sonorités, des rythmes et des émotions. [[file:file:Vers.org][Vers]] et [[Forme libre/Prose.org][Prose]] sont permis.
+
+#+begin_quote
+[!NOTE]
+
+Le texte poétique ne vise pas à raconter une histoire comme le ferait le texte narratif. La poésie cherche plutôt à éveiller la sensibilité du lecteur. On reconnaît principalement la poésie par sa forme différente qui témoigne d'une utilisation créative du langage.
+
+#+end_quote

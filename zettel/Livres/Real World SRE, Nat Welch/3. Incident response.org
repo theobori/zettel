@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: 027C923F-D5E9-4CA8-A6C7-23DF726B5ABB
+:END:
+#+title: 3. Incident response
+
+An incident response is a respose to an incident that happens (nothing more).
+
+Most of the time, alerts are set up in function of the [[file:../../Monitoring/Service Level/Objective.org][Objective]] and [[file:../../Monitoring/Service Level/Agreement.org][Agreement]].
+
+- Constant evaluation is needed to make sure that alerts are useful and reacted to correctly.
+- Something cool is to review the past week alerts to evaluate if any change is needed.
+
+Also see [[file:../../Monitoring/ICS.org][ICS]].

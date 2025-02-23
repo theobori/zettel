@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 8ED7C552-5411-474B-9AC5-672606E61610
+:END:
+#+title: Sonnet
+
+L'une des formes poétiques et classiques les plus strictes de la poésie (14 [[file:../Vers.org][Vers]], 2 quatrains, 2 tercets, que des alexandrins, etc..)
+
+La ballade, le haïku, etc..

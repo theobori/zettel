@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID: 6073EB9A-CD37-41F1-8EF3-76938F94417F
+:END:
+#+title: Mécanisme
+
+Il y a plusieurs mécanismes clés de l'[[file:../Internet Protocol.org][Internet Protocol]].
+
+- Le type de Service
+- La durée de Vie
+- Les options
+- La somme de contrôle d'en tête (checksum)
+
+Ci-dessous, un schéma montrant plusieurs protocols réseaux et leur position dans les couches réseau.
+
+#+begin_src sh
++------+ +-----+ +-----+     +-----+
+|Telnet| | FTP | | TFTP| ... | ... |
++------+ +-----+ +-----+     +-----+
+      |   |         |            |
+    +-----+      +-----+     +-----+
+    | TCP |      | UDP | ... | ... |
+    +-----+      +-----+     +-----+
+       |            |            |
+    +--------------------------+----+
+    |   Protocole Internet & ICMP   |
+    +--------------------------+----+
+                  |
+    +---------------------------+
+    | Protocole de réseau local |
+    +---------------------------+
+#+end_src

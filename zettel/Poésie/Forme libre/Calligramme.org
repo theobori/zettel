@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 890B1E68-09D8-4B93-917E-5510B6D72F7B
+:END:
+#+title: Calligramme
+
+Poème dont la disposition graphique forme un dessin.
+
+[[file:../../Attachments/Pasted image 20250222203252.png.org][../../Attachments/Pasted image 20250222203252.png]]

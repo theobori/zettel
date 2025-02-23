@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: D7962D8A-D47E-49FF-8960-858C99D1A3B8
+:END:
+#+title: 12. Admin processes
+
+Every admin tasks must be run in a separate process.

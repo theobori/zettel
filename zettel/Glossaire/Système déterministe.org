@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: 15012368-A192-4119-8E78-120D5BF68DA9
+:END:
+#+title: Système déterministe
+
+Un système déterministe est un système qui réagit toujours de la même façon.
+
+** Contexte
+[[https://youtu.be/0uixRE8xlbY?t=508][Vidéo YouTube]] qui qualifie le build process de Nix comme étant déterministe.

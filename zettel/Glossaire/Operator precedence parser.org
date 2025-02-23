@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID: 021AACC4-5498-47A8-AD18-E60DB195428F
+:END:
+#+title: Operator precedence parser
+
+AC'est un type de parser ([[file:Parsing.org][Parsing]]) basé sur la priorité des opérateurs. Généralement un "Bottom up parser".
+
+[[file:../Attachments/Pasted image 20240630175354.png.org][../Attachments/Pasted image 20240630175354.png]]
+
+** Contexte
+Programmation d'une [[file:../Livres/Crafting Interpreters, Robert Nystrom/Machine virtuelle de bytecode (clox).org][Machine virtuelle de bytecode (clox)]] j'ai utilisé cette technique pour analyser les jetons.
+
+Un exemple de priorité des opérateurs défini sous forme d'énum C:
+
+#+begin_src C
+typedef enum {
+    PREC_NONE,
+    PREC_ASSIGNMENT, // =
+    PREC_OR, // or
+    PREC_AND, // and
+    PREC_EQUALITY, // == !=
+    PREC_COMPARISON, // < > <= >=
+    PREC_TERM, // + -
+    PREC_FACTOR, // * /
+    PREC_UNARY, // ! -
+    PREC_CALL, // . ()
+    PREC_PRIMARY
+} Precedence;
+#+end_src

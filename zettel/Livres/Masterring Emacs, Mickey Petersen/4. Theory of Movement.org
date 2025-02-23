@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID: 4FFD5028-0384-4065-BC87-1CC29E32BB1A
+:END:
+#+title: 4. Theory of Movement
+
+Le but d'Emacs cest darriver à se déplacer de maniere rapide, donc eviter de faire par caractere ou par ligne, qui sont les plus petites unités de mouvement.
+
+Les noms de buffers ont toujours =*= en préfixe et suffixe !
+
+** Type
+Il y a plusieurs types de mouvement dans [[file:Emacs.org][Emacs]]
+
+*** Local
+Dit local quand on opère sur une unité syntaxique (caractère, mot, phrase, expressions, etc.).
+
+*** Regional
+Dit regional quand il est question de définitions fonctione ou de classes entieres.
+
+*** Global
+Dit global quand on change de buffer ou de window.

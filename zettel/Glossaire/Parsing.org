@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 7AF78583-888E-4908-ACE1-57E0F2D338EB
+:END:
+#+title: Parsing
+
+Aussi appelé Analyse de [[file:../Livres/Crafting Interpreters, Robert Nystrom/Syntaxe.org][Syntaxe]] ou analyse syntaxique, c'est l'analyse d'une chaîne de symboles.

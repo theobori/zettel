@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 63DB7663-E816-40D5-A76A-759D5866F910
+:END:
+#+title: Conventions
+
+For constant the =readonly= keyword exists.

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 4E911F51-EA45-45BE-8F2C-2F8DC093BC75
+:END:
+#+title: Agreement
+
+C'est un accord légal publié établit autour des Service Level [[file:Objective.org][Objective]].

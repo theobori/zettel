@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 0E31544D-A18A-4FE7-AFEC-1BA6972C8F7C
+:END:
+#+title: Vers
+
+Un Vers correspond à une ligne.

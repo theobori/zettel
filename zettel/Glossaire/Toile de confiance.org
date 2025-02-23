@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: E063A47F-0897-473B-93A1-05F3AB2BB3F6
+:END:
+#+title: Toile de confiance
+
+C'est une modèle de confiance décentralisé utilisé par PGP.
+Ca permet de vérifer la relation d'une clé publique et d'une identité.
+
+[[file:../Attachments/Pasted image 20240729153244.png.org][../Attachments/Pasted image 20240729153244.png]]
+​## Contexte
+
+Lecture de https://foopgp.org/fr/blog/2023-04-03-lutter-contre-la-polution-informationelle.

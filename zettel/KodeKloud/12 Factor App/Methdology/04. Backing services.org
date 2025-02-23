@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: FED861AC-0B41-47D7-94B5-691A2502C710
+:END:
+#+title: 04. Backing services
+
+- Treat backing services (services de soutien) as attached resources
+  - It should work without changing the app code
+    - We must be able to point our app to another instance of the backing service (as example Redis)

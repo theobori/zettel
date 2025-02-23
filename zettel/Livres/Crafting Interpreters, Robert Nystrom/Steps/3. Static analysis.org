@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: 3BA3A30B-188E-472C-88E5-D7D26830A232
+:END:
+#+title: 3. Static analysis
+
+In this step, we resolve the names, find out where a name is defined, in which scope.
+
+The [[file:../Sémantique.org][Sémantique]] that we see needs to be stored somewhere.
+
+- As attribute in the tree itself
+- In a symbol table

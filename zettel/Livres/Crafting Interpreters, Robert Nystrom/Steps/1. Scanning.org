@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: 687FC240-8C71-4C5D-B2FE-BDD20638B902
+:END:
+#+title: 1. Scanning
+
+Also known as lexing or lexical analysis.
+It takes a linear stream of characters and chunks them into [[file:../Token.org][Token]] (words).

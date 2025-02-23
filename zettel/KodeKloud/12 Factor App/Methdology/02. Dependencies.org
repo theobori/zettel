@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: 372D1F43-84DD-43FE-99DB-7C5E26FCDF3F
+:END:
+#+title: 02. Dependencies
+
+- Explicitly declare
+  - Declare them as code
+- Isolate dependencies
+  - Virtual env, containers, etc.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: AEB5B901-8CE3-4BE5-BA34-2EEA84DB3217
+:END:
+#+title: Log
+
+C'est un enregistrement d'un évènement.
+
+En général, il a la forme d'une timestamp accompagné d'une information à propos de l'évènement.

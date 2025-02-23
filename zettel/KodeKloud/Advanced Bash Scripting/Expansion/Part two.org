@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: 3A84D854-7464-4770-A5B2-CD7E02FA46DA
+:END:
+#+title: Part two
+
+The ={}= characters are used to do brace expansion, see example below.
+
+#+begin_src sh
+touch file{1..10}.txt
+#+end_src
+
+The backticks `` for command substitution is depracated.

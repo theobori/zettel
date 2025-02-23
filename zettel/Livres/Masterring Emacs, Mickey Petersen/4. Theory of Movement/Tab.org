@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: B233EB30-D28B-40EB-A114-B451D6DA6CCB
+:END:
+#+title: Tab
+
+Similaire à un workspace, il regroupe une configuration de [[file:../2. The ways of Emacs/Frame/Window.org][Window]], c'est-à-dire une collection de [[file:../2. The ways of Emacs/Frame/Window.org][Window]]s.

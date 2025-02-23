@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 51C14AFC-4AED-4F08-86E2-780C5A7E59C7
+:END:
+#+title: Plateforme
+
+Environement permettant l'utilisation ou l'accueil de services applicatifs.
+
+Ca peut aussi être un environnement d'exécution, comme une vm par exemple.

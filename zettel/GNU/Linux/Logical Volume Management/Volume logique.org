@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 608A0FEF-DE19-4EAF-88D9-26746F26510A
+:END:
+#+title: Volume logique
+
+Un volume logique représente un périphérique montable. Il repose sur un [[file:Groupe de volumes.org][Groupe de volumes]]. Il peut donc être formater avec un système de fichiers et être monté.

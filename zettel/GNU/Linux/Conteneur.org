@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: 44B30E82-5E2A-46D3-A29C-C7A8A5D5ABD9
+:END:
+#+title: Conteneur
+
+Un conteneur Linux, c'est simplement un process Linux isolé avec des fonctionnalité Linux, comme par exemple les [[file:Conteneur/Namespace.org][Namespace]] et les [[file:Conteneur/Cgroup.org][Cgroup]].
+
+#+begin_quote
+Linux containers are an abstraction on top of a set of features on the Linux kernel to isolate and manage computer processes.
+
+#+end_quote

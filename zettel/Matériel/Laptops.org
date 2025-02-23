@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: B76EB0B2-5BC8-497A-BBC5-E98855C34181
+:END:
+#+title: Laptops
+
+** PC
+- https://frame.work/fr/fr/products/laptop13-diy-intel-ultra-1
+
+** Dock
+- https://plugable.com/products/ud-3900pdz

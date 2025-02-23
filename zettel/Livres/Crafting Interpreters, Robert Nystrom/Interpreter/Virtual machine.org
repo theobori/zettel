@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: F62B0150-4C12-4FE6-BEE5-C06CFCA10B34
+:END:
+#+title: Virtual machine
+
+See [[file:../Machine virtuelle de bytecode (clox).org][Machine virtuelle de bytecode (clox)]]

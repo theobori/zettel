@@ -1,0 +1,157 @@
+:PROPERTIES:
+:ID: 942B592C-2244-4695-A544-BDA3100F36EE
+:END:
+#+title: Machine virtuelle de bytecode (clox)
+
+Notes sur l'avancée de la lecture du 3ème chapitre de [[file:../Crafting Interpreters, Robert Nystrom.org][Crafting Interpreters, Robert Nystrom]].
+
+[[file:../../../Attachments/IMG-20250220222220952.png.org][../../../Attachments/IMG-20250220222220952.png]]
+
+On créer une structure de données dynamique, précisément un tableau dynamique.
+Fonction reallocate pour changer la taille d'un espace mémoire géré par Linux au runtime du programme.
+
+On fait un désassembleur qui va nous permettre de débugger au même titre que la class =AstPrinter= dans le tree walk interpreter. La fonction itère dans le chunk.
+
+On revoit le concepte d'[[file:../../Glossaire/Instruction immédiate.org][Instruction immédiate]].
+
+On fait une sorte de constant pool pour les valeurs litérales dans un programme.
+Certaines constantes doivent être load pour sans servir directement, un exemple ci-dessous.
+
+#+begin_src sh
+print 1;
+print 2;
+#+end_src
+
+[[file:../../../Attachments/IMG-20250220222225719.png.org][../../../Attachments/IMG-20250220222225719.png]]
+
+Ajout d'un système pour associer une ligne à une instruction, pas du tout optimisé en mémoire (taille trop grande par rapport à ce qui est stocké). On a donc réduit l'AST à quelques tableaux dynamiques.
+
+- Challenges réalisés
+  - Optimiser la mémoire en mettant en place le [[https://fr.wikipedia.org/wiki/Codage_par_plages][Codage par plage]].
+  - Passer de 8bits (255) constantes à 24 bits (16777215) constantes.
+
+La [[file:Machine virtuelle de bytecode (clox).org][Machine virtuelle de bytecode (clox)]] est statique dans le code, c'est-à-dire qu'il y a une variable global, il ne peut donc pas y avoir plusieurs VM qui tourne en parallèle, etc..
+
+On initialise un type compose =VM=, qui contient pour l'instant, un chunk et un IP (Instruction Pointer).
+
+#+begin_quote
+/x86, x64, and the CLR call it "IP". 68k, PowerPC, ARM, p-code, and the JVM call it "PC", for program counter./
+
+#+end_quote
+
+On revoit le concepte de [[file:../../../Glossaire/Dispatching.org][Dispatching]].
+
+On va gérer l'éxécution grace à une pile (une VM stack-based).
+On écrit certaines opérations binaires.
+
+#+begin_src C
+#define BINARY_OP(op) \
+do { \
+    double b = pop(); \
+    double a = pop(); \
+    push(a op b); \
+} while (false)
+#+end_src
+
+Le =while= peut sembler bizzare mais il permet d'avoir tous les statements (déclarations) dans le meme scope en évitant des potentielles erreurs de syntaxe.
+
+- Challenges réalisés
+  - Trouver la séquence de bytecode pour un calcul
+  - Ecrire un calcule sans utiliser =OP_NEGATE=, puis sans =OP_SUBSTRACT=
+  - Rendre la stack dynamique
+  - Pour =OP_NEGATE=, directement écrire sur la stack
+
+** Scanner
+On commence la compilation qui comprend plusieurs étapes, la première est le lexing (scan de token).
+
+Pour reconnaître les mot clés réservés, on devrait utiliser un prefix tree (trie), mais l'auteur a préféré regarder la première lettre puis essayer de matcher le reste du mot. Ce qui est très rapide mais pas très élégant.
+
+- Notations
+  - Infix notation -> opérateur entre les opérandes
+  - Postfix notation -> opérateur après les opérandes
+  - Prefix notation -> opérateur avant les opérandes
+
+On utilise le Vaughan Pratt's "top-down operator precedence parsing", considéré comme le meilleur parser ([[file:../../../Glossaire/Parsing.org][Parsing]]).
+
+On ne va pas générer du bytecode à partir d'un AST, on fait un [[file:../../../Glossaire/Single-pass compiler.org][Single-pass compiler]].
+
+On a fait quelques fonctions "helpers" et une structure =Parser= qui contient le jeton d'avant et le current.
+
+On a définie la précédence ("priorité") des expressions.
+
+** Récapitulatif
+Pour récapituler, on a écrit un scanner de jetons géré par le compiler, qui, en fonction des jetons qu'il reçoit ajoute des octets spécifiques dans le chunk, qui lui-même, est évalué par la machine virtuelle basée sur une stack.
+
+Pour implémenter la compilation, c'est-à-dire le [[file:../../../Glossaire/Parsing.org][Parsing]], on a utilisé une technique qui s'apelle le Pratt parsing (voir [[file:../../Glossaire/Operator precedence parser.org][../../Glossaire/Operator precedence parser]]). Les étapes ressemble à ça: - Récupérer un token - Regarder s'il est associé avec une fonction préfixe - Si non -> erreur - Regarder si la priorité du token d'après est plus haute que celle du token current - Tant que c'est le cas - Appeller la fonction infix associé au token current
+
+** Structure interne de valeurs utilisateur
+Les valeur vont être représentées par un couple (tagged union, une size de 16 octets): - enum pour le type de valeur - union pour la valeur elle même
+
+#+begin_src C
+typedef struct {
+    ValueType type;
+    union {
+        bool boolean;
+        double number;
+    } as;
+} Value;
+#+end_src
+
+On ne reflète pas à 100% le code utilisateur à travers les token et les opérations, on construit des séquences d'opérations qui équivaudrait à une seule. On doit donc garder la même sémantique, c'est moins performant mais plus instructif !
+
+On a mis en place la concaténation des chaines de caractères avec un challenge basé sur [[https://en.wikipedia.org/wiki/Flexible_array_member][ce concept]].
+
+** Hash table
+On va implémenter une hash table, le défi est de réduire les collisions.
+Le Load factor est le ratio entre ((nombre entrées remplies) / (nombre entrées totales)
+
+Pour résoudre les collisions, il existe plusieurs méthodes: - Separate chaining - un tableau de liste chainées - Open addressing or Close hashing - une entrée par bucket, ça doit donc chercher un bucket disponible (probing)
+
+On va implémenter la fonction de hash [[http://www.isthe.com/chongo/tech/comp/fnv][FNV-1a]] avec l'Open addressing.
+
+Pour supprimer des entrées avec cette méthode il faudrait tout décaler à chaque fois, pour éviter ça, on utilise une astuce appelée tombstone (pierre tombale), on place des tombes sur les entrées supprimées.
+
+On va assi utiliser une technique appelée "string interning" qui permet de mettre des strings en cache.
+
+** Statements, blocks et variables locales
+Les premières règles de grammaires concernent désormais les statements (déclarations) comme =expressionStatement= ou =printStatement=.
+
+Pour éviter les erreurs en cascades on mis en place un synchronization durant le [[file:../../../Glossaire/Parsing.org][Parsing]].
+
+On implémente les variables globales, elle sont résolues au runtime, ce qui est lent.
+Les variables locales vont être résolues durant la compilation.
+
+Si j'ai bien compris, elles vont être push dans la stack, pour s'y référer on utilisera un index. On va utiliser un décalage de pile pour accéder à ces variables.
+
+C'est plutot smart comme méthode, très rapide et propre. Donc on a fait un tableau statique de =Local= (name + profondeur de scope) dont l'index correspond à celui dans la stack de la VM.
+
+On doit donc implémenter les blocks, les règles de grammaires ressemblent à ça.
+
+[[file:../../../Attachments/IMG-20250220222225789.png.org][../../../Attachments/IMG-20250220222225789.png]]
+
+Déclarer une variable locale -> la variable existe dans le scope
+Définir une variable locale -> la variable peut être utilisée
+
+On va implémenter les déclarations (statements) =if=. Si la condition du =if= n'est pas vraie, on va utiliser des instructions de "JUMP" car on cherche a imiter au mieux les mécanismes d'un vrai CPU.
+
+Quand on émet l'instruction de jump, on ne sait pas encore de quel offset on va devoir se décaler, dont on utilise le =backpatching=. Ça consiste tout simplement à overwrite la valeur immédiate de l'instruction dans le chunk.
+
+Maintenant on fait les opérateurs binaires =and= et =or= qui sont mis en oeuvre de la même manières, c'est-à-dire avec des instructions jump.
+
+Ajout du header de la lib =P99= qui permet d'avoir la taille exact sans le padding de struct pour le flexible array member.
+
+Implémentation des boucles =while= et =for=.
+
+Maintenant on implémente les appels, les fonctions, et les call stack.
+
+L'arity, c'est le nombre d'arguments ou d'opérandes.
+
+On va implémenter les =call frame=. On parle de =frame pointer= ou =base pointer=, qui désigne l'addresse de début de la frame d'un appel de fonction.
+
+[[file:../../../Attachments/IMG-20250220222225831.png.org][../../../Attachments/IMG-20250220222225831.png]]
+
+On a résolue les problèmes d'allocations en ajoutant des niveau d'indirection.
+
+[[file:../../../Attachments/IMG-20250220222225907.png.org][../../../Attachments/IMG-20250220222225907.png]]
+
+On met le top-level code dans une fonction (retourner depuis la compilation) dans une callframe.

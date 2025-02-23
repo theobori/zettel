@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: 635F8A46-9341-49AD-9F04-EDE416E22015
+:END:
+#+title: ICS
+
+Ca signifie Incident Command System, c'est un système selon lequel, la première personne sur la scène d'incident devient décideur et doit déléguer.
+
+Voici un exemple de structure d'ICS.
+
+[[file:../Attachments/75248943ad98412d4891ec0caaa9cf70.png.org][../Attachments/75248943ad98412d4891ec0caaa9cf70.png]]

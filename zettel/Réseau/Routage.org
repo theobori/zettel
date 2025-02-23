@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: FEBAB5C4-BB66-4A43-9D84-818A616B5A36
+:END:
+#+title: Routage
+
+C'est la sélection d'un chemin de la source vers la destination.

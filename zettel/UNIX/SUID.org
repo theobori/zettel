@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 59B9C516-17EE-4786-A637-5ED311FBB72F
+:END:
+#+title: SUID
+
+C'est une permission spéciale, qui, quand appliquée sur un fichier, le rend toujours éxécuté par son utilisateur propriétaire.

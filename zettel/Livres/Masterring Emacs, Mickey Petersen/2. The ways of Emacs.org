@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: A76151F3-8C37-438E-995F-32CB3A62F795
+:END:
+#+title: 2. The ways of Emacs
+
+L'implémentation la plus viable d'Emacs sappelle en réalité [[file:../../GNU.org][GNU]] [[file:Emacs.org][Emacs]].
+
+Pour le customiser il faut écrire du Emacs Lisp (elisp), c'est simplement une implémentation du langage Lisp par Emacs. Emacs est composé a 95% de Lisp et d'environ 5% de C.
+
+*** Killing, Yanking and CUA
+- Killing means cutting
+- yanking means pasting
+- saving to the kill ring means copying
+- CUA -> (IBM) Common User Access
+
+*** Emacs customizations
+La configuration d'Emacs peut s'écrire plusieurs fichier, =.emacs.d=, =init.el=, et =.emacs=.

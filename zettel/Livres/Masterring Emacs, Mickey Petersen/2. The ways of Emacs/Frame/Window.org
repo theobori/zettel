@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: E45A06AB-F6C9-40BF-97CC-F33E14C37381
+:END:
+#+title: Window
+
+Une fenêtre dans Emacs est une portion graphique d'une [[file:file:Frame.org][Frame]], elle sert à visualiser un [[Window/Buffer.org][Buffer]].
+
+En bas de fenêtre, on trouve le nom de [[file:Window/Buffer.org][Buffer]] et le mode.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: 6D9B78DA-32DF-46E2-AEC4-DC3871393750
+:END:
+#+title: Namespace
+
+Une fonctionnalité Linux qui permet de limiter ce qu'un process Linux peut voir.
+Comme par exemple, le nom d'hôte, les PIDs, les [[file:../../../Glossaire/Interface.org][Interface]] réseaux, etc.

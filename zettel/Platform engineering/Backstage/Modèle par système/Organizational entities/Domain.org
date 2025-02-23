@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 9E1EED21-58B5-4B2E-9B13-9A73B0FE795A
+:END:
+#+title: Domain
+
+Un =Domain= est un groupe de collections de [[file:Système.org][Système]].

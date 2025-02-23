@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 9ADF837E-15EC-49CE-8D8C-4489EB24B327
+:END:
+#+title: DHCP
+
+Ca signifie Dynamic Host Configuration Protocol, ça sert à éviter de gérer les adresse [[file:Internet Protocol.org][Internet Protocol]] à la main (c'est très utile).

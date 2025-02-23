@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: A356F6CB-BCBE-492F-B582-7C1646DFD5D1
+:END:
+#+title: Enregistrement
+
+C'est un ensemble d'instruction utilisées pour associer les noms de domaines aux adresse [[file:../../Internet Protocol.org][Internet Protocol]].

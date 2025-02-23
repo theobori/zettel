@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: 674314D8-A109-4704-98A8-60391D1AC6BF
+:END:
+#+title: Glob
+
+Globs are characters that represent a string model.
+
+- =?= means any single character.
+- =*= means any string.
+- =\= is the escape character.
+- =[]= characters are used to enclose a pattern used to match expressions, an example could be =[a-c]=.

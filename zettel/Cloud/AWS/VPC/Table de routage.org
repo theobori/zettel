@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 043D033C-62C1-4B33-9B5D-D4D692035F3D
+:END:
+#+title: Table de routage
+
+Yen a plusieurs, par [[file:../VPC.org][VPC]], par subnets, pour que tous les subnet dans un meme [[file:../VPC.org][VPC]] puissent communiquer entre eux.

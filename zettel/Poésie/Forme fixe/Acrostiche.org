@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: EE591FBF-5232-442B-9B1E-7FF886136B32
+:END:
+#+title: Acrostiche
+
+Poème dont les premières lettre de chaque [[file:../Vers.org][Vers]] forment un mots si on les lit à la verticale.

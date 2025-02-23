@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 118F5D52-04B2-4DCB-B6D9-58EB282E3940
+:END:
+#+title: Mark
+
+C'est un marqueur utilisé pour créer une sélection entre le [[file:Point.org][Point]] et lui-même. Les deux positions représentent les limites d'une région (sélection).

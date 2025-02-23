@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 1D78A7EB-112B-44D9-B375-BFF41599C9FF
+:END:
+#+title: Point
+
+C'est simplement le curseur, c'est-à-dire la position actuelle dans un [[file:../Buffer.org][Buffer]].

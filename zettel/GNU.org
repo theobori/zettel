@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 3D7F9C78-FA20-4367-8939-7DB7359CAF1B
+:END:
+#+title: GNU
+
+GNU signifie GNU's Not [[file:UNIX.org][UNIX]].
+
+C'est un système d'exploitation développé par Richar Stallman, il reprend le fonctionnement d'[[file:UNIX.org][UNIX]].

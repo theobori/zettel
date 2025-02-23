@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: BC7D40FB-16D2-47B1-8CD8-E81DDA0082CF
+:END:
+#+title: URI, URL, URN
+
+** URI
+Ca signifie Uniform Resource Identifier. C'est une technologie de base du World Wide Web.
+
+L'URI identifie une ressource réseau, sa syntaxe est basée sur les spécificités [[file:../Réseau/Internet Protocol.org][Internet Protocol]] (certaines rfc). Peut être de type « locator » ou « name » ou les deux.
+
+** URL
+Ca signifie Uniform Resource Locator.
+
+** URN
+Ca signifie Uniform Resource Name

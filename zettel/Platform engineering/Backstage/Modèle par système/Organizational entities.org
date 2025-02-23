@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: 04036107-2BE4-495F-9C58-87BEA98983EB
+:END:
+#+title: Organizational entities
+
+Ci-dessous, un schéma représentant le fonctionnement global de l'écosystème.
+[[file:../../../Attachments/Pasted image 20250221012234.png.org][../../../Attachments/Pasted image 20250221012234.png]]

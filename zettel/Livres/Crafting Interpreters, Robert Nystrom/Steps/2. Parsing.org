@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: F7E6F0B2-2F68-48F2-9E78-DCEC3A054663
+:END:
+#+title: 2. Parsing
+
+See [[file:../../../Glossaire/Parsing.org][Parsing]].
+
+In this step, we take the flat sequence of [[file:../Token.org][Token]] and builds a tree structure that represent the nested nature of the grammar. We call this kind of tree, a syntaxic tree.

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 9002C0AC-846F-43AF-B6BA-A4AC4342A25B
+:END:
+#+title: Minor
+
+C'est un [[file:../Mode.org][Mode]] optionnel, qu'on peut qualifier d'addon.

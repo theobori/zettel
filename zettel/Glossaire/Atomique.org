@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 52F6D410-01ED-40E9-8DA3-472AB9280D25
+:END:
+#+title: Atomique
+
+Se dit d'opérations considérées comme indivisibles.
+
+Par exemples, les [[file:Transaction.org][Transaction]] sont atomiques.

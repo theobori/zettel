@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 298E34F7-8309-4580-84E0-332575C0F4B0
+:END:
+#+title: Analyse d'un langage (BNF)
+
+** Introduction
+Le projet de base est de faire un parser pour la notation [[file:../Glossaire/Forme de Backus-Naur.org][Forme de Backus-Naur]] (BNF), ce fichier regroupe les notes nécessaires pour avoir une bonne compréhension des concepts et des techniques utilisés.
+
+** Notes
+Par analyse d'un langage, on entend donc [[file:../Glossaire/Parsing.org][Parsing]] d'un langage.
+
+[[file:../Attachments/Pasted image 20240630175354.png.org][../Attachments/Pasted image 20240630175354.png]]
+Sur l'image on voit plusieurs approches/techniques de parsing.
+
+** Étapes du projet
+1. Découper en tokens.
+   1. Définir les tokens du langage BNF
+   2. Faire le lexer
+   3. Récupérer une liste de tokens
+2. Faire le parser
+   1. Trouver la grammaire formelle du langage BNF (règles de syntaxe)
+   2. Faire un parser qui vérifie ces règles
+   3. Récupérer un arbre syntaxique
+3. Print l'arbre
+   1. Faire une méthode accept avec en parametre un objet Visitor
+   2. Faire la classe Visitor
+   3. Créer une classe basées sur Visitor qui print l'arbre
+
+** Termes essentiels
+Il est important de comprendre les termes suivants.
+
+- [[file:../Livres/Crafting Interpreters, Robert Nystrom/Syntaxe.org][Syntaxe]]
+- [[file:../Livres/Crafting Interpreters, Robert Nystrom/Sémantique.org][Sémantique]]
+- [[file:../Glossaire/Forme de Backus-Naur.org][Forme de Backus-Naur]]
+- [[file:../Glossaire/Parsing.org][Parsing]]
+- [[file:../Glossaire/Récursivité.org][Récursivité]]

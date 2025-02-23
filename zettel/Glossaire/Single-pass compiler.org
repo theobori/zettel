@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: AE128EB0-9E88-4355-A65A-032A87BBAE63
+:END:
+#+title: Single-pass compiler
+
+C'est un compiler qui n'a pas d'étapes intermédiaires comme faire un AST, il converti directement les unité de compilations en [[file:../Livres/Crafting Interpreters, Robert Nystrom/Bytecode.org][Bytecode]] depuis le parser.
+
+** Contexte
+Ecriture d'un single-pass compiler, voir [[file:../Livres/Crafting Interpreters, Robert Nystrom/Machine virtuelle de bytecode (clox).org][Machine virtuelle de bytecode (clox)]].

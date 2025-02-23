@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: E34C3D03-BFF1-4C05-869C-B8AA25F869B1
+:END:
+#+title: Nixpkgs
+
+Git repository containing every Nix expressions. It can be derivations, modules, library, etc.

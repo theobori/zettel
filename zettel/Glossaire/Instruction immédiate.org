@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: C3C177AA-80D2-4438-90F0-2C9281DEC785
+:END:
+#+title: Instruction immédiate
+
+C'est une instruction (opcode) avec directement après, la valeur, c'est pour les types à petite taille fixe.

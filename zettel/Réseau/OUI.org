@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 66C561D4-FC76-4437-BD20-84D10B3E6084
+:END:
+#+title: OUI
+
+Ca signifie Organizationally Unique Identifer, ça sert à identifier le matériel, représenté par les trois premiers octets de ladresse [[file:MAC.org][MAC]].

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 45E05BEB-AE7D-4950-81A9-228999643874
+:END:
+#+title: Tree-walk
+
+Evaluate traversing the [[file:../Syntaxe.org][Syntaxe]] tree one branch and leaf at a time.

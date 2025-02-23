@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 66AB81C8-176F-49E5-95FF-1A41E60161B5
+:END:
+#+title: Utilisateur
+
+Simplement un utilisateur de la [[file:../../../../Glossaire/Plateforme.org][Plateforme]] [[file:../../../Backstage.org][Backstage]].

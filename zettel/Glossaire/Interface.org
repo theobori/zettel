@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: 280F9887-EA3F-41BE-93EB-409E86B5603B
+:END:
+#+title: Interface
+
+Une interface est une frontière de communication à travers laquelle deux ou plusieurs entités interagissent entre elles.
+
+Le comportement interne d'affecte pas l'utilisation externe.
+
+Par exemple, dans le contexte de la programmation, avec un langage orienté objet, une classe communique en général à travers une interface avec d'autres composants du programme.

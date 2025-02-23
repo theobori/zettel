@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: DCAE724B-765F-46E7-9EA0-71E3DB8B7138
+:END:
+#+title: Streams
+
+Basics informations about how output redirections, into files, into other stdin, etc.
+
+#+begin_src sh
+exec3<> <(input) >(output)
+
+- close -> exec 3>&-
+- open exec 3> file.txt OR exec 3<> file.txt, etc.
+#+end_src

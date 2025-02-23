@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: A97DDA45-CD38-43D7-BD24-5B76B94B4088
+:END:
+#+title: Linux
+
+GNU Linux est un système dexploitation [[file:../UNIX.org][UNIX]] basé sur Linux qui comprend des logiciels écrit par le projet [[file:../GNU.org][GNU]] (gcc, tar, sed, etc.).

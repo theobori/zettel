@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: A65469C8-D4E5-4D5B-BA1A-0CC03A2B39AD
+:END:
+#+title: Ingénierie
+
+Ensemble des fonctions qui mènent de la conception à la mise en service (production).

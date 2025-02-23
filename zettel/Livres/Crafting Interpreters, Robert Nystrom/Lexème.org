@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: D3789FC2-13CC-4CBB-856F-4DCB9D4FEE66
+:END:
+#+title: Lexème
+
+C'est une unité de sens lexicale qui "sous-tend" un ensemble de mots liés entre eux par flexion.
+
+Par exemple, le lexème MARCHER regroupe "marche", "marchons", etc.

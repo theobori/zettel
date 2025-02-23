@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: ED30DA8C-CBA3-4730-B6D6-E80B89F964E9
+:END:
+#+title: Claviers
+
+- [[https://www.hhkeyboard.com/fr/products/classic][hhkb]]
+- [[https://www.diatec.co.jp/en/list.php?s%5B%5D=100:1001:0&s%5B%5D=120:1109:0][Filco]]
+- [[https://www.ikbc.com.tw/%E5%89%AF%E6%9C%AC-cd87hr][ikbc]]
+- [[https://www.realforce.co.jp/en/products/index_master_win.html][Realforce]]
+- [[https://system76.com/accessories/launch][System76]]
+- [[https://iqunix.com/products/nature-80][Nature 80]]
+- [[https://iqunix.store/collections/iqunix-x-little-prince][Little Prince]]

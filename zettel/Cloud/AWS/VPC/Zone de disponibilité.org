@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 8C6D9D7F-4811-4D98-9FD2-264DA537CE90
+:END:
+#+title: Zone de disponibilité
+
+C'est une centre de données isolé dans une [[file:Région.org][Région]] AWS.

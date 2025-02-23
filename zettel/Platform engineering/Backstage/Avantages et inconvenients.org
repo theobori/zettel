@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID: E2ED0F0B-CF2C-4E65-83C8-55D393DD4B71
+:END:
+#+title: Avantages et inconvenients
+
+** Avantages
+- Plugin intéressants:
+  - GitLab pour voir pipelines, mr, et autres
+  - Vault visualiser
+  - k8s
+  - tous ceux builtins
+- Intégration Entra ID avec l'API microsoft graph
+- Tres bonne documentation + complète
+- Tout un tas de crd k8s
+- auth / identité avec azure
+- C'est un moyen de mieux comprendre les programmes et leur relations
+- Intéragir facilement avec les outils internes depuis l'interace
+- Très extensible
+- Permettra de démarrer des projets très très facilement avec des templates CI et des template d'entities (components/API)
+
+** Inconvenients
+- Pas déployable depuis rancher ?
+- La solution est très customisable mais très complexe à configurer
+- La plupart des configurations ne sont réalisables qu'en changeant directement le code de Backstage ou au mieux fichier yaml de config / CRD

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 6D7F10B0-8EB3-4D7B-880F-F41538189A73
+:END:
+#+title: Forme de Backus-Naur
+
+C'est une notation qui décrit des règles de [[file:../Livres/Crafting Interpreters, Robert Nystrom/Syntaxe.org][Syntaxe]] des langages informatiques.
+
+C'est un métalanguage (langage qui décrit un language).

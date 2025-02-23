@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 77327678-D83B-4232-9254-D60251B9C3D0
+:END:
+#+title: GUID
+
+C'est une permission spéciale, qui, quand appliquée sur un fichier, le rend toujours éxécuté par son groupe propriétaire.

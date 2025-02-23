@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 5A4C17BE-1A3E-4067-9588-D05E494C3A7F
+:END:
+#+title: Dispatching
+
+Aussi appellé "dispatching", c'est l'action de fetch un opcode et d'éxécuter une [[file:Routine.org][Routine]] (un morceau de code) qui correspond à ce dernier.

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 7717EA1D-5352-4215-86B4-77D5EA5F5125
+:END:
+#+title: Strophe
+
+Une Strophe correspond à un paragraphe (groupe de [[file:Vers.org][Vers]]).

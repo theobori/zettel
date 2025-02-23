@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 8F75E2B2-EF66-40E5-9166-E8523A73008A
+:END:
+#+title: drv file
+
+The =.drv= file is specification about how to build the derivation. It is an intermediate file like the =.o= files, a =.nix= would be like =.c= files.

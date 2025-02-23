@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: 370C4238-C5F7-4E9F-947B-56CFE4F63F37
+:END:
+#+title: 2. Monitoring
+
+Usefule reminders of import keywords.
+
+- [[file:../../Monitoring.org][Monitoring]]
+- [[file:../../Monitoring/Black box.org][Black box]]
+- [[file:../../Monitoring/White box.org][White box]]
+- [[file:../../Monitoring/Service Level/Indicator.org][Indicator]]
+- [[file:../../Monitoring/Service Level/Objective.org][Objective]]
+- [[file:../../Monitoring/Service Level/Agreement.org][Agreement]]
+
+Push applications are the inverse of pull applications, the service writes data to the monitoring application.

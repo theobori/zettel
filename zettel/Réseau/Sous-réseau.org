@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID: FD535B27-F2C6-4C3F-96B6-2B73E9B8BBFC
+:END:
+#+title: Sous-réseau
+
+C'est une sous-division logique d'un réseau [[file:Internet Protocol.org][Internet Protocol]].
+
+#+begin_quote
+Historiquement, on appelle également /sous-réseau/ chacun des réseaux connectés à Internet.
+
+#+end_quote
+
+[[file:../Attachments/Pasted image 20250221145315.png.org][../Attachments/Pasted image 20250221145315.png]]
+
+** Masque
+Un masque de sous-réseau est un masque distinguant les [[file:https://fr.wikipedia.org/wiki/Bit][bits]] d'une adresse [[Internet Protocol.org][Internet Protocol]] utilisés pour identifier le sous-réseau de ceux utilisés pour identifier l'hôte.

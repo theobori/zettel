@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 9F84575F-C560-4599-A5BF-39EFD1C96843
+:END:
+#+title: Mode
+
+Un mode est un ensemble de comportements qui affectent un [[file:Frame/Window/Buffer.org][Buffer]].

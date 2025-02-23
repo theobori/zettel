@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID: 2410F918-C59D-4D99-BF4A-E22268D4DD17
+:END:
+#+title: Gaspar Noé
+
+Films de Gaspar Noe triés du meilleur au pire d'après [[https://www.senscritique.com/][SensCritique]].
+
+- [X] [[https://www.senscritique.com/film/irreversible/404334][Irréversible (2002)]]
+- [X] [[https://www.senscritique.com/film/climax/32119805][Climax (2018)]]
+- [ ] [[https://www.senscritique.com/film/enter_the_void/392634][Enter the Void (2010)]]
+- [ ] [[https://www.senscritique.com/film/seul_contre_tous/486540][Seul contre tous (1999)]]
+- [X] [[https://www.senscritique.com/film/love/11267022][Love (2015)]]
+- [X] [[https://www.senscritique.com/film/lux_aeterna/39439079][Lux Æterna (2019)]]
+- [ ] [[https://www.senscritique.com/film/carne/497799][Carne (1991)]]
+- [ ] [[https://www.senscritique.com/film/vortex/44883053][Vortex (2021)]]
+- [X] [[https://www.senscritique.com/film/irreversible_inversion_integrale/39759737][Irréversible (Inversion intégrale) (2020)]]
+- [ ] [[https://www.senscritique.com/film/sodomites/408047][Sodomites (1998)]]
+- [ ] [[https://www.senscritique.com/film/placebo_protege_moi/15773059][Placebo: Protège-moi (2003)]]
+- [ ] [[https://www.senscritique.com/film/sebastian_love_in_motion/373366][SebastiAn: Love in Motion (2012)]]
+- [ ] [[https://www.senscritique.com/film/arielle_je_suis_si_mince/23372506][Arielle - Je suis si mince (1999)]]
+- [ ] [[https://www.senscritique.com/film/eva/429835][Eva (2005)]]
+- [ ] [[https://www.senscritique.com/film/une_experience_dhypnose_televisuelle/395982][Une expérience d'hypnose télévisuelle (1995)]]

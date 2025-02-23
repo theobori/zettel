@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: 83C16026-A33C-4BDF-A9E7-A2E1E697AD30
+:END:
+#+title: Special shell variables
+
+- The =IFS= (Internal Field Separator) variable is used to separate words in strings.
+- =$$= evaluates to the parent PID
+- =$!= evaluates to the last executed command PID
+- =$_= evaluates to the last argument used
+- =$-= evaluates to the current shell options
+
+A good practice is to surround these special variables with double quotes.

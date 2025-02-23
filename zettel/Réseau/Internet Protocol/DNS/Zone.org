@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: C7D4819E-51DC-4ECD-A35F-092A9C309A67
+:END:
+#+title: Zone
+
+C'est un fichier contenant les [[file:./Enregistrement.org][Enregistrement]] [[file:../DNS.org][DNS]].

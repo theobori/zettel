@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: C8220502-CF6A-455D-9EF3-325701F76BAA
+:END:
+#+title: Privé
+
+Tout ce qui n'a pas besoin d'accéder à internet, des trucs internes (backend, etc.), un databases, etc.

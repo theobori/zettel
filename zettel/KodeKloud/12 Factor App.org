@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: F968036B-0359-4CFB-B190-08884222720D
+:END:
+#+title: 12 Factor App
+
+- Quelques rappels
+  - Scaling [[file:../../Glossaire/Scaling/Vertical.org][Vertical]]
+  - Scaling [[file:../../Glossaire/Scaling/Horizontal.org][Horizontal]]
+  - [[file:../../Glossaire/Scaling/Concurrence.org][Concurrence]]
+
+The goal is to build an application that is scable, resilient and easy to manage. Itis a set of best practices but also a mindset.

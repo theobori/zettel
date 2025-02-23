@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 6250C5E6-C4CB-40D6-B277-54073B3E537E
+:END:
+#+title: Component
+
+Ce sont des éléments individuels du logiciel.
+
+Les =Component= peuvent implémenter des APIs et les utiliser.

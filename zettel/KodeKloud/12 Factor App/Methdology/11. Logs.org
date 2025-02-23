@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: 070ACC53-F7B1-497D-ABDD-ABA50720280D
+:END:
+#+title: 11. Logs
+
+- Store logs in a centralized location in a structured format
+- The app must write all logs to stdout
+
+[[file:../../../../Attachments/Pasted image 20240410211441.png.org][../../../../Attachments/Pasted image 20240410211441.png]]

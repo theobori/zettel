@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 0220DD8F-78EE-4514-B33A-3C084D3B3B4D
+:END:
+#+title: Store
+
+A place where [[file:Derivation.org][Derivation]] are stored, usually the =/nix/store= local folder, synced with a sqlite database. Manipulating the Nix store by hand is a bad practice, it would no longer be synced with the database.

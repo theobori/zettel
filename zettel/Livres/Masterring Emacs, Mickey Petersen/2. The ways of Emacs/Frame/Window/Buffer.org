@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: 9FCC964E-51C8-4FA3-8B42-AE5885D8C9FF
+:END:
+#+title: Buffer
+
+Emacs utilise des buffers, ce sont simplement des espaces mémoire gérés par Emacs.
+
+Tous les fichiers sont des buffers, mais tous les buffers ne sont pas des fichiers.
+
+On peut utiliser ces buffers pour par exemple communiquer avec dautres process (device i/o).

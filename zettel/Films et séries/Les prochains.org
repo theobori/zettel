@@ -1,0 +1,97 @@
+:PROPERTIES:
+:ID: 9C021A47-7C16-4EF7-9E3E-3C4C2B616BE9
+:END:
+#+title: Les prochains
+
+Listes non exhaustives des films vus et à voir.
+
+** Récents
+- [X] Poor things
+- [X] Nos étoiles contraires
+- [X] Anatomie d'une chute
+- [X] American Fiction
+- [X] Killer of the flower moon
+- [X] Napoleon
+- [X] Oppenheimer
+- [X] The creator
+- [X] Maestro
+- [X] Everything Everywhere All At Once
+- [X] Past lives
+- [X] Barbie
+- [X] Lady bird
+- [X] Parasite (revoir)
+- [X] Whiplash (revoir)
+- [X] A Silent Voice
+
+*** Horreur
+- [X] The ring
+- [X] Hereditary
+- [X] Speak no evil (revoir)
+- [X] Raw
+- [X] Psychose
+- [X] The bay
+- [ ] Freddie krueger
+- [ ] The descent
+- [ ] Donnie darko
+- [X] Vermines
+- [X] Cloverfield
+- [X] Sorgoi Prakov
+- [ ] The house
+- [ ] Afflicted
+- [X] VHS
+- [ ] Phoenix Forgotten
+- [ ] Butterfly Kisses
+- [ ] Lake Mungo
+- [ ] Revoir Blair Witch (2016)
+
+*** A voir absolument
+- [X] La Ligne Verte
+- [X] La La Land
+- [X] Retour vers le futur (revoir)
+- [X] Forrest gump
+- [X] E.T
+- [X] Titanic
+- [X] N'oublie jamais
+- [X] American history X
+- [X] Pretty woman
+- [X] Pulp fiction
+- [X] Extrêmement fort et incroyablement loin
+- [X] La vie rêvée de walter mitty
+- [X] Fight club
+- [ ] Rain man
+- [ ] Maman j'ai raté l'avion
+- [X] Le parrain
+- [X] Birdman
+- [ ] Scarface
+- [X] Shining
+- [X] Orange mechanique
+- [ ] Citizen kane
+- [ ] La haine
+- [ ] Les nouveaux sauvages
+- [ ] Le cinquième élement
+- [ ] Mange, prie, aime
+- [ ] mad max
+- [X] Full metal jacket
+- [ ] Edward aux mains d'argent
+- [ ] Requiem for a dream
+- [ ] Kill bill 1 (revoir)
+- [ ] Kill bill 2 (revoir)
+- [X] La vie d'adèle
+- [ ] Le silence des agneaux
+- [ ] Elephant
+- [ ] Sixième sens
+- [ ] 120 battements par minute
+- [X] Gladiator
+- [ ] Le bon, la brute et le truand
+  - [ ] pour une poigné de dollar
+    - [ ] quelque dollars de plus
+- [X] Les affranchis
+- [X] Your name
+- [X] Green book
+- [ ] Million dollar baby
+- [ ] Elephant man
+- [ ] Les petits mouchoirs
+
+** Séries
+- [X] Wrong side of the tracks
+- [ ] [[file:LOTR Rings of Power.org][LOTR Rings of Power]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: 2B529B52-543F-46E1-A4DC-53C6A69B546D
+:END:
+#+title: Transaction
+
+C'est une séquence d'opérations exécutées comme une seule unité logique de travail. Elle doit posséder les propriétés ACID ([[file:Atomique.org][Atomique]] (atomicité), Cohérence, Isolation, Durabilité).
+
+Si une seule opération échoue, toutes les autres échouent aussi.
+
+Donc Il n'y a que 2 états finaux possible:
+
+- Toutes les opérations ont réussies
+- Toutes les opérations ont échouées

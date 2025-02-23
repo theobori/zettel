@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 199E4BA0-5122-42D3-8540-36A74CA5F5BD
+:END:
+#+title: Programming binding
+
+La liaison de quoi ? La liaison d'un nom avec sa valeur, d'un objet avec ses méthodes, etc...
+
+La liaison statique fonctionne au moment de la compilation et offre de meilleures performances.
+La liaison dynamique fonctionne pendant l'exécution et est plus flexible.
+
+Par exemple, dans un langage orienté objet, les fonctions virtuelles et donc les interfaces sont un concept qui correspond à la liaison dynamique, car les décisions de liaisons sont prises au runtime.
+
+** Contexte
+Le bindind de [[file:../NixOS/Nix.org][Nix]] qui est statique.

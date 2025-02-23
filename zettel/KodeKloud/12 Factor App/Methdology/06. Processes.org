@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: B6B44780-44AC-4EC9-B5FD-7B326DE24A71
+:END:
+#+title: 06. Processes
+
+Processes are stateless and share-nothing.
+
+[[file:../../../../Attachments/Pasted image 20240410200630.png.org][../../../../Attachments/Pasted image 20240410200630.png]]

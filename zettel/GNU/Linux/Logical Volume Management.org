@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID: 0F0A4ECC-2298-4148-809B-4241FA1A79F8
+:END:
+#+title: Logical Volume Management
+
+Ca signifie Logical Volume Management, c'est un logiciel de gestion des espaces de stockage, principalement utilisé sur les systèmes UNIX.
+
+[[file:../../Attachments/Pasted image 20250221151117.png.org][../../Attachments/Pasted image 20250221151117.png]]
+
+** Comparaison
+| LVM                                                           | Disk Partitioning System |
+|---------------------------------------------------------------+--------------------------|
+| [[file:Logical Volume Management/Volume logique.org][Volume logique]]   | Partition                |
+| [[file:Logical Volume Management/Volume physique.org][Volume physique]] | Disque                   |
+
+** Références
+- https://linuxhandbook.com/lvm-guide/
+- Manuels Linux

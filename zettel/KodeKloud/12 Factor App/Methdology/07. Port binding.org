@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 594719A5-417A-4D6E-A39C-4E208953C5BA
+:END:
+#+title: 07. Port binding
+
+The app must be self-contained (autonome) and must not rely on a specific web server.

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: 47DEDBC0-493B-4DC9-99CC-D78ADF06C814
+:END:
+#+title: index
+
+This website is the public [[file:Glossaire/Zettelkasten.org][Zettelkasten]] of [[https://theobori.cafe][Théo Bori]], where I write down things I learn and find interesting. Some notes are written in English, but the overwhelming majority are written in French.
+
+Not all notes are IT-related!
+
+The notes are managed from the [[file:Livres/Masterring Emacs, Mickey Petersen/2. The ways of Emacs/Mode.org][Mode]] Org of [[file:./GNU.org][GNU]] [[file:Livres/Masterring Emacs, Mickey Petersen/Emacs.org][Emacs]] from a [[file:NixOS.org][NixOS]] machine.

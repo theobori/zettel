@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 3CFB9A3E-AD03-42B0-A1DE-BEE90A06C0C7
+:END:
+#+title: Token
+
+C'est une unité utilisé dans l'analyse de texte, on peut le voir comme une occurence concrète des mots dans un texte.
+
+Par exemple, "marche" et "marchons" sont deux tokens différents mais appartiennent au même [[file:Lexème.org][Lexème]] MARCHER.

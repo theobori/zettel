@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: CE7FFF66-6911-4E99-AF41-EC7909DB3418
+:END:
+#+title: Part one
+
+An example of substitution [[file:../Expansion.org][Expansion]].
+
+#+begin_src sh
+path="/home/user/file.txt"
+echo "${path/file/data}"
+#+end_src
+
+Pattern matching works for substituting.
+
+The =##= in an [[file:../Expansion.org][Expansion]] context will remove until the last prefix occurence.

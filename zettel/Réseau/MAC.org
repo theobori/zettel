@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: D47AE7C1-6287-4E0E-9697-E05055AB1D42
+:END:
+#+title: MAC
+
+Ca signifie Media Acces Control, une adresse [[file:file:MAC.org][MAC]] sert à identifier du matériel réseau, tandis qu'une adresse [[Internet Protocol.org][Internet Protocol]] est côté logiciel.

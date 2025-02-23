@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: DABC7ABD-91B3-418D-88FA-C27D7268B133
+:END:
+#+title: Cgroup
+
+Une fonctionnalité Linux qui permet de limiter l'utilisation de certaines ressources par un process Linux.
+Comme par exemple, l'utilisation du CPU, de la RAM, i/o stockage et réseau.

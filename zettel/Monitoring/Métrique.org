@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: EF6A6E1F-B700-4C2A-904C-FC47A659239D
+:END:
+#+title: Métrique
+
+C'est une information sous la forme d'une valeur numérique, une mesure.

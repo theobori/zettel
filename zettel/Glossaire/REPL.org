@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: 035C36D2-36FA-49A3-AA57-0B65ABCCF7BE
+:END:
+#+title: REPL
+
+Ca veut dire Read Eval Print Loop.
+
+C'est simplement un boucle qui permet d'évaluer/interpréter des expressions d'un langage.
+
+** Contexte
+Lu une première fois dans [[file:../Livres/Crafting Interpreters, Robert Nystrom.org][Crafting Interpreters, Robert Nystrom]], puis dans la documentation de [[file:../NixOS/Nix.org][Nix]] pour le langage [[file:../NixOS/Nix.org][Nix]].

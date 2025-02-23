@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 14126DAA-5636-4378-92D4-313E65134072
+:END:
+#+title: White box
+
+C'est une type de [[file:../Monitoring.org][Monitoring]] où les outils savent tout, où ils ont plus de contexte sur l'application monitorée.

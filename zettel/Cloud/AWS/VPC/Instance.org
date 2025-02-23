@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 870D7718-F2BE-4BFB-ACE8-69EB21F7EA0F
+:END:
+#+title: Instance
+
+C'est simplement une machine ou une VM.

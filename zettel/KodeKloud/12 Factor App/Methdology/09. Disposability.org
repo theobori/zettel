@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: 88B7BFDD-0BCA-476D-9EAB-94D31137DCF1
+:END:
+#+title: 09. Disposability
+
+- It means, the app can be started and stopped at any moment
+- The app should shutdown gracefully when receiving a SIGTERM signal from the process manager

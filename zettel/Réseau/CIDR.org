@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 3105B5BF-25AA-47F8-A48E-AA2799708BB9
+:END:
+#+title: CIDR
+
+C'est simplement un format pour représenter un masque de [[file:Sous-réseau.org][Sous-réseau]]

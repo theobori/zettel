@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 27424ACB-4F17-49C1-9F6A-5A98DDCB6DB6
+:END:
+#+title: Dur
+
+C'est un pointeur vers [[file:../Inode.org][Inode]].

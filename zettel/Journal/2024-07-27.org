@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID: 0700700C-C37B-4040-9750-9E9EFAC2954F
+:END:
+#+title: 2024-07-27
+
+J'ai payé contabo pour le vps.
+J'ai appliqué certaines bonne pratiques Nix sur mon module Python =callviz=.
+
+Déclarer un flake Nix pour mon dépot GitHub =scripts-collection=.
+Le but est d'avoir un environnement de développement immuable et 100% fonctionnel pour utiliser tous les scripts. Il faut aussi écrire une derivation Nix qui pourra être construite et utilisée dans d'autres dérivations.
+
+J'ai fixé =sc-colors= car la couleur du terminal ne se réinitialisait pas.
+Le nix flake est fini.
+
+Je documente l'exporter Prometheus que j'avais fait pour Teeworlds, une liste des metrics avec leur description suffira.
+
+Le README a été modifié localement et sur le dépot distant.
+
+Je continue la lecture de [[file:../Livres/Crafting Interpreters, Robert Nystrom/Machine virtuelle de bytecode (clox).org][Machine virtuelle de bytecode (clox)]].

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: F16F9CBB-B223-40D1-8A33-C2D79C5AA1F7
+:END:
+#+title: OpenID Connect
+
+C'est un protocole qui ajoute une couche d'identification à [[file:Oauth2.org][Oauth2]], il est construit par dessus, il va vérifier l'indentité de l'utilisateur (avec un JWT par exemple).
+
+Il standardise les réponses d'identité de l'utilisateur, on peut le considérer comme un [[file:Oauth2.org][Oauth2]] provider.

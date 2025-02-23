@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID: 0DBADD62-DE4D-4A37-917D-5C6819D6F493
+:END:
+#+title: ABI
+
+It means Abstract Binary [[file:../Glossaire/Interface.org][Interface]]. It it a low level interface used between application and the OS (as example).
+
+If the ABI doesnt change it allows to run a Linux compiled program on different kernel version.
+
+See https://docs.kernel.org/admin-guide/abi-stable.html.
+
+#+begin_quote
+Userspace programs are free to use these interfaces with no restrictions, and backward compatibility for them will be guaranteed for at least 2 years.
+
+#+end_quote
+
+It is a set of rules, it defines how "things" work.
+
+[[file:../Attachments/3deb101ed0a95fd800e7cca95030b8a3.png.org][../Attachments/3deb101ed0a95fd800e7cca95030b8a3.png]]

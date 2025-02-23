@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 10962BC8-CDFB-446C-93A5-CB90EE07BC4F
+:END:
+#+title: Racine
+
+C'est un serveur qui répond aux requête de premier niveau.

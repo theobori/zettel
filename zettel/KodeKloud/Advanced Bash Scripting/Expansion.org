@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 092D089D-7A60-497C-8241-99BEE4665F58
+:END:
+#+title: Expansion
+
+It is the process of accessing a value stored in a variable or generating a value.

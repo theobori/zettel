@@ -1,2 +1,0 @@
-# notes
-My second brain

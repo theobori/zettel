@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 77916455-721A-4C29-870E-9D4AEF5DD415
+:END:
+#+title: 10. Dev and Prod parity
+
+The app must be as much as possible identical, using the same backing services, etc..

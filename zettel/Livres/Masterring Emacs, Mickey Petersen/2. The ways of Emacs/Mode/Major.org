@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: C636C597-FA6D-40BE-B4AB-C65A9B2B5694
+:END:
+#+title: Major
+
+C'est un [[file:../Mode.org][Mode]] comment le [[file:../Frame/Window/Buffer.org][Buffer]] se comporte. Chaque buffer a obligatoirement un seul [[file:../Mode.org][Mode]] majeur.
+
+On peut par exemple utiliser le mode Python.

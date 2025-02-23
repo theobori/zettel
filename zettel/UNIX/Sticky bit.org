@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 83C1B6C3-844C-427B-9807-C14A50E03434
+:END:
+#+title: Sticky bit
+
+C'est une permission représentée par un bit.
+
+S'il est activé, il permet de supprimer ou renommer le fichier uniquement aux utilisateurs qui en ont les permissions.

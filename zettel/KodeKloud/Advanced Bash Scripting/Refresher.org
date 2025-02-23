@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: DB59B6FE-4B79-406E-8D9D-A58ACC225765
+:END:
+#+title: Refresher
+
+- The =shift= keyword can be useful to move down the arguments by one position.
+- The =nohup= command is used to make a process tty independant, a process can still run if the tty is closed.
+- The =compgen= command gives a list of keywords, built-in commands, etc.
+- The =/usr/bin/env bash= shebang is a good practice.

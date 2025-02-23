@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID: 9A0FF11F-20DC-49C7-AC66-95F04ED5455F
+:END:
+#+title: OSI
+
+Ca signifie Open Systems Interconnection, c'est une norme de communication de tous les systèmes informatiques en réseau.
+
+** Les couches
+- 7 - Application layer
+- 6 - Presentation layer
+- 5 - Session lauer
+- 4 - Transport layer
+  - TCP / UDP level
+- 3 - Network / Internet layer
+  - [[file:../Internet Protocol.org][Internet Protocol]] level
+  - ICMP debug (ping)
+- 2 - Data link layer
+  - Responsable des connectivités réseaux locales
+  - ARP protocole level
+- 1 - Physical layer - cable level

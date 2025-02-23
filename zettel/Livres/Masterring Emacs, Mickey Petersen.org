@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: F945C696-3914-48FB-AEF5-5E229F14DDEB
+:END:
+#+title: Masterring Emacs, Mickey Petersen
+
+Citation intéressante trouvée sur le canal IRC =Emacs= du serveur =Freenode=.
+
+#+begin_quote
+I'm using [[file:../GNU/Linux.org][Linux]]. A library that emacs uses to communicate with Intel hardware.
+
+#+end_quote
+
+Le LISP (List Processing) est un langage dynamique, à la fois impératif et fonctionnel.

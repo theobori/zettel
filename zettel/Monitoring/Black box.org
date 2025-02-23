@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 358995B5-6D06-49F2-A493-734619EDC6A9
+:END:
+#+title: Black box
+
+C'est une type de [[file:../Monitoring.org][Monitoring]] où les outils ne savent rien de l'application monitorée.

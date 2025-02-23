@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: DD95A46F-422B-4FE1-AC9D-8F1B07AF069A
+:END:
+#+title: Backstage
+
+C'est une [[file:../Glossaire/Plateforme.org][Plateforme]] open-source pour construire des portails de développeurs.
+
+Ça unifie/regroupe/simplifie tous les services, outils, documentations pour créer un environement personnalisé.
+
+L'outil, une fois mis en place, est principalement destiné aux développeurs.

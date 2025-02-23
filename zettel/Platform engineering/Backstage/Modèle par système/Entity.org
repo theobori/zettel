@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: A0123899-FFCC-4514-83F5-E5E21A56BB49
+:END:
+#+title: Entity
+
+C'est une unité de [[file:../../Backstage.org][Backstage]] qui représente des éléments de l'écosystème logiciel.
+
+** Cycle de vie
+La source commune pour décrire une [[file:Entity.org][Entity]] est un fichier YAML, la plupart du temps stocké à coté du code dans le même dépôt. Fichiers qui doivent être mis à jour et maintenus par les propriétaires du dépôts.
+
+Le catalogue va se synchroniser automatiquement avec ces entités.

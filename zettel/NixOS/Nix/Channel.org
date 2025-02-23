@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: F2E71E47-3C5A-4830-BB1D-F39754AB63E6
+:END:
+#+title: Channel
+
+A channel is a name for the latest *verified* git commits in [[file:Nixpkgs.org][Nixpkgs]].
+Each channel has a different definition of what *verified* means (thinking about unstable).
+
+We can say a channel is a version of [[file:Nixpkgs.org][Nixpkgs]].

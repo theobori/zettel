@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 44D0FB5F-5BD6-4C18-BEB4-37628DB95284
+:END:
+#+title: Publique
+
+Tout ce qui a besoin d'internet, un server web, load balancer, etc.

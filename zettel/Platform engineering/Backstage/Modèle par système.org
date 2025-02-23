@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: D4E854E4-EBCA-4393-9BEA-658E211AF2FA
+:END:
+#+title: Modèle par système
+
+** Références
+- https://backstage.io/docs/features/software-catalog/system-model/

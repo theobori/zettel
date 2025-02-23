@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: E2B49FA2-398D-4E04-B5C7-ABD23FE6EA47
+:END:
+#+title: Package
+
+C'est rien de plus qu'une collection de fichiers ou d'autres data, ces derniers sont généralement compressés en archive (zst avec Arch Linux, rpm pour Red Hat, etc..)
+
+Pour devenir cette archive, en général, on utilise des fichiers de construction de paquets comme un PKGBUILD sous Arch Linux ou encore une [[file:../NixOS/Nix/Derivation.org][Derivation]] évaluée par [[file:../NixOS/Nix.org][Nix]].

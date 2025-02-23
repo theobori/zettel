@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID: AEA27371-D7E7-49B4-B6A4-26306D1B9E03
+:END:
+#+title: Internet Protocol
+
+C'est un protocole qui permet l'addressage et le [[file:Routage.org][Routage]] des paquets de données pour qu'ils puissent traverser les réseaux et arriver à destination.
+
+#+begin_quote
+La fonction ou rôle du Protocole Internet est de déplacer les datagrammes à travers un ensemble de réseaux interconnectés. Ceci est réalisé en transférant les datagrammes d'un module Internet à l'autre jusqu'à atteindre la destination. Les modules Internet sont des programmes exécutés dans les hôtes et les routeurs du réseau Internet.
+
+#+end_quote
+
+** Transmission
+La transmission se fait en block de données (paquet de bits), des datagrammes qui peuvent se fragmenter et se reassembler.
+
+#+begin_example
+TCP module ---> Internet module ---> Réseau local module
+#+end_example
+
+** Fonctions
+Le protocole a 2 fonctions de base.
+
+- L' adressage
+- La fragmentation
+
+** Références
+- https://datatracker.ietf.org/doc/html/rfc791#section-1.1
+- http://abcdrfc.free.fr/rfc-vf/pdf/rfc0791.pdf

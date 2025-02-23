@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 258A489C-CF5B-42D2-BD1A-36460656B365
+:END:
+#+title: 08. Concurrency
+
+Apps should be built [[file:../../../../Glossaire/Scaling/Horizontal.org][Horizontal]] and not [[file:../../../../Glossaire/Scaling/Vertical.org][Vertical]].

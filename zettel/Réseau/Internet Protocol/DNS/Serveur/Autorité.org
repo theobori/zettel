@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 46D2BBD9-D972-41F9-BE5C-FB8C8683FB3D
+:END:
+#+title: Autorité
+
+Le détenteur final de l'adresse [[file:../../../Internet Protocol.org][Internet Protocol]] correspondant au nom de domaine.

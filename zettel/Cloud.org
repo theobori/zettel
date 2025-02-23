@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 902462F6-239A-4C5C-BAFF-B8DA5C163AF6
+:END:
+#+title: Cloud
+
+Le cloud, ça désigne simplement un ensemble de ressources à la demande, diponibles à distance à travers [[file:Réseau/Internet Protocol.org][Internet Protocol]]. En général, ça abtrait et automatise des fonctionnalité pour nous.
+
+Dans ce contexte, une ressoucre peut être des machine virtuelles, un service de base de données, des applications, etc.

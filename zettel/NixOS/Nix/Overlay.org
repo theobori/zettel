@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 4DD51B5D-8A4D-48BB-A59A-BA5A75AA66B1
+:END:
+#+title: Overlay
+
+It is a two arguments function that return a set of packages. It is used to customize [[file:Nixpkgs.org][Nixpkgs]].

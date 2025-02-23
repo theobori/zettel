@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 566F7556-2CF5-4DE6-A9B5-968B71DEDFD1
+:END:
+#+title: Horizontal
+
+Ajout de machines (nodes) pour avoir plusieurs instances d'un application.

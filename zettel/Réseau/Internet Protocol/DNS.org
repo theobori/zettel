@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: FB0212AF-C65F-4DAA-84FD-C26BA2A7F7B4
+:END:
+#+title: DNS
+
+Ca signifie Domain Name System, c'est un protocol réseau qui sert à résoudre des nom de domaines en adresse [[file:../Internet Protocol.org][Internet Protocol]].
+
+** Comment ça marche ?
+Il y a des serveurs DNS qualifié de résolveur, ils intérogent d'autres serveurs DNS qui contiennent réellement les [[file:DNS/Zone.org][Zone]] DNS, c'est-à-dire un serveur faisant [[file:DNS/Serveur/Autorité.org][Autorité]].
+
+Voici un schéma des étapes d'une résolution de nom de domaine.
+
+[[file:../../Attachments/Pasted image 20241006014555.png.org][../../Attachments/Pasted image 20241006014555.png]]

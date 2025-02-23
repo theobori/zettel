@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: DA2F6C1B-CCC2-4C0D-96AB-58C0D07ADD27
+:END:
+#+title: Real World SRE, Nat Welch
+
+An interesting book about a Nat Welch and his experiences while working as SRE.

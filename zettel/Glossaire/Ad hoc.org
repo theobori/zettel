@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: ABF44B86-6090-4C88-AF58-6EE3332E7717
+:END:
+#+title: Ad hoc
+
+Signifie "pour cela".
+
+C'est employé pour désigner un programmes créée pour un besoin spécific.
+Autre exemple, un réseau LAN ad hoc, si ce dernier persiste, ça devient un réseau LAN.
+
+Autre signification, "unplanned".
+
+** Contexte
+Je l'ai vu dans la documentation de [[file:../NixOS/Nix.org][Nix]], avec une commande on peut créer des environements virtuels dits ad hoc, c'est-à-dire qui sont supposés persistents et créées pour un usages particuliers.

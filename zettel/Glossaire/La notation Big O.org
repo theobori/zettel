@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 8886CCD4-E608-433D-842C-B22B94AD33A0
+:END:
+#+title: La notation Big O
+
+La notation Big O, aussi appelée notation de performance algorithmique permet de mesurer les performances d'un algorithme.

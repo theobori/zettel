@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: B942593D-66F6-413E-A642-1E95D4289FC9
+:END:
+#+title: ICMP
+
+Ca signifie, Internet Control Message Protocol, les données sont encapsulées dans un paquet [[file:Internet Protocol.org][Internet Protocol]].
+
+Le protocole est exploité avec l'utilitaire =traceroute=, l'UDP TTL (Time to Live) est incrémenté pour trouver les routeurs (hops) sur le chemins du paquet.
+
+Il y a plusieurs raisons de ne pas bloquer le traffic ICMP. - Ne pas être cet enfoiré qui obfusque l'output de =traceroute= - Dépannage avec =ping= - Certains paquets IPv6 peuvent être trop grand et ya pas de fragmentation routeur pour ce protocole, donc ça va retourner un paquet ICMP

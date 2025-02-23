@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: DEDBF8FD-AB5D-45D2-9F75-49EC23A9742C
+:END:
+#+title: La Terre du Milieu
+
+La principale région où se déroulent les événements de "The Lord of the Rings". Elle est habitée par différentes races et créatures.
+
+En voici les principales régions. - [[file:La Terre du milieu/Numenor.org][Numenor]] - [[file:La Terre du milieu/Lindon.org][Lindon]] - [[file:La Terre du milieu/Eregion.org][Eregion]] - [[file:La Terre du milieu/Mordor.org][Mordor]]

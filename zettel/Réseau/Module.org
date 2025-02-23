@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: A211823E-A35C-4138-8FB8-2C34C9741004
+:END:
+#+title: Module
+
+Dans un contexte de réseau informatique, c'est une implémentation, en général logicielle, d'un protocole réseau.
+
+Par exemple, un module [[file:Internet Protocol.org][Internet Protocol]] est un programme éxécuté dans, par exemple, un routeur du réseau [[file:Internet Protocol.org][Internet Protocol]].

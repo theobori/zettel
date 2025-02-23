@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID: 5AF9AD55-3AB2-4F4D-8F94-C67859D0ED7C
+:END:
+#+title: VPC
+
+Ca signifie Virtual Private Cloud, c'est un élément/ressource réseau disponible dans une région
+
+** Histoire
+Avant la feature VPC d'AWS (2006 à 2009) il y avait tout dans le meme réseau, tout le monde partageait le meme réseau. Donc en théorie, on pouvait accéder à nimporte quel service sur nimporte qu'elle marchine du réseau.
+
+** Hiérarchie
+- [[file:VPC/Partition.org][Partition]] (aws, aws-cn, aws-us-gov)
+  - [[file:VPC/Région.org][Région]] (dans partition)
+    - [[file:VPC.org][VPC]] (qui est un ressource dans/par région)
+    - [[file:VPC/Zone de disponibilité.org][Zone de disponibilité]]
+      - Les sous réseaux
+
+[[file:../../Attachments/Pasted image 20240402011018.png.org][../../Attachments/Pasted image 20240402011018.png]]
+
+** Références
+- https://www.youtube.com/watch?v=bweJ3TZ5ynI&t=13s&ab_channel=cocadmin
+- https://docs.google.com/presentation/d/1iDgMphJRJF1kPkjE6OribQJCopj-nj3FLhij0EEv-u8/edit?pli=1#slide=id.gaa05659b14_0_2026

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: 060A3867-4639-4AD6-A020-5D87194E9DDD
+:END:
+#+title: HTTPS
+
+** Etapes
+[[file:../Attachments/Pasted image 20240515102633.png.org][../Attachments/Pasted image 20240515102633.png]]

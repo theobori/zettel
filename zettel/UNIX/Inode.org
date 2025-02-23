@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 01A94C41-05A5-4CFC-93E8-C72E87938533
+:END:
+#+title: Inode
+
+C'est une structure de donnée qui contient des métadonnées sur un fichier dans un système de fichiers [[file:../UNIX.org][UNIX]].

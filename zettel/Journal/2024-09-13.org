@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 519104BC-4AD6-453A-A1E0-9B9393332DEE
+:END:
+#+title: 2024-09-13
+
+Aujourdhui, j'ai finit d'écrire le module en Go pour manipuler les graphics dans les ROMs de NES (https://github.com/theobori/nes-chr).
+
+Je peux maintenant continuer de lire [[file:../Livres/Crafting Interpreters, Robert Nystrom.org][Crafting Interpreters, Robert Nystrom]].

@@ -1,0 +1,12 @@
+page:
+  siteTitle: Théo's Bori Public Zettelkasten
+  siteName: zettelkasten
+  headHtml: |
+    <snippet var="js.prism" />
+
+template:
+  name: /templates/layouts/note
+  # iconUrl: /static/ners.jpg
+  theme: red
+  urlStrategy: pretty
+  sidebar: true

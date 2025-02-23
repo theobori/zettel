@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 4DA48E54-32BD-4E51-88E0-76E22DF23AC0
+:END:
+#+title: Lexique
+
+Ensemble des mots d'une langue.

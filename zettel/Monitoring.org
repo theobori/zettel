@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: E4ABA9C1-C858-493E-B44E-678E2A3BE6C0
+:END:
+#+title: Monitoring
+
+Le controle, la surveillance.
+
+Le monitoring d'après Oxford, c'est l'observation et la vérification du progrès ou de la qualité de quelque chose sur une période.
+
+#+begin_src query
+path:./*
+#+end_src

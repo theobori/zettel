@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: F5B76EB4-5A1D-4FDF-8C32-A5241CE7DEE1
+:END:
+#+title: Frame
+
+C'est un regroupement de [[file:Frame/Window.org][Window]], c'est un objet Emacs qui sert à afficher les [[file:Frame/Window.org][Window]].

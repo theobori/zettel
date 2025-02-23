@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 166A9FE2-B4F4-4B49-98E4-24DE2ED90CAE
+:END:
+#+title: 2024-08-07
+
+Je continue la lecture de [[file:../Livres/Crafting Interpreters, Robert Nystrom/Machine virtuelle de bytecode (clox).org][Machine virtuelle de bytecode (clox)]]
+
+Perte de temps car mauvaise syntaxe de ternaire.

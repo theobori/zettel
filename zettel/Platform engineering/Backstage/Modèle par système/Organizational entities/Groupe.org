@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: C52ADD9E-0D35-4E81-899C-9DF51C0C858C
+:END:
+#+title: Groupe
+
+Simplement un groupe de la [[file:../../../../Glossaire/Plateforme.org][Plateforme]] [[file:../../../Backstage.org][Backstage]].

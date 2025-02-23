@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: AA83C449-0DB8-4E60-B55B-144DF5479325
+:END:
+#+title: VPC peering
+
+Pour communiquer entre [[file:../VPC.org][VPC]], ya une Peering connection dans le [[file:../VPC.org][VPC]] qui communiquent avec d'autres [[file:../VPC.org][VPC]], dans dautres [[file:Région.org][Région]] (sinon ça n'aurait pas grand intérêt).

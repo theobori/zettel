@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID: 707A5083-08BA-421D-8070-618ADA4EC5A0
+:END:
+#+title: dotNET
+
+- .NET
+  - Ensemble de produit microsoft qui constitue la [[file:../Glossaire/Plateforme.org][Plateforme]] .NET, se base sur
+    - windows
+    - .NET Framework
+      - Contient d'ailleurs le framework class library (FCL)
+      - Implémentation de Common Language Infrastructure (CLI)
+        - Spécification qui décrit l'environnement d'exécution de la VM basé sur le Common Intermediate Language (CIL)
+          - Langage intermédiaire bas niveau
+    - norme unicode
+    - et dautre...
+
+Schéma de la common language infrastructure
+[[q yfile:../Attachments/Pasted image 20250107171659.png.org][../Attachments/Pasted image 20250107171659.png]]

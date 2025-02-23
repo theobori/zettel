@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: C5EE99BB-644F-4930-8181-DD5A259BDCC4
+:END:
+#+title: 2024-07-28
+
+J'ai modifié l'alias =d= pour qu'il écrive sur la sortie standard la date locale et non la date UTC.
