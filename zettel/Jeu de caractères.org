@@ -1,0 +1,5 @@
+C'est un ensemble de caractères (symboles) où chacun est associé à une valeur numérique pour l'identifier.
+
+#+begin_src query
+path:./*
+#+end_src

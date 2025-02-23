@@ -1,0 +1,9 @@
+C'est l'organisation internationale de normalisation.
+
+#+begin_quote
+L'extended [[file:ISO/ANSI/ASCII.org][ASCII]] a été établit par l'[[file:ISO.org][ISO]] et non pas par l'[[file:ISO/ANSI.org][ANSI]].
+#+end_quote
+
+#+begin_src query
+path:./*
+#+end_src

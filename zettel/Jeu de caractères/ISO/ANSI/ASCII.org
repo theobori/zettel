@@ -1,0 +1,4 @@
+Ca signifie american [[file:../../../Glossaire/Standard.org][standard]] for information interchange.
+
+C'est un [[file:../../../Jeu de caractères.org][jeu de caractères]] de 128 caractères.
+

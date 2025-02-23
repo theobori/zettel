@@ -1,0 +1,10 @@
+Ca signifie american national [[file:../../Glossaire/Standard.org][standards]] institute.
+
+C'est tout simplement l'institut qui établie les [[file:../../Glossaire/Standard.org][standards]] americains.
+Dont l'[[file:ANSI/ASCII.org][ASCII]] et des [[file:../../Jeu de caractères.org][Jeux de caractères]] basés sur l'[[file:ANSI/ASCII.org][ASCII]].
+
+Il représent les US dans l'[[file:../ISO.org][ISO]].
+
+#+begin_src query
+path:./*
+#+end_src
