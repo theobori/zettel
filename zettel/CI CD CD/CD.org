@@ -1,0 +1,10 @@
+Dans ce contexte, CD est l'acronyme de deux expressions.
+- [[file:CD/Continuous Delivery.org][Continuous Delivery]]
+- [[file:CD/Continuous Deployment.org][Continuous Deployment]]
+
+
+[[file:Attachments/2025-02-23_22-48-20_screenshot.png]]
+
+#+begin_src query
+path:./*
+#+end_src

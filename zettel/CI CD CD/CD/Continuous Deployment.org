@@ -1,0 +1,1 @@
+C'est la même chose que le [[file:Continuous Delivery.org][continuous delivery]] mais sans une intervention humaine.
