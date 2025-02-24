@@ -1,0 +1,1 @@
+C'est une fonctionnalité [[file:../Linux.org][Linux]] qui permet de =break= dans n'importe quelle routine du noyau. On peut ensuite spécifier une routine qui sera éxécutée quand ça atteindra le =breakpoint=.

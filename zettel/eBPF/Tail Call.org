@@ -1,0 +1,3 @@
+C'est une fonctionnalité [[file:../eBPF.org][eBPF]] qui permet de charge un nouvea programme [[file:../eBPF.org][eBPF]] et remplacer le contexte d'exécution.
+
+Ca évite de créer plusieurs [[file:../Glossaire/Stack frame.org][stack frames]], [[file:../eBPF.org][eBPF]] n'a que 512 octets allouées en RAM.

@@ -1,0 +1,21 @@
+J'ai regardé [[https:www.youtube.com/watch?v=SCPoF1PTZpI][une vidéo]] qui explique comment utiliser [[file:../Livres/Masterring Emacs, Mickey Petersen/Emacs.org][Emacs]] pour faire des présentation.
+
+** Taches à faire
+DEADLINE: <2025-02-25 mar. 00:26>
+
+*** Paquets [[file:../Livres/Masterring Emacs, Mickey Petersen/Emacs.org][Emacs]] [0/2] [0%]
+
+- [ ] Installer le package =org-present=
+- [ ] Le configurer
+  - [ ] Ajouter des fonctions aux hooks
+    - [ ] Centrer le texte au démarrage et en fin de mode présentation
+    - [ ] Changer la taille de la police d'écriture
+    - [ ] Cacher certains mode mineurs
+      - [ ] =menu-bar=
+      - [ ] =tool-bar=
+      - [ ] =scroll-bar=
+
+*** Refactor les notes des Livres [1/1] [100%]
+DEADLINE: <2025-02-25 mar. 14:32>
+
+- [X] Ajouter le livre sur eBPF de Liz Rice

@@ -1,0 +1,7 @@
+#+title: 2. eBPF's "Hello World"
+
+Il vaut mieux utiliser une [[file:../../eBPF/Map.org][map]] pluto que d'écrire directement dans =/sys/kernel/debug/tracing/trace_pipe=. Avec par exemple, la fonction helper =bpf_trace_printk=.
+
+On va se servir d'un [[file:../../Glossaire/Buffer circulaire.org][buffer circulaire]] pour lire des données de performances. C'est une script Python qui va chargé le programme [[file:../../eBPF/BPF.org][BPF]].
+
+[[file:Attachments/2025-02-24_15-58-07_screenshot.png]]

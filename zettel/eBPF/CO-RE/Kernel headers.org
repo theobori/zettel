@@ -1,0 +1,7 @@
+Les développeurs [[file:../../eBPF.org][eBPF]] peuvent choisir d'inclure des fichiers header individuellement.
+
+=bpftool= peut générer des headers noyau.
+
+#+begin_src bash
+bpftool btf dump file /sys/kernel/btf/vmlinux format c > vmlinux.h
+#+end_src

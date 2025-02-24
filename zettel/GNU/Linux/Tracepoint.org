@@ -1,0 +1,1 @@
+C'est un mécanisme comme [[file:Kprobe.org][kprobe]] mais avec les endroit "marqués" dans le noyau.

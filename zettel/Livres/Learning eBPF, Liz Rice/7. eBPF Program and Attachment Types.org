@@ -1,0 +1,8 @@
+Chaque type de programme [[file:../../eBPF.org][eBPF]] à accès à un contexte basé sur son type.
+
+Egalement selon le type, ils ne peuvent pas accéder à toutes les fonctions d'aide et leur valeur de retour a un signification spécifique.
+
+Les [[file:../../GNU/Linux/Tracepoint.org][tracepoints]] sont une fonctionnalité intéressante.
+
+[[file:Attachments/2025-02-24_16-47-32_screenshot.png]]
+

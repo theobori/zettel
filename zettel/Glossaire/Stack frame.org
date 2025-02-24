@@ -1,0 +1,3 @@
+C'est une frame de données, c'est-à-dire un block de données poussé sur la pile.
+
+Par exemple, pour une pile d'appel, une frame de données représente une fonction et ses arguments.

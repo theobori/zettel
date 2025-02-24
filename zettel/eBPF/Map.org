@@ -1,0 +1,5 @@
+C'est une structure de donnée, créable depuis un programe [[file:BPF.org][BPF]] ou depuis l'espace utilisateur.
+
+#+begin_quote
+Les maps sont utiles pour partager des données entre ces deux derniers.
+#+end_quote

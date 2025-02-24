@@ -8,9 +8,9 @@ Ca signifie Logical Volume Management, c'est un logiciel de gestion des espaces 
 [[file:../../Attachments/Pasted image 20250221151117.png.org][../../Attachments/Pasted image 20250221151117.png]]
 
 ** Comparaison
-| LVM                                                           | Disk Partitioning System |
-|---------------------------------------------------------------+--------------------------|
-| [[file:Logical Volume Management/Volume logique.org][Volume logique]]   | Partition                |
+| LVM             | Disk Partitioning System |
+|-----------------+--------------------------|
+| [[file:Logical Volume Management/Volume logique.org][Volume logique]]  | Partition                |
 | [[file:Logical Volume Management/Volume physique.org][Volume physique]] | Disque                   |
 
 ** Références

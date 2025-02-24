@@ -6,3 +6,9 @@
 Emacs est un éditeur de texte simple très extensible, il peut être modifié de manière précise comme je souhaite qu'il soit.
 
 C'est un géant changeable (mutable), il est sa propre documentation.
+
+#+begin_quote
+It is a programmable platform where text editing is one of the main points of interaction.
+
+[[https:protesilaos.com/codelog/2022-03-22-libreplanet-emacs-living-freedom][Libreplanet Emacs Living Freedom]]
+#+end_quote

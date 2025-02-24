@@ -1,0 +1,6 @@
+C'est un composant clé d'[[file:../eBPF.org][eBPF]], il s'assure que le [[file:../Livres/Crafting Interpreters, Robert Nystrom/Bytecode.org][bytecode]] BPF est sûr.
+
+Il teste toutes les chemins d'éxécution.
+
+[[file:Attachments/2025-02-24_15-12-27_screenshot.png]]
+

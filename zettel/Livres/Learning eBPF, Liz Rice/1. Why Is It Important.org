@@ -1,0 +1,5 @@
+[[file:../../eBPF.org][eBPF]] permet d'avoir un noyau dynamique, ça évite de modifier le code source du noyau directement?
+
+Certes, il existe des modules [[file:../../GNU/Linux.org][Linux]] qui peuvent être chargés dynamiquement. Mais la processus de vérification de leur sécurité peut être très long. Pour résoudre ce problème, [[file:../../eBPF.org][eBPF]] résout ce problème avec son Verifier.
+
+On note que les [[file:../../GNU/Linux/Kprobe.org][kprobes]] sont un acteur important du fonctionnement d'[[file:../../eBPF.org][eBPF]].

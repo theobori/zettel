@@ -1,0 +1,1 @@
+Ca signifie Berkeley Packet Filter, ça a par la suite donné naissance à [[file:../eBPF.org][eBPF]].

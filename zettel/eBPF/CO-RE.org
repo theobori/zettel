@@ -1,0 +1,7 @@
+Ca signifie compile once, run everywhere. C'est une approche qui permet d'exécuter un programme compilé une seule fois, sur différentes versions de noyau.
+
+[[file:BTF.org][BTF]] est un élément CO-RE.
+
+#+begin_src query
+path:./*
+#+end_src

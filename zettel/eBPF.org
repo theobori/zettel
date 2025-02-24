@@ -1,0 +1,15 @@
+Ca signifie extended berkeley packet filter.
+
+C'est une machine virtuelle de [[file:Livres/Crafting Interpreters, Robert Nystrom/Bytecode.org][bytecode]] dans l'espace noyau de [[file:GNU/Linux.org][Linux]]. Elle permet de charger de programmes BPF depuis l'espace utilisateur et d'intéragir avec d'autres objets [[file:GNU/Linux.org][Linux]].
+
+[[file:Attachments/2025-02-24_15-05-13_screenshot.png]]
+
+** Histoire
+
+Au début, ça s'appellait BSD packet filter, décrit en 1993.
+
+C'est seulement en 1997 que la fonctionnalité a été renommée eBPF.
+
+#+begin_src query
+path:./*
+#+end_src

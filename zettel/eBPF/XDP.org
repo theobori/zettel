@@ -1,0 +1,4 @@
+Ca signifie expresse data path, c'est une fonctionnalité réseau de [[file:../GNU/Linux.org][Linux]] qui permet de créer des programmes coté noyau pour process des paquets.
+
+Nottament avec [[file:../eBPF.org][eBPF]].
+

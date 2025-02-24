@@ -1,0 +1,2 @@
+Le chapitre explique les concepts de [[file:../../eBPF/CO-RE.org][CO-RE]] et [[file:../../eBPF/BTF.org][BTF]].
+

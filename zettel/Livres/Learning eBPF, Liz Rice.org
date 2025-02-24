@@ -1,0 +1,5 @@
+Ce livre est une excellente ressource pour la théorie et la pratique d'[[file:../eBPF.org][eBPF]].
+
+#+begin_src query
+path:./*
+#+end_src

@@ -1,0 +1,4 @@
+C'est une structure de donnée de taille fixe dont le début et la fin sont connectés.
+
+Souvent utilisé pour lire et écrire de [[file:../Monitoring/Log.org][logs]] ou des traces.
+

@@ -1,0 +1,5 @@
+Au final, un programme [[file:../../eBPF.org][eBPF]] n'est rien d'autre qu'un ensemble d'instructions [[file:../../eBPF.org][eBPF]] au format [[file:../Crafting Interpreters, Robert Nystrom/Bytecode.org][bytecode]].
+
+[[file:Attachments/2025-02-24_16-07-27_screenshot.png]]
+
+[[file:../../eBPF.org][eBPF]] utilise un compiler à la volée pour convertir le [[file:../Crafting Interpreters, Robert Nystrom/Bytecode.org][bytecode]] [[file:../../eBPF.org][eBPF]] en code machine evaluable par le CPU.

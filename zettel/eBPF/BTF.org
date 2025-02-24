@@ -1,0 +1,5 @@
+Ca signifie BTF Type Format, les données BTF sont des métadonnées de programmes [[file:../eBPF.org][eBPF]] chargés.
+
+Ces données sont stockées sous forme de [[file:Map.org][map]] après qu'un programme soit chargé.
+
+On note qu'il y a plusieurs types de BTF.

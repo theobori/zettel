@@ -1,0 +1,21 @@
+Depuis l'espace utilisateur, on peut communiquer avec [[file:../../eBPF.org][eBPF]] à travers des appels système, la fonction =bpf= est disponible.
+
+#+begin_src C
+// attr -> the command arguments
+// size -> attr data bytes count
+int bpf(int cmd, union bpf_attr *attr, unsigned int size);
+#+end_src
+
+[[file:Attachments/2025-02-24_16-15-25_screenshot.png]]
+
+Ci-dessous un exemple de sortie de =strace= utilisé avec le [[file:2. eBPF Hello World.org][script Python]].
+
+#+begin_src
+bpf(BPF_BTF_LOAD, ...) = 3
+bpf(BPF_MAP_CREATE, {map_type=BPF_MAP_TYPE_PERF_EVENT_ARRAY…) = 4
+bpf(BPF_MAP_CREATE, {map_type=BPF_MAP_TYPE_HASH...) = 5
+bpf(BPF_PROG_LOAD, {prog_type=BPF_PROG_TYPE_KPROBE,...prog_name="hello",...) = 6
+bpf(BPF_MAP_UPDATE_ELEM, ...}
+...
+#+end_src
+

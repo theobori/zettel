@@ -1,0 +1,1 @@
+Les compilers comme GCC ou Clang supportent l'option =-g=.
