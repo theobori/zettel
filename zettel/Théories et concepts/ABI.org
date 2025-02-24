@@ -16,4 +16,4 @@ Userspace programs are free to use these interfaces with no restrictions, and ba
 
 It is a set of rules, it defines how "things" work.
 
-[[file:../Attachments/3deb101ed0a95fd800e7cca95030b8a3.png.org][../Attachments/3deb101ed0a95fd800e7cca95030b8a3.png]]
+[[file:../Attachments/3deb101ed0a95fd800e7cca95030b8a3.png]]

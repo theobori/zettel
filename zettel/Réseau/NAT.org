@@ -5,4 +5,4 @@
 
 Ca signifie Network Address Translation, c'est une fonctionnalité, en général présente sur un routeur pour faire correspondre une adress [[file:Internet Protocol.org][Internet Protocol]] à d'autre adresse [[file:Internet Protocol.org][Internet Protocol]].
 
-[[file:../Attachments/Pasted image 20240402012734.png.org][../Attachments/Pasted image 20240402012734.png]]
+[[file:../Attachments/Pasted image 20240402012734.png]]

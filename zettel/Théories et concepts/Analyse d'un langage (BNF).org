@@ -9,7 +9,7 @@ Le projet de base est de faire un parser pour la notation [[file:../Glossaire/Fo
 ** Notes
 Par analyse d'un langage, on entend donc [[file:../Glossaire/Parsing.org][Parsing]] d'un langage.
 
-[[file:../Attachments/Pasted image 20240630175354.png.org][../Attachments/Pasted image 20240630175354.png]]
+[[file:../Attachments/Pasted image 20240630175354.png]]
 Sur l'image on voit plusieurs approches/techniques de parsing.
 
 ** Étapes du projet

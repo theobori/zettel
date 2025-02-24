@@ -3,7 +3,7 @@
 :END:
 #+title: Crafting Interpreters, Robert Nystrom
 
-[[file:../Attachments/88867822a59144640186c5e5901ab01d.png.org][../Attachments/88867822a59144640186c5e5901ab01d.png]]
+[[file:../Attachments/88867822a59144640186c5e5901ab01d.png]]
 
 *** Steps until the evaluation
 - [[file:Crafting Interpreters, Robert Nystrom/Steps/1. Scanning.org][1. Scanning]]

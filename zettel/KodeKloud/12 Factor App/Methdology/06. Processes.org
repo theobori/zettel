@@ -5,4 +5,4 @@
 
 Processes are stateless and share-nothing.
 
-[[file:../../../../Attachments/Pasted image 20240410200630.png.org][../../../../Attachments/Pasted image 20240410200630.png]]
+[[file:../../../../Attachments/Pasted image 20240410200630.png]]

@@ -4,4 +4,4 @@
 
 Agit comme un filtre, ça teste chaque élément pour savoir s'il faut le garde (par ex la fonction =filter= en python)
 
-[[file:../../../../Attachments/Pasted image 20250211111943.png.org][../../../../Attachments/Pasted image 20250211111943.png]]
+[[file:../../../../Attachments/Pasted image 20250211111943.png]]

@@ -5,7 +5,7 @@
 
 Notes sur l'avancée de la lecture du 3ème chapitre de [[file:../Crafting Interpreters, Robert Nystrom.org][Crafting Interpreters, Robert Nystrom]].
 
-[[file:../../../Attachments/IMG-20250220222220952.png.org][../../../Attachments/IMG-20250220222220952.png]]
+[[file:../../../Attachments/IMG-20250220222220952.png]]
 
 On créer une structure de données dynamique, précisément un tableau dynamique.
 Fonction reallocate pour changer la taille d'un espace mémoire géré par Linux au runtime du programme.
@@ -22,7 +22,7 @@ print 1;
 print 2;
 #+end_src
 
-[[file:../../../Attachments/IMG-20250220222225719.png.org][../../../Attachments/IMG-20250220222225719.png]]
+[[file:../../../Attachments/IMG-20250220222225719.png]]
 
 Ajout d'un système pour associer une ligne à une instruction, pas du tout optimisé en mémoire (taille trop grande par rapport à ce qui est stocké). On a donc réduit l'AST à quelques tableaux dynamiques.
 
@@ -127,7 +127,7 @@ C'est plutot smart comme méthode, très rapide et propre. Donc on a fait un tab
 
 On doit donc implémenter les blocks, les règles de grammaires ressemblent à ça.
 
-[[file:../../../Attachments/IMG-20250220222225789.png.org][../../../Attachments/IMG-20250220222225789.png]]
+[[file:../../../Attachments/IMG-20250220222225789.png]]
 
 Déclarer une variable locale -> la variable existe dans le scope
 Définir une variable locale -> la variable peut être utilisée
@@ -148,10 +148,10 @@ L'arity, c'est le nombre d'arguments ou d'opérandes.
 
 On va implémenter les =call frame=. On parle de =frame pointer= ou =base pointer=, qui désigne l'addresse de début de la frame d'un appel de fonction.
 
-[[file:../../../Attachments/IMG-20250220222225831.png.org][../../../Attachments/IMG-20250220222225831.png]]
+[[file:../../../Attachments/IMG-20250220222225831.png]]
 
 On a résolue les problèmes d'allocations en ajoutant des niveau d'indirection.
 
-[[file:../../../Attachments/IMG-20250220222225907.png.org][../../../Attachments/IMG-20250220222225907.png]]
+[[file:../../../Attachments/IMG-20250220222225907.png]]
 
 On met le top-level code dans une fonction (retourner depuis la compilation) dans une callframe.

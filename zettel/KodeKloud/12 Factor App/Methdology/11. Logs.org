@@ -6,4 +6,4 @@
 - Store logs in a centralized location in a structured format
 - The app must write all logs to stdout
 
-[[file:../../../../Attachments/Pasted image 20240410211441.png.org][../../../../Attachments/Pasted image 20240410211441.png]]
+[[file:../../../../Attachments/Pasted image 20240410211441.png]]

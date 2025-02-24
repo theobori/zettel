@@ -3,4 +3,4 @@
 :END:
 
 Le mot clé =let= permets de définir des variables locales dans un nouvel espace de noms. Ci-dessous sa syntaxe.
-[[file:../../../Attachments/Pasted image 20250210144640.png.org][../../../Attachments/Pasted image 20250210144640.png]]
+[[file:../../../Attachments/Pasted image 20250210144640.png]]

@@ -5,4 +5,4 @@
 
 Poème dont la disposition graphique forme un dessin.
 
-[[file:../../Attachments/Pasted image 20250222203252.png.org][../../Attachments/Pasted image 20250222203252.png]]
+[[file:../../Attachments/Pasted image 20250222203252.png]]

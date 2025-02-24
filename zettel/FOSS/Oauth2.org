@@ -6,9 +6,9 @@
 C'est protocol de délégation d'accès, on peut le voir comme une sorte de boite à outil conceptuelle. Il sert uniquement à l'autorisation et pas à l'authentification
 
 Il y a 4 acteurs majeurs qui communiquent entre eux durant le processus de délégation d'accès.
-[[file:../Attachments/Pasted image 20240417004842.png.org][../Attachments/Pasted image 20240417004842.png]]
+[[file:../Attachments/Pasted image 20240417004842.png]]
 
 Les données sont envoyées dans cet ordre. 1. Le RO (client) demande une preuve d'identité à l'AS 2. Le RO (client) demande certaines resources au RS en fournissant sa preuve d'identité 3. Le RS fait valider la preuve d'identité à l'AS, si OK, il envoie les resources au RO (client)
 
 Il y a des tokens par référence et des tokens par valeur(s).
-[[file:../Attachments/Pasted image 20240417005710.png.org][../Attachments/Pasted image 20240417005710.png]]
+[[file:../Attachments/Pasted image 20240417005710.png]]

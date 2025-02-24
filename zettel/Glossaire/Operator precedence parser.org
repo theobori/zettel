@@ -5,7 +5,7 @@
 
 AC'est un type de parser ([[file:Parsing.org][Parsing]]) basé sur la priorité des opérateurs. Généralement un "Bottom up parser".
 
-[[file:../Attachments/Pasted image 20240630175354.png.org][../Attachments/Pasted image 20240630175354.png]]
+[[file:../Attachments/Pasted image 20240630175354.png]]
 
 ** Contexte
 Programmation d'une [[file:../Livres/Crafting Interpreters, Robert Nystrom/Machine virtuelle de bytecode (clox).org][Machine virtuelle de bytecode (clox)]] j'ai utilisé cette technique pour analyser les jetons.

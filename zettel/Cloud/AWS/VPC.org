@@ -15,7 +15,7 @@ Avant la feature VPC d'AWS (2006 à 2009) il y avait tout dans le meme réseau, 
     - [[file:VPC/Zone de disponibilité.org][Zone de disponibilité]]
       - Les sous réseaux
 
-[[file:../../Attachments/Pasted image 20240402011018.png.org][../../Attachments/Pasted image 20240402011018.png]]
+[[file:../../Attachments/Pasted image 20240402011018.png]]
 
 ** Références
 - https://www.youtube.com/watch?v=bweJ3TZ5ynI&t=13s&ab_channel=cocadmin

@@ -4,4 +4,4 @@
 #+title: HTTPS
 
 ** Etapes
-[[file:../Attachments/Pasted image 20240515102633.png.org][../Attachments/Pasted image 20240515102633.png]]
+[[file:../Attachments/Pasted image 20240515102633.png]]

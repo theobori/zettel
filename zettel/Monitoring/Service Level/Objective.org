@@ -5,4 +5,4 @@
 
 C'est un objectif construit autour de Service Level [[file:Indicator.org][Indicator]]s, le plus souvent en pourcentage.
 
-[[file:../../Attachments/6630b88db9170639d31e0d5fba8b92b3.png.org][../../Attachments/6630b88db9170639d31e0d5fba8b92b3.png]]
+[[file:../../Attachments/6630b88db9170639d31e0d5fba8b92b3.png]]

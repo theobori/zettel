@@ -7,4 +7,4 @@ Ca signifie Incident Command System, c'est un système selon lequel, la premièr
 
 Voici un exemple de structure d'ICS.
 
-[[file:../Attachments/75248943ad98412d4891ec0caaa9cf70.png.org][../Attachments/75248943ad98412d4891ec0caaa9cf70.png]]
+[[file:../Attachments/75248943ad98412d4891ec0caaa9cf70.png]]

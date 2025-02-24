@@ -10,7 +10,7 @@ Il y a des serveurs DNS qualifié de résolveur, ils intérogent d'autres serveu
 
 Voici un schéma des étapes d'une résolution de nom de domaine.
 
-[[file:../../Attachments/Pasted image 20241006014555.png.org][../../Attachments/Pasted image 20241006014555.png]]
+[[file:../../Attachments/Pasted image 20241006014555.png]]
 
 #+begin_src query
 path:./*
