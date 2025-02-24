@@ -1,0 +1,8 @@
+Je refactor toutes mes notes et appliquer la méthode [[file:../Glossaire/Zettelkasten.org][zettelkasten]].
+J'ai configuré [[file:../Livres/Masterring Emacs, Mickey Petersen/Emacs.org][Emacs]] pour gérer mes notes de manière propre.
+
+Voilà à quoi ça peut ressembler.
+
+[[file:Attachments/2025-02-24_02-57-01_screenshot.png]]
+
+J'ai mis en place un [[https:zettel.theobori.cafe][site web]] qui permet de visualiser mon [[file:../Glossaire/Zettelkasten.org][zettelkasten]].
