@@ -1,0 +1,3 @@
+C'est une approche qui repose sur l'utilisation de référentiels Git comme unique source de vérité pour distribuer l'infrastructure en tant que code.
+
+Ca peut aussi etre considéré comme une extension de l'IaC qui utilise Git comment systeme de controle de version.
