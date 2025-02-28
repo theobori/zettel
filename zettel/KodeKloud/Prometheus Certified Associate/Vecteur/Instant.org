@@ -1,0 +1,1 @@
+C'est une paire (v1, t1) pour un instant t pour un [[file:../Métrique.org][métrique]].

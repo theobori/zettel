@@ -1,0 +1,5 @@
+Dans ce contexte, c'est un ensemble de points de données.
+
+#+begin_src query
+path:./*
+#+end_src

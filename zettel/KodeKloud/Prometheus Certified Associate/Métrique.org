@@ -1,0 +1,5 @@
+Voir [[file:../../Monitoring/Métrique.org][Métrique]].
+
+#+begin_src query
+path:./*
+#+end_src

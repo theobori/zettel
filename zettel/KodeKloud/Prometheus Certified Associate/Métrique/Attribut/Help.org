@@ -1,0 +1,1 @@
+Cet [[file:../Attribut.org][attribut]] a pour valeur une description du [[file:../../../../Monitoring/Métrique.org][Métrique]].

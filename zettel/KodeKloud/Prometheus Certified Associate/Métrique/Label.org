@@ -1,0 +1,8 @@
+Le label est simplement un nom qui permet de catégoriser le [[file:../../../Monitoring/Métrique.org][métrique]].
+
+#+begin_quote
+Pour récupérer le nom d'un métrique, le label =__name__= est disponible.
+#+end_quote
+
+
+[[file:Attachments/2025-02-28_20-21-27_screenshot.png]]

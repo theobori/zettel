@@ -1,0 +1,1 @@
+C'est un [[file:../Vecteur.org][vecteur]] de paires [(v1, t1) (v2, t2),...] pour un segment de temps pour un [[file:../Métrique.org][métrique]].

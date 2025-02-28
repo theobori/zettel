@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       57be7232-0dce-48d7-ac8b-b1e14876d77b
+:END:
+
+Dans ce module, il est question des notions ci-dessus.
+- [[file:../Monitoring/Log.org][Log]]
+- [[file:../Monitoring/Métrique.org][Métrique]]
+- [[file:../Monitoring/Service Level/Indicator.org][SLI]]
+- [[file:../Monitoring/Service Level/Objective.org][SLO]]
+- [[file:../Monitoring/Service Level/Agreement.org][SLA]]
+
+
+#+begin_src query
+path:./*
+#+end_src

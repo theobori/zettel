@@ -1,0 +1,1 @@
+Dans ce contexte, un attribut est simplement une métadonnée concernant le [[file:../Métrique.org][métrique]].

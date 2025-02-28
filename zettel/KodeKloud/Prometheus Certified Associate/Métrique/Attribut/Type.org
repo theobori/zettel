@@ -1,0 +1,9 @@
+Cet [[file:../Attribut.org][attribut]] a pour valeur de type du [[file:../../../../Monitoring/Métrique.org][métrique]].
+
+** Différent type
+
+Il y a différentes valeurs possibles pour le type.
+- Counter
+- Gauge
+- Histogram
+- Summary
