@@ -3,9 +3,7 @@
 :END:
 #+title: Monitoring
 
-Le controle, la surveillance.
-
-Le monitoring d'après Oxford, c'est l'observation et la vérification du progrès ou de la qualité de quelque chose sur une période.
+C'est la surveillance. Le monitoring d'après Oxford, c'est l'observation et la vérification du progrès ou de la qualité de quelque chose sur une période.
 
 #+begin_src query
 path:./*
