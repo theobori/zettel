@@ -1,5 +1,5 @@
 Dans [[file:Kubernetes.org][Kubernetes]], il y a plusieurs [[file:../../Glossaire/Interface.org][interfaces]] à mettre en place.
 
-Voir [[file:Core Concepts/Noeud/Worker/Container runtime.org][container runtime]].
+Voir [[file:Core Concepts/Noeud/Worker/Container runtime.org][container runtime]], [[file:Networking.org][networking]].
 
 [[file:Attachments/2025-03-02_20-08-12_screenshot.png]]

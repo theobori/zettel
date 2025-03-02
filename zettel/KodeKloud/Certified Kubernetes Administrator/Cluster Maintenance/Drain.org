@@ -1,1 +1,1 @@
-C'est une fonctionnalité qui déplace tous les [[file:Core Concepts/Pod.org][pods]] d'un [[file:../Core Concepts/Noeud.org][noeud]] sur un autre.
+C'est une fonctionnalité qui déplace tous les [[file:../Core Concepts/Pod.org][pods]] d'un [[file:../Core Concepts/Noeud/Master.org][noeud]] sur un autre.

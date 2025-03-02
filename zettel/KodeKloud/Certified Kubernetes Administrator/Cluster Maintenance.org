@@ -1,1 +1,5 @@
 Pour sauvegarder un cluster, c'est important de sauvegarder les états des objets via [[file:Core Concepts/Noeud/Master/etcd.org][etcd]] et les configurations des ressources.
+
+#+begin_src query
+path:./*
+#+end_src
