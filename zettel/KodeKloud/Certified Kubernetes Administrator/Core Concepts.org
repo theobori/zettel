@@ -1,0 +1,6 @@
+Ci-dessous un schéma de l'architecture de [[file:Kubernetes.org][Kubernetes]].
+[[file:Attachments/2025-03-01_17-33-16_screenshot.png]]
+
+#+begin_src query
+path:./*
+#+end_src

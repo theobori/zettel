@@ -1,0 +1,10 @@
+** Statégie de mise à jour
+
+Une des plus importantes est la statégie [[file:../../Glossaire/Rolling update.org][rolling update]].
+
+** Configuration d'application
+
+Il y a plusieurs façons de configurer une application.
+- Customiser la commande et les arguments
+- Utiliser des variables d'environnement
+- Configurer des secrets

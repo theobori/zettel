@@ -1,0 +1,1 @@
+C'est un objet [[file:../Kubernetes.org][Kubernetes]] qui abstrait de l'espace de stockage.

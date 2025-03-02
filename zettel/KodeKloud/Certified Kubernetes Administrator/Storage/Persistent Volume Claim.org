@@ -1,0 +1,3 @@
+C'est un objet [[file:../Kubernetes.org][Kubernetes]], c'est une revendication de stockage par un utilisateur. Il consomme un [[file:Persistent Volume.org][PV]].
+
+[[file:Attachments/2025-03-02_22-09-01_screenshot.png]]

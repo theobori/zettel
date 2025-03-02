@@ -1,0 +1,5 @@
+C'est une machine, virtuelle ou physique.
+
+#+begin_src query
+path:./*
+#+end_src

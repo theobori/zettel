@@ -1,0 +1,8 @@
+
+Il y a plusieurs façons d'implémenter les autorisations du cluster.
+
+[[file:Attachments/2025-03-02_19-15-32_screenshot.png]]
+
+#+begin_src query
+path:./*
+#+end_src

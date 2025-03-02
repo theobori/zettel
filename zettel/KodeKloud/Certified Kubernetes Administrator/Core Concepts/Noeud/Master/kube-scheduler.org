@@ -1,0 +1,3 @@
+C'est un programme qui est chargé d'assigner les [[file:../../Pod.org][pods]] au [[file:../../Noeud.org][noeuds]].
+
+Il [[file:../../../../../Monitoring.org][monitor]] les [[file:../../Pod.org][pods]] qui ne sont pas assignés à un [[file:../../Noeud.org][noeuds]] et leur selectionne un [[file:../../Noeud.org][noeud]] où ils sont éxécutés.

@@ -1,0 +1,3 @@
+C'est un ensemble d'applications qui communiquent entre elles et qui visent à fournir une [[file:../../Glossaire/Plateforme.org][plateforme]].
+
+Le but étant de pouvoir gérer des applications [[file:../../GNU/Linux/Conteneur.org][conteuneurisées]] de manière automatiser.

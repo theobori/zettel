@@ -1,0 +1,1 @@
+C'est un objet [[file:../Kubernetes.org][Kubernetes]] qui permet d'attribuer des autorisations aux utilisateurs sur des ressources non namespacables.

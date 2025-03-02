@@ -1,0 +1,1 @@
+C'est un objet [[file:../Kubernetes.org][Kubernetes]], c'est un approvisionneur de volumes dynamique, il se base lui-même sur un approvisionneur de volume.

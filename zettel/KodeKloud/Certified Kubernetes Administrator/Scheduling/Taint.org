@@ -1,0 +1,5 @@
+C'est une tache. Qui peut être appliquée à des [[file:../Core Concepts/Noeud.org][noeuds]] ou des [[file:../Core Concepts/Pod.org][pods]].
+
+** Fait intéressant
+
+Le [[file:../Core Concepts/Noeud.org][noeud]] [[file:../Core Concepts/Noeud/Master.org][master]] est taché par default.

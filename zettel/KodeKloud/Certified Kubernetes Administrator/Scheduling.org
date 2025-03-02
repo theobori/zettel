@@ -1,0 +1,7 @@
+C'est possible de schedule sans [[file:Core Concepts/Noeud/Master/kube-scheduler.org][scheduler]].
+- En renseignant le champ =NodeName= sur les [[file:Core Concepts/Pod.org][pods]]
+- En faisant directement un requete à l'[[file:Core Concepts/Noeud/Master/kube-apiserver.org][api server]]
+
+#+begin_src query
+path:./*
+#+end_src

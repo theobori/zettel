@@ -1,0 +1,1 @@
+Daemon qui embarque les [[file:../../../../../Glossaire/Control loop.org][control loops]] (Replication controller, Node controller, etc.).

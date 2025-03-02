@@ -1,0 +1,1 @@
+C'est un objet [[file:../Kubernetes.org][Kubernetes]] qui gère des [[file:Pod.org][pods]]. Il a des fonctionnalités intéréssantes comme le [[file:../../../Glossaire/Rolling update.org][rolling update]].

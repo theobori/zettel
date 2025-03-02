@@ -1,0 +1,9 @@
+Application chargée d'éxécuter et de gérer le cycle de vie des [[file:../../../../../GNU/Linux/Conteneur.org][conteneurs]].
+
+** Histoire
+
+A la base [[file:../../../Kubernetes.org][Kubernetes]] était conçu uniquement pour Docker. Pour être compatible avec d'autres container runtime, [[file:../../../Kubernetes.org][Kubernetes]] a créée une interface appellée Container Runtime Interface.
+
+La mise en place de cette interface doit être conforme avec les spécification Open Container Initiative.
+
+[[file:Attachments/2025-03-01_22-19-47_screenshot.png]]

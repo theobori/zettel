@@ -1,0 +1,3 @@
+Les [[file:../../../Core Concepts/Noeud.org][noeuds]], plus précisement les [[file:../../../Core Concepts/Noeud/Worker/kubelet.org][kubelets]]  wdoivent être autorises à communiquer avec l'[[file:../../../Core Concepts/Noeud/Master/kube-apiserver.org][api server]].
+
+En général, ça se fait avec un certificat fournit par le control plane. L'[[file:../../../Core Concepts/Noeud/Master/kube-apiserver.org][api server]] de son coté sait quel [[file:../../../Core Concepts/Noeud/Worker/kubelet.org][kubelets]] autoriser.

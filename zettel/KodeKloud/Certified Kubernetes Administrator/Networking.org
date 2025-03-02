@@ -1,0 +1,7 @@
+Pour mettre un [[file:../../GNU/Linux/Conteneur.org][conteneur]] en réseau dans [[file:Kubernetes.org][Kubernetes]], il faut impléméneter la Container Network Interface (CNI).
+
+[[file:Attachments/2025-03-02_22-25-53_screenshot.png]]
+
+#+begin_quote
+Par défault, il n'y a pas d'Ingress controller ([[file:../../Réseau/Modèle théorique/OSI.org][layer 7]]).
+#+end_quote

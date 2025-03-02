@@ -1,0 +1,3 @@
+Ca signifie Attributes Based Access Role. Ce système se base sur des attributs spécifiés dans un fichier JSON.
+
+C'est dur à gérer.

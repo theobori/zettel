@@ -2,9 +2,9 @@
 :ID:       c530c0f3-7cca-4d87-aa75-c15a7cdb117b
 :END:
 
-ArgoCD est un outil qui met en application le [[file:../Glossaire/GitOps.org][GitOps]]. Il permet de deployer des applications déclarées pour Kubernetes.
+ArgoCD est un outil qui met en application le [[file:../Glossaire/GitOps.org][GitOps]]. Il permet de deployer des applications déclarées pour [[file:Certified Kubernetes Administrator/Kubernetes.org][Kubernetes]].
 
-Il va monitorer une source de vérité, donc des dépôts Git puis comparer l'état déclarer (depot Git) à l'état actuel (Kubernetes).
+Il va monitorer une source de vérité, donc des dépôts Git puis comparer l'état déclarer (depot Git) à l'état actuel ([[file:Certified Kubernetes Administrator/Kubernetes.org][Kubernetes]]).
 
 Ci-dessous, un schéma comparatif entre le DevOps et le [[file:../Glossaire/GitOps.org][GitOps]].
 
@@ -13,5 +13,4 @@ Ci-dessous, un schéma comparatif entre le DevOps et le [[file:../Glossaire/GitO
 ** Informations utiles
 
 - Il est possible de créer de webhooks Git pour éviter de baser la synchronisation sur un interval de temps.
-- Il est possible de déclarer des CRDs Kubernetes pour spécifier la source à monitorer. Qui va donc créer des objets ArgoCD.
-
+- Il est possible de déclarer des CRDs [[file:Certified Kubernetes Administrator/Kubernetes.org][Kubernetes]] pour spécifier la source à monitorer. Qui va donc créer des objets ArgoCD.

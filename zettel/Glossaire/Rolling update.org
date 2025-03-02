@@ -1,0 +1,1 @@
+C'est une mise à jour progressive d'une instance d'une application.

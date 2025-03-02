@@ -1,0 +1,1 @@
+C'est un server qui orchestre toutes les opérations dans le cluster.

@@ -1,0 +1,9 @@
+C'est un agent de [[file:../../Noeud.org][noeud]] qui s'assure que les [[file:../../../../../GNU/Linux/Conteneur.org][conteneurs]] soit dans des [[file:../../Pod.org][pods]] et qui enregistre le [[file:../../Noeud.org][noeud]] dans le cluter.
+
+#+begin_quote
+Il ne gère que les [[file:../../../../../GNU/Linux/Conteneur.org][conteneurs]] crées par [[file:../../../Kubernetes.org][Kubernetes]].
+#+end_quote
+
+** Précisions
+
+Cet agent prend des spécifications concernant les [[file:../../Pod.org][pods]] et s'assure de que l'état désiré soit le même que l'état en cours.

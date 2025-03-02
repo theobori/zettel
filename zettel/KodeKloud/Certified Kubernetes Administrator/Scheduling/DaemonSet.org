@@ -1,0 +1,6 @@
+C'est un objet [[file:../Kubernetes.org][Kubernetes]] qui sert à déployer un [[file:../Core Concepts/Pod.org][pod]] sur chaque [[file:../Core Concepts/Noeud.org][noeud]] du cluster.
+
+Les DaemonSets ingorent le [[file:../Core Concepts/Noeud/Master/kube-scheduler.org][kube-scheduler]].
+#+begin_quote
+Il y a un DaemonSet pour [[file:../Core Concepts/Noeud/Worker/kube-proxy.org][kube-proxy]].
+#+end_quote

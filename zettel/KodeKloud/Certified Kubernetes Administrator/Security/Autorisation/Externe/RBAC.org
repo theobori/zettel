@@ -1,0 +1,1 @@
+Ca signifie Role Based Access Role. Dans ce système, on associe des autorisations à un role. Ce role peut ensuite être donné à des utilisateurs.

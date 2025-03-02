@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       35cd2416-224e-4b28-a214-9a84cbed7b2d
+:END:
+
+C'est une boucle qui ne termine jamais dédiée au control de l'état d'un système.

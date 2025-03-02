@@ -1,0 +1,5 @@
+Ca concerne les accès depuis l'exterieur du cluster [[file:../../Kubernetes.org][Kubernetes]].
+
+#+begin_src query
+path:./*
+#+end_src

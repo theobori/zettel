@@ -1,0 +1,5 @@
+Le [[file:../Noeud.org][noeud]] travailleur accueille les applications [[file:../../../../GNU/Linux/Conteneur.org][conteuneurisées]].
+
+#+begin_src query
+path:./*
+#+end_src

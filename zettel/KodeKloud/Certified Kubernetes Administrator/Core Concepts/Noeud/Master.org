@@ -1,0 +1,5 @@
+Le [[file:../Noeud.org][noeud]] maitre gère, planifie, programme (schedule) et [[file:../../../../Monitoring.org][monitor]] les [[file:../Noeud.org][noeuds]].
+
+#+begin_src query
+path:./*
+#+end_src

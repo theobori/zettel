@@ -1,0 +1,11 @@
+C'est un objet [[file:../Kubernetes.org][Kubernetes]] qui représente des règles de routages réseau.
+
+Il permet d'exposer des applications en cours d'éxécution dans des [[file:Pod.org][pods]] du cluster.
+
+#+begin_quote
+Un service n'existe pas vraiment, c'est simplement des règles ajouter au [[file:Noeud/Worker/kube-proxy.org][kube-proxy]].
+#+end_quote
+
+** Types de service
+
+[[file:Attachments/2025-03-01_23-19-16_screenshot.png]]

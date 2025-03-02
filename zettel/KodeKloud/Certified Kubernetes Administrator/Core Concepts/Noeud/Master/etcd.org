@@ -1,0 +1,1 @@
+C'est un système de clé et de valeur distribué. Il stoque les données de configuration, d'état et les métadonnées de [[file:../../../Kubernetes.org][Kubernetes]].
