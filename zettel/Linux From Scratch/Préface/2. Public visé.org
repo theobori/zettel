@@ -1,0 +1,3 @@
+Parmis les nombreux avantages que procure la construction d'un système [[https:linuxfromscratch.org][LFS]], il y a aussi le total controle du système et obtenir un système avec uniquement les dépendances nécessaires et voulues.
+
+Pour ça, il faut compiler le plus de choses possible soi-même.

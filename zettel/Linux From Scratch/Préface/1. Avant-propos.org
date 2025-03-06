@@ -1,0 +1,1 @@
+L'auteur, c'est-à-dire Gerard Beekmans, explique que le réel objectif de [[https:linuxfromscratch.org][LFS]] c'est d'apprendre comment fonctionne réellement un système [[file:../../GNU/Linux.org][Linux]].

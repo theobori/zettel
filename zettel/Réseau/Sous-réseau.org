@@ -7,7 +7,6 @@ C'est une sous-division logique d'un réseau [[file:Internet Protocol.org][Inter
 
 #+begin_quote
 Historiquement, on appelle également /sous-réseau/ chacun des réseaux connectés à Internet.
-
 #+end_quote
 
 [[file:../Attachments/Pasted image 20250221145315.png]]

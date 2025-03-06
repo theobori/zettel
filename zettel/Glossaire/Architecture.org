@@ -1,0 +1,3 @@
+C'est la structure générale d'un système informatique.
+
+Elle est utilisée pour guider l'implémentation d'une [[file:Infrastructure.org][infrastructure]].

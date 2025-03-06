@@ -1,0 +1,3 @@
+C'est une bibliothèque et une base de données qui définissent des normes pour les terminaux.
+
+Il y est décrit des séquences de codes associées à des actions à effectuer coté terminal, ça peut être afficher du texte, déplacer le curseur ou encore récupérer des [[file:../Monitoring/Métrique.org][métriques]] concernant le terminal.

@@ -1,0 +1,5 @@
+Aussi appellé =a.out=. C'est un format de fichier utilisé dans les premières versions d'[[file:../UNIX.org][UNIX]] pour les fichiers éxécutables, codes objets et bibliothèques partagées.
+
+** Aujourdhui
+
+Certains compilateur produise un fichier =a.out= en sortie si aucun nom de fichier de sortie n'est spécifié. Or, le fichier n'est pas au format a.out !

@@ -1,0 +1,1 @@
+L'auteur nous recommande de lire [[https:tldp.org/HOWTO/Software-Building-HOWTO.html][le guide de construction et d'installation de logiciels]] [[file:../../UNIX.org][UNIX]] sous [[file:../../GNU/Linux.org][Linux]], qui est aussi très intéressant.

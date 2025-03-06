@@ -1,0 +1,3 @@
+Ca explique que parfois il est nécessaire d'utiliser des binaires [[file:../../UNIX/Assembler output.org][a.out]].
+
+Si un éxécutable n'arrive pas à trouver une bibliothèque durant son éxécution, il faut essayer de la déplacer dans =/lib=.
