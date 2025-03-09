@@ -1,0 +1,1 @@
+La structure LFS suit les [[file:../../Glossaire/Standard.org][standards]] [[file:../../GNU/Linux.org][Linux]], dont Portable Operating System Interface (UNI)X, File Hierarchy System et Linux Base System.

@@ -1,0 +1,5 @@
+Ce livre explique comment construire son propre système [[file:../GNU/Linux.org][Linux]].
+
+#+begin_quote
+On ne monte pas une partition mais un système de fichiers !
+#+end_quote

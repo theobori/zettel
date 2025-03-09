@@ -1,0 +1,3 @@
+C'est un programme qui transforme un code source en code objet. C'est-à-dire en exécutable, fichier objet ou bibliothèque partagée.
+
+Par exemple, C vers [[file:../GNU/Linux.org][Linux]], Python vers la VM Python, etc.

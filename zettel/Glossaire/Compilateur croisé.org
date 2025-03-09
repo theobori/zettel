@@ -1,0 +1,1 @@
+C'est un [[file:Compilateur.org][compilateur]] qui produit un code pour une [[file:Plateforme.org][plateforme]] différente de celle sur laquelle il s'exécute.
