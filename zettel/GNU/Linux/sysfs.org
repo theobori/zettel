@@ -1,0 +1,3 @@
+C'est un [[file:../../Glossaire/Disque/Partition/Système de fichier virtuel.org][système de fichier virtuel]] qui expose dans l'espace utilisateur des informations sur les périphériques du système et leurs pilotes.
+
+Sur [[file:../Linux.org][Linux]], il est monté dans =/sys=.

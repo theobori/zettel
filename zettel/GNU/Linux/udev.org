@@ -1,0 +1,5 @@
+Ca signifie Userpace /dev, c'est le gestionnaire de périphériques de [[file:../Linux.org][Linux]].
+
+Il créée une [[file:../../Glossaire/Interface.org][interface]] pour communiquer avec les phériphériques dans =/dev=.
+
+Il se base sur les informations exposées dans =/sys= (voir [[file:sysfs.org][sysfs]]).

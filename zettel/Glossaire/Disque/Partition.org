@@ -1,0 +1,5 @@
+C'est une région d'un support de stockage. Par exemple, d'un [[file:../Disque.org][disque dur]].
+
+#+begin_src query
+path:./*
+#+end_src

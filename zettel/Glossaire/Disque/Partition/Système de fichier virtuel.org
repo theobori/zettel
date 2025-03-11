@@ -1,0 +1,3 @@
+#+begin_quote
+C'est une abstraction d'implémentation [[file:Système de fichier.org][système de fichier]] physique.
+#+end_quote

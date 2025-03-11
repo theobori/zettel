@@ -1,0 +1,5 @@
+C'est un matériel informatique qui sert à stocker des données
+
+#+begin_src query
+path:./*
+#+end_src
