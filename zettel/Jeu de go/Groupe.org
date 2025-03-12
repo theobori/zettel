@@ -1,0 +1,5 @@
+Ensemble de [[file:Pierre.org][pierres]] adjacentes de la même couleur.
+
+#+begin_src query
+path:./*
+#+end_src

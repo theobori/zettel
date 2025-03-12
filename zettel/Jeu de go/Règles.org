@@ -1,0 +1,21 @@
+Il y a deux joueurs, qui placent tour à tour, une [[file:Pierre.org][pierre]] sur les intersections vides du [[file:Goban.org][goban]].
+
+Une [[file:Pierre.org][pierre]] posée ne peut plus être déplacée.
+
+Un joueur peut passer sont tour. Si les deux joueurs passent les tours consécutivement, la partie se termine.
+
+** L'objectif d'un joueur
+
+C'est d'avoir le plus de points.
+
+#+begin_quote
+Que l’on mette les choses au clair tout de suite : le but du go n’est pas de capturer des pierres. C’est un élément fondamental du jeu qui régule le bon fonctionnement de la partie, mais le but final reste d’encercler des zones d’intersections vides pour faire des points
+#+end_quote
+
+*** Obtention de points
+
+On peut établir des [[file:Territoire.org][territoires]] ou faire des [[file:Prisionnier.org][prisonniers]] ennemies.
+
+** Interdictions
+
+Il est interdit de poser une [[file:Pierre.org][pierre]] que n'aurait aucune [[file:Liberté.org][libertés]]. Sauf si elle en capture dautres adverses.

@@ -1,0 +1,4 @@
+C'est un [[file:../Groupe.org][groupe]] non capturable qui possède au moins deux [[file:Oeil.org][yeux]]
+
+En exemple, l'image ci-dessous, où les groupes de =A= et =B= sont des [[file:Oeil.org][yeux]] et où les [[file:../Groupe.org][groupes]] vivants sont noirs.
+[[file:Attachments/2025-03-12_20-06-27_screenshot.png]]

@@ -1,0 +1,5 @@
+C'est un jeu de stratégie d'origine asiatique vieux de plus de 2500 ans, un des plus vieux du monde.
+
+#+begin_src query
+path:./*
+#+end_src

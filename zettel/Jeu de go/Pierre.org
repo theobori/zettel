@@ -1,0 +1,1 @@
+C'est l'élément du jeu associé à un joueur en fonction d'une couleur.
