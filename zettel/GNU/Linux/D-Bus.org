@@ -1,0 +1,4 @@
+Ca signifie Desktop Bus, c'est un système de bus de messages qui sert à la communication inter-processus.
+
+=dbus-daemon= implémente ce système bus de messages avec la bibliothèque dbus.
+
