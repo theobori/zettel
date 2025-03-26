@@ -1,0 +1,3 @@
+C'est un programme qui code, decode, compress, decompress des données, par exemple, audio.
+
+Un exemple concret serait MP3 vers PCM (Pulse-code modulation). Il y a aussi des codecs bluetooth audio, etc.

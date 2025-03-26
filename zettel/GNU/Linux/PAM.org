@@ -1,0 +1,1 @@
+Ca signifie Pluggable Authentication Module. C'est une bibliothèque qui permet de gérer les authentifications et les autorisations sur le un système [[file:../Linux.org][Linux]].
