@@ -1,0 +1,1 @@
+C'est un [[file:../geom.org][geom]] qui utilise les services d'autres [[file:../geom.org][geoms]] de type [[file:Provider.org][provider]]. Pour faire ça, il place un hook sur le [[file:Provider.org][provider]] cible.

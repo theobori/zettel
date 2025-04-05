@@ -1,0 +1,1 @@
+Chaque module [[file:../GEOM.org][GEOM]] à son répertoire dans =/dev=, les noeuds de périphériques dans ces dossiers représente chaque provider du module.

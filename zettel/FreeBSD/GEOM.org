@@ -1,0 +1,7 @@
+Le nom GEOM vient de l'expression disk geometry. C'est un framework de stockage qui se situe entre les noeuds de périphérique (/dev/da0) et les pilotes pour les périphériques de stockage. Il transforme les requêtes d'entrée et de sortie entre les deux.
+
+[[file:Attachments/2025-04-05_17-45-25_screenshot.png]]
+
+#+begin_src query
+path:./*
+#+end_src

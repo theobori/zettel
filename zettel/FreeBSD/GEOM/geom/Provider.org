@@ -1,0 +1,1 @@
+C'est un [[file:../geom.org][geom]] qui propose des services à d'autres [[file:../geom.org][geoms]].

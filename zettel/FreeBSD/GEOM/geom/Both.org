@@ -1,0 +1,1 @@
+C'est un [[file:../geom.org][geom]] qui utilise les services de [[file:Provider.org][providers]] et qui à son tour en propose.

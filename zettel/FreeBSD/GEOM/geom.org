@@ -1,0 +1,5 @@
+C'est une instance d'une classe [[file:../GEOM.org][GEOM]].
+
+#+begin_src query
+path:./*
+#+end_src
