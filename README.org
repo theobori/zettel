@@ -1,0 +1,9 @@
+* My public zettelkasten
+
+[[https://github.com/theobori/zettel/actions/workflows/deploy.yaml][https://github.com/theobori/zettel/actions/workflows/deploy.yaml/badge.svg]]
+
+This website is the public [[file:zettel/Glossaire/Zettelkasten.org][Zettelkasten]] of [[https://theobori.cafe][Théo Bori]], where I write down things I learn and find interesting. Some notes are written in English, but the overwhelming majority are written in French.
+
+Not all notes are IT-related!
+
+The notes are managed with the [[file:zettel/GNU.org][GNU]] [[file:zettel/Livres/Masterring Emacs, Mickey Petersen/Emacs.org][Emacs]] Org [[file:zettel/Livres/Masterring Emacs, Mickey Petersen/2. The ways of Emacs/Mode.org][Mode]] from a [[file:zettel/NixOS.org][NixOS]] machine.
