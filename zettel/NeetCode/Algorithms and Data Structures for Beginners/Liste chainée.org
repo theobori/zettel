@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID: 21EE57E4-D78C-4D33-8153-EFCBE24D0262
-:END:
-#+title: Liste chainée
-
-Rien de nouveau.
-
-** Conseils
-Pour https://leetcode.com/problems/merge-two-sorted-lists, dummy ListNode et return dummy.next.

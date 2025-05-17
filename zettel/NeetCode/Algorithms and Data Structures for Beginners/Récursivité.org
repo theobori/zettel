@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID: C5D02D58-20DE-4651-BA36-F3B1981C05BD
-:END:
-#+title: Récursivité
-
-Il explique les bases et explique le concepte de mémorisation.
-
-** Conseils
-Utiliser une fonctionn interne nommée =helper=
