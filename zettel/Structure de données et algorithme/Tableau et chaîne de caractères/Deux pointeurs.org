@@ -1,0 +1,2 @@
+C'est une technique de résolution de problèmes [[file:../Algorithme.org][algorithmiques]] qui implique deux variables ayant pour valeur des entiers (souvent positifs).
+

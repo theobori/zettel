@@ -1,0 +1,1 @@
+C'est un set d'éléments d'un [[file:../Tableau et chaîne de caractères.org][tableau]] qui conserve l'ordre relatif mais n'ont pas besoin d'être [[file:../../Glossaire/Contigu.org][contigus]].

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: 8886CCD4-E608-433D-842C-B22B94AD33A0
+:END:
+#+title: La notation Big O
+
+La notation Big O sert à décrire la [[file:Complexité.org][compléxite]] d'un [[file:Algorithme.org][algorithme]].
+
+** Les règles
+
+1. Ignorer les constantes, par exemple, =O(3n)= se transforme en =O(n)=.
+2. On considère que les variables tendent vers l'infini.

@@ -5,7 +5,7 @@
 
 Une stack a les opérations suivantes: - push - pop - peek/top
 
-Elles ont tous un Big-O ([[file:../../Glossaire/La notation Big O.org][La notation Big O]]) time O(1), sont de type LIFO
+Elles ont tous un Big-O ([[file:../../Structure de données et algorithme/La notation Big O.org][La notation Big O]]) time O(1), sont de type LIFO
 
 *** Conseils
 Pour https://leetcode.com/problems/min-stack/, utiliser une liste de couple au lieu de 2 listes était plus élégant.

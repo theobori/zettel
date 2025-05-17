@@ -1,0 +1,1 @@
+La [[file:../Complexité.org][complexité]] amortie résulte de l'analyse amortie qui consiste à réduire le cout des opérations très couteuse et peu fréquente.

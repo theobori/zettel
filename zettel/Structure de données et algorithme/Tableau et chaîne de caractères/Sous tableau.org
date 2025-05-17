@@ -1,0 +1,1 @@
+C'est un groupe d'éléments [[file:../../Glossaire/Contigu.org][contigus]] dans un [[file:../Tableau et chaîne de caractères.org][tableau]] qui conservent l'ordre original.

@@ -1,0 +1,3 @@
+C'est une séquence d'instructions éxécuté les unes après les autres. En général, l'objectif est résoudre un problème.
+
+Il prend une entrée et produit une sortie qu'on suppose être la réponse à notre problème.

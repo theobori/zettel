@@ -3,7 +3,7 @@
 :END:
 #+title: Arrays
 
-Par exemple, get un élément dans une liste static est O(1) (voir [[file:../../Glossaire/La notation Big O.org][La notation Big O]]).
+Par exemple, get un élément dans une liste static est O(1) (voir [[file:../../Structure de données et algorithme/La notation Big O.org][La notation Big O]]).
 
 Ca parle de static array vs dynamic array, de la taille de int vs char, etc..
 

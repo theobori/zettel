@@ -1,0 +1,3 @@
+C'est une technique utilisée sur les [[file:../Tableau et chaîne de caractères.org][tableaux]] de nombres où on remplace chaque élément par la somme des élements précédents + lui-même.
+
+Construire une somme de préfixe est une forme de [[file:../Prétraitement.org][prétraitement]] des données.

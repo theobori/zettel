@@ -1,0 +1,1 @@
+C'est une stratégie où on stoque des données précalculées dans une structure de données avant d'exécuter la logique principale de l'[[file:Algorithme.org][algorithme]].

@@ -1,0 +1,7 @@
+C'est la quantité de ressources nécessaires à l'exécution d'un [[file:Algorithme.org][algorithme]]. En général on utilise le temps et la mémoire en tant que ressources.
+
+Un [[file:Algorithme.org][algorithme]] performant consomme peu de temps et de mémoire.
+
+#+begin_quote
+L'objectif de la complexité de temps n'est pas de représenter le nombre exact d'étapes! C'est surtout de décrire comment évolue le nombre d'opérations en fonction de l'entrée.
+#+end_quote

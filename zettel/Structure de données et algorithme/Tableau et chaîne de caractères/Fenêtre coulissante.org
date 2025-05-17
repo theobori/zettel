@@ -1,0 +1,3 @@
+C'est le même principe qu'avec [[file:Deux pointeurs.org][les deux pointeurs]], c'est surtout utilisé pour valider des [[file:Sous tableau.org][sous tableaux]].
+
+La validation doit en général vérifier une contrainte [[file:../../Monitoring/Métrique.org][métrique]] (somme, nombre de 1, etc.) ou une restriction sur cette contrainte.

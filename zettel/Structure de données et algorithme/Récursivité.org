@@ -1,0 +1,1 @@
+En programmation, la [[file:../Glossaire/Récursivité.org][récursivité]] est implémentée dans la majorité des cas en écrivant une fonction qui s'appelle elle-même.

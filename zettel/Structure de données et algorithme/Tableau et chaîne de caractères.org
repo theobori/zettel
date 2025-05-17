@@ -1,0 +1,8 @@
+Un tableau c'est un ensemble d'éléments ordonnés.
+Une chaîne de caractères c'est un tableau où chaque élément a une taille de un octet.
+
+On suppose que tout tableau dans ce chapitre est dynamique, c'est-à-dire qu'il a une taille ajustable.
+
+#+begin_src query
+path:./*
+#+end_src
