@@ -1,0 +1,1 @@
+Une utilité très commune des [[file:Table de hachage.org][table de hachage]] et des [[file:Set de hachage.org][set de hachage]] est la vérification de l'existence d'une valeur, qui en [[file:../Complexité.org][complexité]] de temps est décrite par =O(1)= (pour un [[file:../Tableau et chaîne de caractères.org][tableau]] ce serait =O(taille du tableau)=).

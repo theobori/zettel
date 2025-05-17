@@ -1,0 +1,5 @@
+C'est un système de clés et de valeurs non ordonné. En général, l'implémentation est basée sur un [[file:../Tableau et chaîne de caractères.org][tableau]] où les valeurs sont écrite aux indexes obtenus grâce à une [[file:Fonction de hachage.org][fonction de hachage]].
+
+#+begin_quote
+Il existe aussi des table de hachage ordonée, c'est-à-dire, qui garde une trace de l'ordre d'insertion.
+#+end_quote

@@ -1,0 +1,1 @@
+C'est un ensemble d'éléments non ordonné où chaque élément est unique. En général, l'implémentation est basée sur un [[file:../Tableau et chaîne de caractères.org][tableau]] où les valeurs sont écrite aux indexes obtenus grâce à une [[file:Fonction de hachage.org][fonction de hachage]].

@@ -1,0 +1,1 @@
+Elle est déterministe, elle transforme un paquet de données immuable en un paquets d'octets d'un taille restreinte.
