@@ -1,0 +1,1 @@
+C'est une valeur dans une structure de données qui indique la fin des données.

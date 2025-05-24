@@ -1,0 +1,3 @@
+C'est une [[file:../Noeud.org][noeud]] qui peut indiquer la fin des la [[file:../Liste chaînée.org][liste chaînée]] ou le début.
+
+C'est utile dans divers cas pour rendre un [[file:../Algorithme.org][algorithme]] plus élégant.

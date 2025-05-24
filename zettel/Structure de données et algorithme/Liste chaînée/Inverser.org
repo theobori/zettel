@@ -1,0 +1,3 @@
+Inverser une [[file:../Liste chaînée.org][liste chaînée]] ou une partie est une technique utile pour résoudre des problèmes.
+
+Par exemple pour trouver la somme tel que =i + n - i=...

@@ -1,0 +1,1 @@
+C'est un conteneur qui contient des données et une ou plusieurs références vers d'autres noeuds.
