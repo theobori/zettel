@@ -1,0 +1,3 @@
+Qualifie une structure de données qui est toujours triée (odre croissant, décroissant, non-croissant, non-décroissant).
+
+Les [[file:Pile.org][piles]] et [[file:File.org][files]] monotones sont surtout utilisées pour trouver le "prochain" élément basé sur certains critères. Aussi pour maintenir le minimum ou maximum dans une [[file:../Tableau et chaîne de caractères/Fenêtre coulissante.org][fenêtre coulissante]].

@@ -1,0 +1,1 @@
+Ca signifie first in first out. C'est un traitement selon lequel le premier élément ajouté sera le premier éjecté.
