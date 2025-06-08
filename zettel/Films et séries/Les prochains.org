@@ -32,17 +32,17 @@ Listes non exhaustives des films vus et à voir.
 - [X] The bay
 - [ ] Freddie krueger
 - [ ] The descent
-- [ ] Donnie darko
+- [X] Donnie darko
 - [X] Vermines
 - [X] Cloverfield
 - [X] Sorgoi Prakov
 - [ ] The house
-- [ ] Afflicted
+- [X] Afflicted
 - [X] VHS
 - [ ] Phoenix Forgotten
-- [ ] Butterfly Kisses
+- [X] Butterfly Kisses
 - [ ] Lake Mungo
-- [ ] Revoir Blair Witch (2016)
+- [X] Revoir Blair Witch (2016)
 
 *** A voir absolument
 - [X] La Ligne Verte
@@ -74,8 +74,8 @@ Listes non exhaustives des films vus et à voir.
 - [X] Full metal jacket
 - [ ] Edward aux mains d'argent
 - [ ] Requiem for a dream
-- [ ] Kill bill 1 (revoir)
-- [ ] Kill bill 2 (revoir)
+- [X] Kill bill 1 (revoir)
+- [X] Kill bill 2 (revoir)
 - [X] La vie d'adèle
 - [ ] Le silence des agneaux
 - [ ] Elephant
