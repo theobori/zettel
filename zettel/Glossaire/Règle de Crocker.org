@@ -1,0 +1,3 @@
+C'est une règle selon laquelle le discours (des autres vers moi) doit être le plus efficace possible, sans ménagement.
+
+Voir [[http:sl4.org/crocker.html][sl4.org/crocker.html]].
