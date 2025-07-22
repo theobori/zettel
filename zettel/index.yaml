@@ -11,3 +11,7 @@ template:
   iconUrl: ${ema:homeUrl}nixos.svg
   theme: red
   urlStrategy: pretty
+
+pandoc:
+  rewriteClass:
+    emanote:placeholder-message: hidden
