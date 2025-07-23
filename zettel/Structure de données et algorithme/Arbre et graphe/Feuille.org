@@ -1,0 +1,1 @@
+C'est un [[file:../Noeud.org][noeud]] qui n'a pas de [[file:../Noeud.org][noeuds]] enfants.

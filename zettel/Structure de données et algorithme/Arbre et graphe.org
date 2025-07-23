@@ -1,0 +1,7 @@
+Un graphe est un ensemble de [[file:Noeud.org][noeuds]] où chacun pointe vers un autre. Les [[file:Noeud.org][noeuds]] sont appelés sommets et les relations des arrêtes.
+
+Un arbre est un type de graphe, comme les [[file:Liste chaînée.org][listes chaînées]].
+
+#+begin_src query
+path:./*
+#+end_src

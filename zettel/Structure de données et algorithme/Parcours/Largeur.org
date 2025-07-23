@@ -1,0 +1,1 @@
+C'est le parcours d'une structure de données où chaque élément est visité en priorisant la visite des voisins du même étage.

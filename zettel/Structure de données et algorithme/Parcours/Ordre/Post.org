@@ -1,0 +1,1 @@
+La logique est effectuée après la visite de l'élément suivant.

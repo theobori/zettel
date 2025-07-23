@@ -1,0 +1,1 @@
+C'est un [[file:../Arbre et graphe.org][arbre]] où chaque [[file:../Noeud.org][noeud]] a au maximum 2 [[file:../Noeud.org][noeuds]] enfants.
