@@ -1,4 +1,4 @@
-:PROPERTIES:
+>:PROPERTIES:
 :ID: 1F7122E7-C4C8-49B0-A987-7ABC2895C5F7
 :END:
 #+title: Trucs stylés
@@ -82,3 +82,4 @@ Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
 - https://catoonhub.com
 - [[https:www.journalduhacker.net/][https://www.journalduhacker.net/]]
 - [[https:red.flag.domains/][https://red.flag.domains/]]
+- [[https:noai.duckduckgo.com/][https://noai.duckduckgo.com/]]
