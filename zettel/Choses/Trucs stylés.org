@@ -83,3 +83,4 @@ Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
 - [[https:www.journalduhacker.net/][https://www.journalduhacker.net/]]
 - [[https:red.flag.domains/][https://red.flag.domains/]]
 - [[https:noai.duckduckgo.com/][https://noai.duckduckgo.com/]]
+- [[https:algorithmic-sabotage.github.io/asrg][https://algorithmic-sabotage.github.io/asrg/]]
