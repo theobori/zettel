@@ -1,0 +1,1 @@
+C'est une [[file:../Glossaire/Architecture.org][architecture]] de réseau informatique, où figure les équipements et les relations entre eux. Il peut y avoir une hiérarchie entre eux.
