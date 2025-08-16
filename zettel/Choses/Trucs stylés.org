@@ -4,15 +4,12 @@ Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
 
 - [[file:http://www.rosaliewagner.com/img/Portfolio_RWagner.pdf.org][http://www.rosaliewagner.com/img/Portfolio_RWagner.pdf]]
 - https://ewalthert.com/
-- Type designer / font engineer
 - https://lock.cmpxchg8b.com/
 - https://lock.cmpxchg8b.com/zenbleed.html
 - https://xkcd.com/
 - https://azeria-labs.com/writing-arm-assembly-part-1/
 - https://www.scummvm.org/
-- nitter (access twitter sans compte)
-- icecat
-- ngrok
+- nitter (voir instance [[https:xcancel.com][https://xcancel.com/]])
 - proxitok
 - [[https://swizec.com/blog/the-wally-reflector/][https://swizec.com/blog/the-wally-reflectoér/]]
 - https://tilde.news/
@@ -44,7 +41,6 @@ Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
 - https://hub.docker.com/r/wernight/duplicity/
 - tetragon (security, observability throught eBPF)
 - https://eternal.lol/
-- reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion
 - XDP
 - https://wizardzines.com/
 - https://thephilosophyforum.com/
@@ -81,3 +77,5 @@ Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
 - [[https:red.flag.domains/][https://red.flag.domains/]]
 - [[https:noai.duckduckgo.com/][https://noai.duckduckgo.com/]]
 - [[https:algorithmic-sabotage.github.io/asrg][https://algorithmic-sabotage.github.io/asrg/]]
+- [[https:blog.zwindler.fr][https://blog.zwindler.fr]]
+- [[http:it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion][darktea]]
