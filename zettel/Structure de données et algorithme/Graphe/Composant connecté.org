@@ -1,0 +1,1 @@
+C'est un groupe de [[file:Sommet.org][sommets]] connectés par des [[file:Arête.org][arêtes]].

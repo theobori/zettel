@@ -1,0 +1,1 @@
+C'est une représentation de [[file:../Graphe.org][graphe]] courante où les [[file:Sommet.org][sommets]] sont représentés par les indexes de la liste et chaque élément représente les [[file:Sommet.org][sommets]] voisins.

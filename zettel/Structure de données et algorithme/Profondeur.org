@@ -1,0 +1,1 @@
+C'est la distance d'un [[file:Noeud.org][noeud]] avec le [[file:Noeud.org][noeud]] racine.

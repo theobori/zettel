@@ -1,0 +1,1 @@
+C'est une représentation de [[file:../Graphe.org][graphe]] courante ou chaque élément est une paire de [[file:Sommet.org][sommets]].

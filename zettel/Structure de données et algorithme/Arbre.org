@@ -1,0 +1,5 @@
+C'est un type de [[file:Graphe.org][graphe]], comme les [[file:Liste chaînée.org][listes chaînées]].
+
+#+begin_src query
+path:./*
+#+end_src

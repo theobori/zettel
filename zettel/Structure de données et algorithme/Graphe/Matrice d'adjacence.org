@@ -1,0 +1,1 @@
+C'est une représentation de [[file:../Graphe.org][graphe]] courante où les [[file:Sommet.org][sommets]] sont représentés par les indexes de la liste. Une relation entre un [[file:Sommet.org][sommet]] =a= vers un [[file:Sommet.org][sommet]] =b= est décrite par =matrix[a][b]=. En général, si la valeur est 1, la relation existe.

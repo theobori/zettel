@@ -1,0 +1,1 @@
+C'est une représentation de [[file:../Graphe.org][graphe]] très courante où chaque cellule représente un [[file:Sommet.org][sommet]] connecté aux [[file:Sommet.org][sommets]] adjacents.

@@ -5,3 +5,7 @@ Un [[file:Algorithme.org][algorithme]] performant consomme peu de temps et de m�
 #+begin_quote
 L'objectif de la complexité de temps n'est pas de représenter le nombre exact d'étapes! C'est surtout de décrire comment évolue le nombre d'opérations en fonction de l'entrée.
 #+end_quote
+
+#+begin_src query
+path:./*
+#+end_src

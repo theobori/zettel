@@ -1,0 +1,5 @@
+C'est un ensemble de [[file:Noeud.org][noeuds]] où chacun pointe vers un autre.
+
+#+begin_src query
+path:./*
+#+end_src

@@ -1,3 +1,0 @@
-C'est un [[file:../Noeud.org][noeud]] et tous ses descendants.
-
-N'importe quel [[file:../Noeud.org][noeud]] peut être considéré comme un [[file:../Arbre et graphe.org][arbre]].

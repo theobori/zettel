@@ -1,0 +1,1 @@
+C'est un [[file:Sommet.org][sommet]] connecté à un autre [[file:Sommet.org][sommet]] par une [[file:Arête.org][arête]] qui est atteignable.
