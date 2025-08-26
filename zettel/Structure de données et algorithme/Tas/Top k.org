@@ -1,0 +1,1 @@
+C'est très courant de demander les =k= meilleurs éléments, "meilleur" étant différent selon le contexte.

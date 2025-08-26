@@ -1,0 +1,1 @@
+C'est une structure de données qu permet de récupérer l'élément le plus prioritaire en premier. Par exemple, l'élément le plus petit.

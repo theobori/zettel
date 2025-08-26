@@ -1,0 +1,5 @@
+C'est une implémentation de [[file:File de priorité.org][file de priorité]].
+
+#+begin_src query
+path:./*
+#+end_src
