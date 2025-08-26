@@ -1,0 +1,1 @@
+Ca qualifie un [[file:Algorithme.org][algorithme]] qui prend localement la décision optimale à chaque étape. C'est-à-dire qu'il prend la meilleure décision avec les options disponibles à l'étape actuelle.
