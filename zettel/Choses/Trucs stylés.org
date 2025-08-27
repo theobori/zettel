@@ -79,3 +79,5 @@ Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
 - [[https:algorithmic-sabotage.github.io/asrg][https://algorithmic-sabotage.github.io/asrg/]]
 - [[https:blog.zwindler.fr][https://blog.zwindler.fr]]
 - [[http:it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion][darktea]]
+- [[https:equa.space][equa.space]]
+- [[https:tilde.town/~zine][tilde.town/~zine]]
