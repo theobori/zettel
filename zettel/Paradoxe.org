@@ -1,0 +1,5 @@
+C'est une idée surprenante, choquante, qui va à l'encontre du sens commun.
+
+#+begin_src query
+path:./*
+#+end_src
