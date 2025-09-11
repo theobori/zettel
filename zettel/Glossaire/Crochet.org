@@ -1,0 +1,3 @@
+C'est un point d'entrée vers une liste d'actions. Ca permet de personnaliser le fonctionnement d'un logiciel.
+
+En général, un hook (un crochet) intercepte des évenements, des appels ou encore des messages.
