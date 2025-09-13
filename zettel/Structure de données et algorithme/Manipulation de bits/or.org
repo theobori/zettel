@@ -1,0 +1,1 @@
+Le résultat est 1 si n'importe quel bit vaut 1, sinon 0.

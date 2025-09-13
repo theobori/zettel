@@ -1,0 +1,1 @@
+C'est une valeur précise qui se focalise sur certains bits.

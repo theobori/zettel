@@ -1,0 +1,3 @@
+C'est un arbre, où, en général, chaque noeud représente une lettre d'un mot et où chaque chemin représente un mot.
+
+C'est aussi appelé un arbre de préfixe.

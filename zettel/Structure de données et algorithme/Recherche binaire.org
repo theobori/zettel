@@ -1,0 +1,1 @@
+C'est un [[file:Algorithme.org][algorithme]] de recherche qui consiste à diviser l'espace de recherche de moitié à chaque étape. Il permet aussi de trouver le point d'insertion le plus à gauche ou le plus à droite.

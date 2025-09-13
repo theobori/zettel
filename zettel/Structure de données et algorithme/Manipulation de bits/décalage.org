@@ -1,0 +1,3 @@
+Un décalage vers la gauche déplace tous les bits vers la gauche. Ca "ajoute" un 0 au début (à droite).
+
+Un décalage vers la droite déplace tous les bits vers la droite. Le premier bit (le plus à droite) est donc "retiré".

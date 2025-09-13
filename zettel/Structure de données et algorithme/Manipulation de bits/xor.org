@@ -1,0 +1,1 @@
+Le résultat est 1 si le nombre de bits qui valent 1 est impaire, sinon 0
