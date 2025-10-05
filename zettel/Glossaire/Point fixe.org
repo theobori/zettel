@@ -1,0 +1,1 @@
+C'est un argument d'une fonction avec lequel le résultat de la fonction est égal à lui même, tel que =f(x)=x=
