@@ -1,0 +1,3 @@
+Ca signifie Linux Standard Base, c'est un projet qui définit un ensemble de standards pour améliorer la compatibilité entre les distributions [[file:../Linux.org][Linux]].
+
+

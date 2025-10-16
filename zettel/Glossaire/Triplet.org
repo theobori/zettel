@@ -1,0 +1,1 @@
+C'est un nom composé de quatres composants cpu-fabricant-noyau-os qui désigne un système ou une plateforme.
