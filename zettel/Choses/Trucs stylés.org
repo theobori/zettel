@@ -76,10 +76,10 @@ Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
 - [[https:www.journalduhacker.net/][https://www.journalduhacker.net/]]
 - [[https:red.flag.domains/][https://red.flag.domains/]]
 - [[https:noai.duckduckgo.com/][https://noai.duckduckgo.com/]]
-- [[https:algorithmic-sabotage.github.io/asrg][https://algorithmic-sabotage.github.io/asrg/]]
+- https://tldr.nettime.org/@asrg ([[https:algorithmic-sabotage.github.io/asrg][https://algorithmic-sabotage.github.io/asrg/]] is dead)
 - [[https:blog.zwindler.fr][https://blog.zwindler.fr]]
 - [[http:it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion][darktea]]
-- [[https:equa.space][equa.space]]
+- [[https://equa.space][equa.space]]
 - [[https://tilde.town/~zine][tilde.town/~zine]]
 - [[https://q1tools.github.io][q1tools.github.io]]
 - [[https://www.privacyguides.org/fr/basics/why-privacy-matters][https://www.privacyguides.org/fr/basics/why-privacy-matters]]
