@@ -1,0 +1,1 @@
+C'est un [[file:../Glossaire/Disque/Partition/Système de fichier.org][système de fichiers]] racine supposé minimal dont l'objectif final est de monter le [[file:../Glossaire/Disque/Partition/Système de fichier.org][système de fichiers]] racine que va utiliser le noyau. C'est une image sous forme de fichier qui va être chargée dans la mémoire.

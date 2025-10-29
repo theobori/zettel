@@ -1,0 +1,1 @@
+La seule différence avec un [[file:Initramfs.org][initramfs]], c'est qu'un périphérique virtuel =ramdev= est utilisé.
