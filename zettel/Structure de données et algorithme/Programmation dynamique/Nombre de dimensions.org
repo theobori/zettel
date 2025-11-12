@@ -1,0 +1,1 @@
+Ca correspond au nombre de variables d'[[file:Etat.org][état]]. Un [[file:../Algorithme.org][algorithme]] avec plusieurs variables d'[[file:Etat.org][état]] est multi-dimensionnel.

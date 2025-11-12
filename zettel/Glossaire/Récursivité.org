@@ -3,7 +3,11 @@
 :END:
 #+title: Récursivité
 
+#+begin_quote
 La récursivité est une démarche qui fait référence à l'objet même de la démarche à un moment du processus.
+#+end_quote
+
+Caractère de ce qui est récursif.
 
 ** Contexte
 - Algorithme récursif (cours, [[file:../NixOS/Nix.org][Nix]])

@@ -1,0 +1,7 @@
+C'est une technique d'[[file:Algorithme.org][algorithmie]] qui consiste à décomposer le problème en sous problèmes.
+
+On dit parfois que c'est de la [[file:../Glossaire/Récursivité.org][récursivité]] optimisée. Ici le terme programmation signifie planification.
+
+#+begin_src query
+path:./*
+#+end_src

@@ -1,0 +1,1 @@
+Aussi appelée tabulation, c'est une méthode en [[file:../Algorithme.org][algorithmie]] dont le but est de partir des cas de base pour progresser vers des problèmes plus complexes.

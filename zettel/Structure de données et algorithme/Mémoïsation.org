@@ -1,0 +1,1 @@
+C'est la mise en cache du résultat d'une fonction associée à ses arguments.

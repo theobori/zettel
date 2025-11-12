@@ -1,0 +1,1 @@
+Ca désigne un ensemble de variables qui décrivent un scénario. Par exemple, les arguments d'une fonction [[file:../../Glossaire/Récursif.org][récursive]].

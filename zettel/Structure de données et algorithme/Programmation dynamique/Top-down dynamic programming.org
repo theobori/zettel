@@ -1,0 +1,1 @@
+C'est une méthode en [[file:../Algorithme.org][algorithmie]] qui utilise la [[file:../../Glossaire/Récursivité.org][récursivité]] et la [[file:../Mémoïsation.org][mémoïsation]]. Le but est de partir des cas les plus complexes pour progresser vers les cas de bases (haut vers le bas).
