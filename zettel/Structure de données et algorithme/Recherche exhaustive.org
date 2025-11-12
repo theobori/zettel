@@ -1,0 +1,1 @@
+C'est un [[file:Algorithme.org][algorithme]] de recherche qui consiste à générer toutes les solutions possibles, puis les vérifier une à une pour trouver une solution.

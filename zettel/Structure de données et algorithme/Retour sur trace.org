@@ -1,0 +1,3 @@
+C'est un [[file:Algorithme.org][algorithme]] de recherche qui consiste à revenir sur ses pas quand un chemin ne peut pas être utiliser pour la solution.
+
+C'est une optimisation de la [[file:Recherche exhaustive.org][recherche exhaustive]].
