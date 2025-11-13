@@ -31,7 +31,7 @@ Listes non exhaustives des films vus et à voir.
 - [X] Psychose
 - [X] The bay
 - [ ] Freddie krueger
-- [ ] The descent
+- [X] The descent
 - [X] Donnie darko
 - [X] Vermines
 - [X] Cloverfield
