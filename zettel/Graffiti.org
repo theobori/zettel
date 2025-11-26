@@ -1,0 +1,5 @@
+C'est un dessin, une inscription stylisée, souvent réalisée de manière illicite.
+
+#+begin_src query
+path:./*
+#+end_src

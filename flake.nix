@@ -22,6 +22,7 @@
       {
         packages = {
           default = pkgs.callPackage ./. { };
+          emanote-live = pkgs.writeShellScriptBin "emanote-live" "${pkgs.emanote}/bin/emanote -L ./zettel";
         };
 
         devShells = {

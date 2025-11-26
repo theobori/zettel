@@ -4,7 +4,7 @@
   emanote,
 }:
 stdenvNoCC.mkDerivation {
-  pname = "notes";
+  pname = "my-zettelkasten";
   version = "0.0.1";
 
   src = ./.;
@@ -20,8 +20,8 @@ stdenvNoCC.mkDerivation {
   buildPhase = ''
     runHook preBuild
 
-    mkdir -p output
-    emanote --layers "./zettel" gen output
+    mkdir -p emanote_output
+    emanote --layers "./zettel" gen emanote_output
 
     runHook postBuild
   '';
@@ -29,7 +29,7 @@ stdenvNoCC.mkDerivation {
   installPhase = ''
     runHook preInstall
 
-    cp -r output $out
+    cp -r emanote_output $out
 
     runHook postInstall
   '';

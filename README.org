@@ -7,3 +7,9 @@ This website is the public [[file:zettel/Glossaire/Zettelkasten.org][Zettelkaste
 Not all notes are IT-related!
 
 The notes are managed with the [[file:zettel/GNU.org][GNU]] [[file:zettel/Livres/Masterring Emacs, Mickey Petersen/Emacs.org][Emacs]] Org [[file:zettel/Livres/Masterring Emacs, Mickey Petersen/2. The ways of Emacs/Mode.org][Mode]] from a [[file:zettel/NixOS.org][NixOS]] machine.
+
+For the development, I recommend to launch the live web server with the following command. It will watch the [[file:zettel/][zettel]] folder and reload the needed file with the changes.
+
+#+begin_src shell
+nix run .#emanote-live
+#+end_src

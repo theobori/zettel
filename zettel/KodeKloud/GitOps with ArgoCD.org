@@ -4,7 +4,7 @@
 
 ArgoCD est un outil qui met en application le [[file:../Glossaire/GitOps.org][GitOps]]. Il permet de deployer des applications déclarées pour [[file:Certified Kubernetes Administrator/Kubernetes.org][Kubernetes]].
 
-Il va monitorer une source de vérité, donc des dépôts Git puis comparer l'état déclarer (depot Git) à l'état actuel ([[file:Certified Kubernetes Administrator/Kubernetes.org][Kubernetes]]).
+Il va monitorer une source de vérité, par exemple des dépôts Git, puis comparer l'état déclarer (depot Git) à l'état actuel ([[file:Certified Kubernetes Administrator/Kubernetes.org][Kubernetes]]).
 
 Ci-dessous, un schéma comparatif entre le DevOps et le [[file:../Glossaire/GitOps.org][GitOps]].
 
