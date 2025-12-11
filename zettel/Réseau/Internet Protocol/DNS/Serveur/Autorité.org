@@ -3,4 +3,4 @@
 :END:
 #+title: Autorité
 
-Le détenteur final de l'adresse [[file:../../../Internet Protocol.org][Internet Protocol]] correspondant au nom de domaine.
+Le détenteur final de l'adresse [[file:../../../Internet Protocol.org][IP]] correspondant au nom de domaine.

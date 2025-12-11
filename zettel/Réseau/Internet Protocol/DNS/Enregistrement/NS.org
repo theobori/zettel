@@ -1,0 +1,8 @@
+Il permet de spécifier un [[file:../Serveur/Autorité.org][serveur DNS d'autorité]] pour un domaine ou des sous-domaines.
+
+** Utilité dans mon cas
+
+Je possède une [[file:../Zone.org][zone DNS]] dans un [[file:../../../../Cloud.org][cloud]] pour =theobori.cafe.= et ça peut servir aux raisons suivantes:
+- Vérifier que le NS annoncé par le TLD correspond bien
+- Délégation de sous-domaines
+- Respecter les standards RFC

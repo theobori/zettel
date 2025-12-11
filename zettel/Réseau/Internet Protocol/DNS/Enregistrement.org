@@ -4,3 +4,7 @@
 #+title: Enregistrement
 
 C'est un ensemble d'instruction utilisées pour associer les noms de domaines aux adresse [[file:../../Internet Protocol.org][Internet Protocol]].
+
+#+begin_src query
+path:./
+#+end_src
