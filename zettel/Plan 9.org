@@ -1,0 +1,1 @@
+C'est un système d'exploitation pour ordinateur qui n'est pas [[file:UNIX.org][UNIX]]. Il a été developpé par l'équipe de designers originale d'[[file:UNIX.org][UNIX]] et il est sorti en 1992.

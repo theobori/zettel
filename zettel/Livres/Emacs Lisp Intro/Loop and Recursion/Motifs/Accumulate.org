@@ -2,4 +2,4 @@
 :ID:       c9dee81b-f87c-460e-b350-41e130d0b154
 :END:
 
-L'appel de la fonction utilie le résultat d'un autre appel
+L'appel de la fonction utilie le résultat d'un autre appel.

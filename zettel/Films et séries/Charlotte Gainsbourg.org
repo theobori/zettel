@@ -1,9 +1,9 @@
 Films de Charlotte Gainsbourg triés par ordre chronologique d'après [[https://fr.wikipedia.org/wiki/Charlotte_Gainsbourg][Wikipédia]]
 
-** Films vus [7%] [5/67]
+** Films vus [8%] [6/67]
 - [ ] 1984: Paroles et Musique
 - [ ] 1985: L'Effrontée
-- [ ] 1985: La Tentation
+- [ ] 1985: La Tentation d'Isabelle
 - [ ] 1986: Charlotte for Ever
 - [ ] 1987: Jane B. par Agnès V.
 - [ ] 1987: Kung-fu Master
@@ -24,23 +24,23 @@ Films de Charlotte Gainsbourg triés par ordre chronologique d'après [[https://
 - [ ] 2001: Félix et Lola
 - [ ] 2001: Ma femme est une actrice
 - [ ] 2003: 21 Grammes (21 Grams)
-- [ ] 2004: Ils se marièrent et eurent beaucoup
+- [ ] 2004: Ils se marièrent et eurent beaucoup d'enfants
 - [ ] 2005: L'un reste, l'autre part
 - [ ] 2005: Lemming
-- [ ] 2006: La Science
+- [ ] 2006: La Science des rêves
 - [ ] 2006: Prête-moi ta main
 - [ ] 2006: Golden Door
 - [ ] 2007: I'm Not There
-- [ ] 2009: The City of Your Final
+- [ ] 2009: The City of Your Final Destination
 - [ ] 2009: Max et les Maximonstres (Where the Wild Things Are)
 - [X] 2009: Antichrist
 - [ ] 2009: Persécution
 - [ ] 2010: L'Arbre
 - [X] 2011: Melancholia
-- [ ] 2012: Confession
+- [ ] 2012: Confession d'un enfant du siècle
 - [ ] 2012: Do Not Disturb
 - [X] 2013: Nymphomaniac
-- [ ] 2014: Jacky au royaume
+- [ ] 2014: Jacky au royaume des filles
 - [ ] 2014: Son épouse
 - [ ] 2014: Trois Cœurs
 - [ ] 2014: Samba
@@ -50,20 +50,20 @@ Films de Charlotte Gainsbourg triés par ordre chronologique d'après [[https://
 - [ ] 2016: Ils sont partout
 - [ ] 2016: Dark Murders (Dark Crimes)
 - [ ] 2016: Norman
-- [ ] 2017: Les Fantômes
-- [ ] 2017: Le Bonhomme
-- [ ] 2017: La Promesse
+- [ ] 2017: Les Fantômes d'Ismaël
+- [ ] 2017: Le Bonhomme de neige
+- [ ] 2017: La Promesse de l'aube
 - [ ] 2018: Seuls sur Terre (I Think We're Alone Now)
 - [ ] 2019: Mon chien Stupide
 - [X] 2019: Lux Æterna
 - [ ] 2020: Suzanna Andler
 - [ ] 2021: Les Choses humaines
 - [ ] 2021: Sundown
-- [ ] 2021: Jane par Charlotte (documentaire)
-- [X] 2022: Les Passagers
+- [X] 2021: Jane par Charlotte (documentaire)
+- [X] 2022: Les Passagers de la nuit
 - [ ] 2022: The Pale Blue Eye
 - [ ] 2022: The Almond and the Seahorse
-- [ ] 2023: La Vie pour
+- [ ] 2023: La Vie pour de vrai
 - [ ] 2023: Alpha Gang
 - [ ] 2024: Nous, les Leroy
 - [ ] 2024: Belle
