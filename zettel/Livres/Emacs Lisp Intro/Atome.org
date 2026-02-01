@@ -3,5 +3,6 @@
 :END:
 
 
-C'est un mot.
+Ca désigne un élément indivisible, dans ce contexte, c'est un mot.
+
 Plus précisément, c'est tout ce qui n'est pas une [[file:Cons Cell.org][Cons Cell]].
