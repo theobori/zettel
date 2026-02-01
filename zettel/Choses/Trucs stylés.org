@@ -1,6 +1,8 @@
 #+title: Trucs stylés
 
-Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
+Listes non exhaustives de trucs que j'aime bien ou que je trouve stylés.
+
+** Liste d'[[file:../Glossaire/URI, URL, URN.org][URLs]]
 
 - [[file:http://www.rosaliewagner.com/img/Portfolio_RWagner.pdf.org][http://www.rosaliewagner.com/img/Portfolio_RWagner.pdf]]
 - https://ewalthert.com/
@@ -89,3 +91,9 @@ Liste non exhaustive de trucs que j'aime bien ou que je trouve stylés.
 - https://triapul.cz/
 - https://img.triapul.cz/sect.html
 - https://analognowhere.com/support/
+
+** Liste de phrases
+
+- One day or day one. You decide.
+- [[https://www.editionslibertalia.com/catalogue/la-petite-litteraire/corinne-morel-darleux-plutot-couler-en-beaute][Plutôt couler en beauté que flotter sans grâce.]]
+- Je ne connais pas vraiment l'amour mais je vois ça comme un endroit qu'on n'a pas envie de quitter. - Love (2015)
