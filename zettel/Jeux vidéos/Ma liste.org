@@ -1,13 +1,8 @@
 La liste ci-dessous contient les noms des jeux vidéos que je veux acheter dans le désordre.
 
-** Progression des achats [0/5] [0%]
+** Progression des achats [0/4] [0%]
 
 - [ ] [[https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/?l=french][LEGO® Batman™: The Videogame]]
 - [ ] [[https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight][LEGO® Batman™: Legacy of the Dark Knight]]
-- [ ] [[https://store.steampowered.com/app/782330/DOOM_Eternal][DOOM Eternal]]
-- [ ] [[https://store.steampowered.com/app/1091500/Cyberpunk_2077][Cyberpunk 2077]]
-- [ ] [[https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages][DOOM: The Dark Ages]]
-- [ ] [[https://store.steampowered.com/app/1229490/ULTRAKILL][ULTRAKILL]]
-- [ ] [[https://store.steampowered.com/app/824270/KovaaKs][KovaaK's]]
 - [ ] [[https://store.steampowered.com/app/632360/Risk_of_Rain_2][Risk of Rain 2]]
-- [ ] [[https://store.steampowered.com/app/1359980/POSTAL_Brain_Damaged][POSTAL: Brain Damaged]]
+- [ ] [[https://store.steampowered.com/app/2996040/Teenage_Mutant_Ninja_Turtles_Splintered_Fate/][Teenage Mutant Ninja Turtles: Splintered Fate]]
