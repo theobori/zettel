@@ -3,4 +3,4 @@
 :END:
 #+title: Ingénierie
 
-Ensemble des fonctions qui mènent de la conception à la mise en service (production).
+Ensemble des travaux sur un projet, souvent industriel, allant de la conception jusqu'à la réalisation et la mise en production.
