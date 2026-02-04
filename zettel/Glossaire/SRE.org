@@ -1,0 +1,5 @@
+L'[[file:Ingénierie.org][ingénierie]] de fiabilité des sites est une discipline de l'[[file:Ingénierie.org][ingénierie]] qui aide les organisations à atteindre le niveau de fiabilité des services, systèmes et produits exigé.
+
+** Différence avec le DevOps
+
+Le SRE se concentre sur la fiabilité et le DevOps sur la livraison.
