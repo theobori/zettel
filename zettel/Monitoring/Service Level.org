@@ -1,0 +1,5 @@
+C'est une mesure de la qualité du service.
+
+#+begin_src query
+path:./*
+#+end_src

@@ -3,3 +3,15 @@ L'[[file:Ingénierie.org][ingénierie]] de fiabilité des sites est une discipli
 ** Différence avec le DevOps
 
 Le SRE se concentre sur la fiabilité et le DevOps sur la livraison.
+
+** Qualité souhaitées
+
+Il y a diverses qualités pour un ingénieur de fidélité des sites. Ci-dessous, une liste non-exhaustive de quelques de ces qualités.
+
+- Etre curieux
+- Avoir un bon rapport aux gens
+- Avoir un bon rapport aux erreurs
+- Chercher à comprendre le système et comment il peut échouer
+- Bien comprendre les [[file:../Monitoring/Service Level.org][niveaux de services]]
+- Avoir une bonne culture informatique
+- Etre polyvalent
