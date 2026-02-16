@@ -3,9 +3,12 @@
 :END:
 #+title: Les prochains
 
-Listes non exhaustives des films vus et à voir.
+Listes non exhaustives d'oeuvres vues et à voir.
 
-** Récents
+** Films
+
+*** Récents [16/16] [100%]
+
 - [X] Poor things
 - [X] Nos étoiles contraires
 - [X] Anatomie d'une chute
@@ -23,7 +26,8 @@ Listes non exhaustives des films vus et à voir.
 - [X] Whiplash (revoir)
 - [X] A Silent Voice
 
-*** Horreur
+*** Horreur [15/19] [78%]
+
 - [X] The ring
 - [X] Hereditary
 - [X] Speak no evil (revoir)
@@ -44,7 +48,8 @@ Listes non exhaustives des films vus et à voir.
 - [ ] Lake Mungo
 - [X] Revoir Blair Witch (2016)
 
-*** A voir absolument
+*** A voir absolument [25/44] [56%]
+
 - [X] La Ligne Verte
 - [X] La La Land
 - [X] Retour vers le futur (revoir)
@@ -93,5 +98,13 @@ Listes non exhaustives des films vus et à voir.
 - [ ] Les petits mouchoirs
 
 ** Séries
+
+*** Idées [1/7] [14%]
+
 - [X] Wrong side of the tracks
 - [ ] [[file:LOTR Rings of Power.org][LOTR Rings of Power]]
+- [ ] True Detective
+- [ ] Les Héritiers
+- [ ] Six Feet Under
+- [ ] The Leftovers
+- [ ] Chernobyl
