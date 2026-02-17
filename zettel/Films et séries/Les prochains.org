@@ -99,11 +99,11 @@ Listes non exhaustives d'oeuvres vues et à voir.
 
 ** Séries
 
-*** Idées [1/7] [14%]
+*** Idées [2/7] [28%]
 
 - [X] Wrong side of the tracks
 - [ ] [[file:LOTR Rings of Power.org][LOTR Rings of Power]]
-- [ ] True Detective
+- [X] True Detective, saison 1 uniquement
 - [ ] Les Héritiers
 - [ ] Six Feet Under
 - [ ] The Leftovers
