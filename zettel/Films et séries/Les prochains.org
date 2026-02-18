@@ -99,7 +99,7 @@ Listes non exhaustives d'oeuvres vues et à voir.
 
 ** Séries
 
-*** Idées [2/7] [28%]
+*** Idées [3/8] [37%]
 
 - [X] Wrong side of the tracks
 - [ ] [[file:LOTR Rings of Power.org][LOTR Rings of Power]]
@@ -107,4 +107,5 @@ Listes non exhaustives d'oeuvres vues et à voir.
 - [ ] Les Héritiers
 - [ ] Six Feet Under
 - [ ] The Leftovers
-- [ ] Chernobyl
+- [X] Chernobyl
+- [ ] Barry
