@@ -85,7 +85,7 @@ Listes non exhaustives de trucs que j'aime bien ou que je trouve stylés.
 - [[https://tilde.town/~zine][tilde.town/~zine]]
 - [[https://q1tools.github.io][q1tools.github.io]]
 - [[https://www.privacyguides.org/fr/basics/why-privacy-matters][https://www.privacyguides.org/fr/basics/why-privacy-matters]]
-- [[https://agate.blue]]
+- https://agate.blue/a-propos
 - [[https://www.ivpn.net][https://www.ivpn.net]]
 - [[https://ripped.guide]]
 - https://triapul.cz
