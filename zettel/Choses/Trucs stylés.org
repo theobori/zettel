@@ -88,9 +88,10 @@ Listes non exhaustives de trucs que j'aime bien ou que je trouve stylés.
 - [[https://agate.blue]]
 - [[https://www.ivpn.net][https://www.ivpn.net]]
 - [[https://ripped.guide]]
-- https://triapul.cz/
+- https://triapul.cz
 - https://img.triapul.cz/sect.html
-- https://analognowhere.com/support/
+- https://analognowhere.com/support
+- https://github.com/fmhy/FMHY/wiki
 
 ** Liste de phrases
 
