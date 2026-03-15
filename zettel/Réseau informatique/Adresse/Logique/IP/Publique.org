@@ -1,0 +1,1 @@
+C'est une [[file:../IP.org][adresse IP]] attribuée de manière unique par les autorités mondiale et qu'elle est routable sur Internet.

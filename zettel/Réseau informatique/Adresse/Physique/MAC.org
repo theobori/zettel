@@ -1,0 +1,9 @@
+C'est une [[file:../Physique.org][adresse physique]] utilisée par la [[file:../../Modèle OSI/Couche 2.org][couche de liaison]], représentée par six octets écrits sur la carte réseau, aussi appellée Burned In Adresse.
+
+#+begin_quote
+Elle a une porté limitée, d'où l'utilisation d'adresses [[file:../Logique/IP.org][IP]].
+#+end_quote
+
+#+begin_src query
+path:./*
+#+end_src

@@ -1,0 +1,5 @@
+C'est une adresse établie par la partie logicielle de l'appareil informatique.
+
+#+begin_src query
+path:./*
+#+end_src

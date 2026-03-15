@@ -1,0 +1,1 @@
+C'est une donnée numérique qui permet d'identifier la partie réseau et la partie hote.

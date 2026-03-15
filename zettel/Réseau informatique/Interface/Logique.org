@@ -1,0 +1,1 @@
+C'est une [[file:../../Glossaire/Interface.org][interface]] virtuelle gérée par la partie logicielle de la machine qui permet de communiquer avec le pilote de périphérique.

@@ -1,0 +1,1 @@
+C'est un équipement informatique qui opère à la [[file:../Modèle OSI/Couche 1.org][couche physique]], il se contente de transmettre les données binaires d'un [[file:../Interface/Physique.org][port physique]] à un autre.

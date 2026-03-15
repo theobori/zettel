@@ -1,0 +1,1 @@
+C'est un [[file:Local.org][réseau local]] [[file:Réseau virtuel.org][virtuel]], c'est un [[file:../Réseau informatique.org][réseau informatique]] logique et indépendant.

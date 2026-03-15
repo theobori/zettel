@@ -1,0 +1,1 @@
+C'est un processus qui fait correspondre des [[file:Adresse/Logique/IP.org][adresses IP]] à d'autres [[file:Adresse/Logique/IP.org][adresses IP]].

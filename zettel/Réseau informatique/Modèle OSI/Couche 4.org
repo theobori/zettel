@@ -1,0 +1,1 @@
+C'est la couche de transport. Elle gère le controle de flux.

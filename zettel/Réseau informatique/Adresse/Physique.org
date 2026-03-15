@@ -1,0 +1,5 @@
+C'est une adresse établie par le constructeur du matériel.
+
+#+begin_src query
+path:./*
+#+end_src

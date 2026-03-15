@@ -1,0 +1,5 @@
+C'est une [[file:../Logique.org][adresse logique]] utilisée par la [[file:../../Modèle OSI/Couche 3.org][couche réseau]] (IPv4, IPv6), elle a une partie réseau et une partie hote. Elle permet de mieux organiser la communication et apporte de la sécurité.
+
+#+begin_src query
+path:./*
+#+end_src

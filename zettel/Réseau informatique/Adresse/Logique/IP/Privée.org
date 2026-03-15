@@ -1,0 +1,1 @@
+C'est une [[file:../IP.org][adresse IP]] qui n'est pas routable sur Internet et qui respecte la RFC 1918.

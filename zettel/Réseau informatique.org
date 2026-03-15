@@ -1,0 +1,5 @@
+C'est un ensemble d'équipement informatique interconnectés qui peuvent échanger des données.
+
+#+begin_src query
+path:./*
+#+end_src

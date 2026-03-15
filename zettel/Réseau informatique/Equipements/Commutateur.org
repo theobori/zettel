@@ -1,0 +1,1 @@
+C'est un [[file:Bridge.org][bridge]] amélioré, il peut gérer des [[file:../VLAN.org][VLANs]].

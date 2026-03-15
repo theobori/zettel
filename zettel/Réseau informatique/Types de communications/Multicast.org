@@ -1,0 +1,1 @@
+C'est une communication d'un expéditeur vers plusieurs destinataire.

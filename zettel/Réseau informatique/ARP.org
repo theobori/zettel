@@ -1,0 +1,1 @@
+C'est un protocole qui permet de faire correspondre des adresses de protocole de la [[file:Modèle OSI/Couche 3.org][couche réseau]] avec des des adresses de protocole de la [[file:Modèle OSI/Couche 2.org][couche liaison]].

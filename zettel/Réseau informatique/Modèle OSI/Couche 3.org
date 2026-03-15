@@ -1,0 +1,1 @@
+C'est la couche réseau. Elle est responsable de l'[[file:../Adresse/Logique.org][adressage logique]], de l'acheminement des paquets entre un expéditeur et un destinataire, même s'ils ne sont pas sur le même [[file:../Local.org][réseau local]].

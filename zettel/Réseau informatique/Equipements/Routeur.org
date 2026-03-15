@@ -1,0 +1,1 @@
+C'est un équipement informatique qui gère le routage des paquets, il joue souvent le rôle de [[file:../Passerelle.org][passerelle]] par défaut.

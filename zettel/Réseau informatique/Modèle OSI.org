@@ -1,0 +1,5 @@
+C'est une norme de communication établie par l'[[file:../Jeu de caractères/ISO.org][ISO]] pour tout les système informatique en réseau.
+
+#+begin_src query
+path:./*
+#+end_src

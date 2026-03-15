@@ -1,0 +1,1 @@
+C'est une équipement informatique qui permet de connecter des plusieurs appareils informatiques. Il opère à la [[file:../Modèle OSI/Couche 2.org][couche de liaison]] et il transmet les trames uniquement aux bons destinataires car il a une table d'adresse MAC.

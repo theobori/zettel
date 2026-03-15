@@ -1,0 +1,1 @@
+C'est l'identifiant utilisateur écrit sur les trois derniers octets de l'adresse [[file:../MAC.org][MAC]].

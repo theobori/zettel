@@ -1,0 +1,1 @@
+C'est une équipement informatique qui permet de connecter des appareils informatiques. Il opère à la [[file:../Modèle OSI/Couche 2.org][couche de liaison]] et il renvoit les données reçu sur un [[file:../Interface/Physique.org][port physique]] sur tous les autres [[file:../Interface/Physique.org][ports physiques]].

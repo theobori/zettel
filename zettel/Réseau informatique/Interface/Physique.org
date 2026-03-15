@@ -1,0 +1,1 @@
+C'est un point de connexion matériel entre deux équipements. Par exemple, entre un ordinateur et un cable ethernet.

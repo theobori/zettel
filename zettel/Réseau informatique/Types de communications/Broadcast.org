@@ -1,0 +1,3 @@
+C'est une communication d'un expéditeur vers tous les destinataires possibles.
+
+Le protocole Internet supporte aussi le Direct broadcast.

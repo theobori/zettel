@@ -1,0 +1,1 @@
+C'est l'identifiant du fabriquant écrit sur les trois premiers octets de l'adresse [[file:../MAC.org][MAC]].

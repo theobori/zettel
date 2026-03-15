@@ -1,0 +1,1 @@
+C'est une [[file:../Unité de données de protocole.org][unité de données de protocole]] de la [[file:../Modèle OSI/Couche 2.org][couche de liaison]].

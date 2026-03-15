@@ -1,0 +1,1 @@
+C'est un identifiant de destinataire(s) réseau. Elle peut être [[file:Adresse/Physique.org][physique]] ou [[file:Adresse/Logique.org][logique]].

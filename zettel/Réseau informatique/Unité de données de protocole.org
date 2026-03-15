@@ -1,0 +1,5 @@
+C'est une unité de données d'information échangées pendant les communications d'un [[file:../Réseau informatique.org][réseau informatique]].
+
+#+begin_src query
+path:./*
+#+end_src

@@ -1,0 +1,1 @@
+C'est un équipement en bout de réseau, il est sensé avoir le plus faible degré sortant.

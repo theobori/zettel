@@ -1,0 +1,6 @@
+C'est une sous-division logique d'un réseau IP.
+[[../Attachments/Pasted image 20250221145315.png]]
+
+#+begin_src query
+path:./*
+#+end_src

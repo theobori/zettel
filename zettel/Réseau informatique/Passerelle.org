@@ -1,0 +1,1 @@
+C'est un dispositif permettant de relier deux [[file:../Réseau informatique.org][réseaux informatique]] de types différents. Par exemple, un [[file:Local.org][réseau local]] et un réseau étendu.

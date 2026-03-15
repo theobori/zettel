@@ -1,0 +1,1 @@
+C'est un [[file:../Réseau informatique.org][réseau informatique]] qui utilise des plages d'[[file:Adresse/Logique/IP/Privée.org][adresses IP privées]].

@@ -1,0 +1,1 @@
+C'est la couche physique. Elle gère la transmission binaire numérique ou analogique.

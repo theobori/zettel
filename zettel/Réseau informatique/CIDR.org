@@ -1,0 +1,1 @@
+Ca signifie Classless Inter-Domain Routing, c'est une méthode d'allocation d'[[file:Adresse/Logique/IP.org][adresses IP]].

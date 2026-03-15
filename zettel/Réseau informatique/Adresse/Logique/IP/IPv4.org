@@ -1,0 +1,5 @@
+C'est une adresse [[file:../IP.org][IP]] de taille fixe 32 bits.
+
+#+begin_src query
+path:./*
+#+end_src

@@ -1,0 +1,1 @@
+C'est la couche de liaison. Elle s'occupe de la transmission directe des données entre deux équipements connectés physiquement sur le même réseau.
