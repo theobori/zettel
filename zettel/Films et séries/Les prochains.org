@@ -99,7 +99,7 @@ Listes non exhaustives d'oeuvres vues et à voir.
 
 ** Séries
 
-*** Idées [4/7] [57%]
+*** Idées [4/8] [50%]
 
 - [X] Wrong side of the tracks
 - [ ] [[file:LOTR Rings of Power.org][LOTR Rings of Power]]
@@ -108,3 +108,4 @@ Listes non exhaustives d'oeuvres vues et à voir.
 - [ ] The Leftovers
 - [X] Chernobyl
 - [X] Barry
+- [ ] WandaVision
