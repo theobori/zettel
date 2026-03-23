@@ -26,7 +26,7 @@ Listes non exhaustives d'oeuvres vues et à voir.
 - [X] Whiplash (revoir)
 - [X] A Silent Voice
 
-*** Horreur [15/19] [78%]
+*** Horreur [16/18] [88%]
 
 - [X] The ring
 - [X] Hereditary
@@ -34,7 +34,7 @@ Listes non exhaustives d'oeuvres vues et à voir.
 - [X] Raw
 - [X] Psychose
 - [X] The bay
-- [ ] Freddie krueger
+- [ ] Freddy krueger
 - [X] The descent
 - [X] Donnie darko
 - [X] Vermines
@@ -43,9 +43,8 @@ Listes non exhaustives d'oeuvres vues et à voir.
 - [ ] The house
 - [X] Afflicted
 - [X] VHS
-- [ ] Phoenix Forgotten
+- [X] Phoenix Forgotten
 - [X] Butterfly Kisses
-- [ ] Lake Mungo
 - [X] Revoir Blair Witch (2016)
 
 *** A voir absolument [25/44] [56%]
@@ -75,7 +74,6 @@ Listes non exhaustives d'oeuvres vues et à voir.
 - [ ] Les nouveaux sauvages
 - [ ] Le cinquième élement
 - [ ] Mange, prie, aime
-- [ ] mad max
 - [X] Full metal jacket
 - [ ] Edward aux mains d'argent
 - [ ] Requiem for a dream
@@ -99,13 +97,11 @@ Listes non exhaustives d'oeuvres vues et à voir.
 
 ** Séries
 
-*** Idées [4/8] [50%]
+*** Idées [5/6] [83%]
 
 - [X] Wrong side of the tracks
 - [ ] [[file:LOTR Rings of Power.org][LOTR Rings of Power]]
 - [X] True Detective, saison 1 uniquement
-- [ ] Six Feet Under
-- [ ] The Leftovers
 - [X] Chernobyl
 - [X] Barry
-- [ ] WandaVision
+- [X] WandaVision

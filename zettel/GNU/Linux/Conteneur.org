@@ -7,7 +7,6 @@ Un conteneur Linux, c'est simplement un process Linux isolé avec des fonctionna
 
 #+begin_quote
 Linux containers are an abstraction on top of a set of features on the Linux kernel to isolate and manage computer processes.
-
 #+end_quote
 
 #+begin_src query
