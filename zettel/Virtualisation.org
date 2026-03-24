@@ -1,0 +1,5 @@
+C'est la création virtuelle d'équipements informatiques physiques.
+
+#+begin_src query
+path:./*
+#+end_src

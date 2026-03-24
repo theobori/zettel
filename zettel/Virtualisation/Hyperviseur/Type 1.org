@@ -1,0 +1,1 @@
+C'est un [[file:../Hyperviseur.org][hyperviseur]] sous forme de logiciel dédié à la [[file:../../Glossaire/Plateforme.org][plateforme]] matérielle.

@@ -1,0 +1,1 @@
+C'est le système d'exploitation qui communique avec le matériel.

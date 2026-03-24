@@ -1,0 +1,1 @@
+C'est un [[file:../Hyperviseur.org][hyperviseur]] sous forme de d'application sur le [[file:../Système hôte.org][système hôte]].

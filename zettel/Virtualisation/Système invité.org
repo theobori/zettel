@@ -1,0 +1,1 @@
+C'est le système d'exploitation dépendant d'un autre système d'exploitation. En général, c'est on parle du système invité d'une [[file:Machine virtuelle.org][machine virtuelle]].

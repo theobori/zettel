@@ -1,0 +1,5 @@
+C'est une gestionnaire de [[file:Machine virtuelle.org][machines virtuelles]].
+
+#+begin_src query
+path:./*
+#+end_src
