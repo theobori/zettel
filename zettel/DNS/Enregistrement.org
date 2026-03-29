@@ -1,0 +1,5 @@
+C'est un ensemble d'instructions utilisées pour associer les noms de domaines aux [[file:../Réseau informatique/Adresse/Logique/IP.org][adresses IP]].
+
+#+begin_src query
+path:./
+#+end_src

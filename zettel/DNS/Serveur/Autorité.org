@@ -1,0 +1,1 @@
+C'est le serveur détenant l'[[file:../../Réseau informatique/Adresse/Logique/IP.org][adresse IP]] correspondant au nom de domaine.
