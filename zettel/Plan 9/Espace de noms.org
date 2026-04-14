@@ -1,0 +1,1 @@
+C'est un ensemble d'associations entre un nom et un objet Plan 9. Il y a par exemple l'espace de noms des fichiers.
