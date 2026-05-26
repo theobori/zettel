@@ -1,0 +1,1 @@
+C'est une entité responsable de transmettre l'[[file:../../../E-mail.org][e-mail]] à soit un autre [[file:Mail Transfert Agent.org][Mail Transfert Agent]], soit un [[file:Mail Delivery Agent.org][Mail Delivery Agent]].

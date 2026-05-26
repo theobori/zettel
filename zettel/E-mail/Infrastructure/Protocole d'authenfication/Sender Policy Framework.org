@@ -1,0 +1,1 @@
+C'est un protocole basique qui consiste à créer un [[file:../../../DNS/Enregistrement.org][enregistrement DNS]] de type TXT avec comme valeur une liste d'[[file:../../../Réseau informatique/Adresse/Logique/IP.org][adresses IP]] autorisées.

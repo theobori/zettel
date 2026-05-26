@@ -1,0 +1,1 @@
+C'est un protocole qui peut utiliser [[file:Sender Policy Framework.org][SPF]] et/ou [[file:DomainKeys Identified Mail.org][DKIM]].

@@ -1,0 +1,1 @@
+C'est l'entité responsable de la livraison de l'[[file:../../../E-mail.org][e-mail]] et de l'accessibilité de l'[[file:../../../E-mail.org][e-mail]] livré par le [[file:Mail User Agent.org][Mail User Agent]].

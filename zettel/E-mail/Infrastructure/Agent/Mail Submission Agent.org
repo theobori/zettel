@@ -1,0 +1,1 @@
+C'est un intermédiaire entre le [[file:Mail User Agent.org][Mail User Agent]] et le [[file:Mail Transfert Agent.org][Mail Transfer Agent]] chargé de vérifier les erreurs.

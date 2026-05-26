@@ -1,0 +1,10 @@
+C'est une entité qui agit dans le processus de traitement d'un [[file:../../E-mail.org][e-mail]].
+
+Ci-dessous un schéma représentant les communications entre les différents type d'agents.
+
+[[file:Attachments/2026-05-26_19-30-14_mailtrap-blog-MUA.png]]
+
+
+#+begin_src query
+path:./*
+#+end_src

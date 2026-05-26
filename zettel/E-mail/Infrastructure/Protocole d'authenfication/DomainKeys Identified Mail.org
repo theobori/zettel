@@ -1,0 +1,1 @@
+C'est un protocole qui consiste à inclure un signature digitale dans l'[[file:../../../E-mail.org][e-mail]] avec la clé privée de l'expéditeur. Le destinataire vérifiera la signature avec la clé publique.

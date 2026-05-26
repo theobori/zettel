@@ -1,0 +1,5 @@
+C'est un protocole qui sert à valider l'origine d'un [[file:../../E-mail.org][e-mail]].
+
+#+begin_src query
+path:./*
+#+end_src

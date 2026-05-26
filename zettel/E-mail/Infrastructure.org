@@ -1,0 +1,5 @@
+C'est une [[file:../Glossaire/Infrastructure.org][infrastructure]] spécialisée dans le traitement d'[[file:../E-mail.org][e-mails]].
+
+#+begin_src query
+path:./*
+#+end_src

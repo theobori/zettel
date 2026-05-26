@@ -1,0 +1,5 @@
+C'est un ensemble de données structurées pour transmettre un message en [[file:Réseau informatique.org][réseau]] grâce au protocole Internet.
+
+#+Begin_src query
+path:./*
+#+end_src
