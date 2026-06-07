@@ -1,4 +1,4 @@
-C'est un ensemble de [[file:Noeud.org][noeuds]] où chacun pointe vers un autre.
+C'est un ensemble de [[file:Noeud.org][noeuds]] où chacun peut pointer vers un autre.
 
 #+begin_src query
 path:./*
