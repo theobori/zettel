@@ -1,0 +1,5 @@
+C'est un système d'exploitation basé sur 4.4BSD-Lite2 pour les ordinateurs.
+
+#+begin_src query
+path:./*
+#+end_src
