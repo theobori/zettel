@@ -1,0 +1,1 @@
+C'est un type de [[file:Terminal.org][terminal]] dédié à l'interprétation de commandes.

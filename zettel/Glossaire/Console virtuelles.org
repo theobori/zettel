@@ -1,0 +1,1 @@
+Ce sont des [[file:Console.org][consoles]] démarrées par default.

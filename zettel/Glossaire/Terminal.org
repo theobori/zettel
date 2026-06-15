@@ -1,1 +1,3 @@
 C'est une machine physique qui sert d'[[file:Interface.org][interface]] utilisateur pour communiquer avec un ordinateur central ou un réseaux d'ordinateur (généralement à travers un [[file:Shell.org][interpréteur de commande]]).
+
+Par abus de langage, on appelle terminal un émulateur de terminal.
