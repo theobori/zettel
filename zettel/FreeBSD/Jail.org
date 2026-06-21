@@ -1,0 +1,1 @@
+C'est un environnement chroot sécurisé grace à des fonctionnalité FreeBSD.

@@ -1,0 +1,5 @@
+C'est l'ensemble des scripts de commandes pour le démarrage des démons et le processus de démarrage après être appelé par le programme init.
+
+** rc.d
+
+C'est un dossier qui contient des scripts qui peuvent être automatiquement exécutés durant le démarrage et l'arrêt.
