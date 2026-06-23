@@ -1,0 +1,1 @@
+C'est une [[file:../Glossaire/Architecture.org][architecture]] où les hôtes sont connectés pair à pair sans hiérarchie centrale.
