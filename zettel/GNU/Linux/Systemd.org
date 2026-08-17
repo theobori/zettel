@@ -4,3 +4,7 @@
 #+title: Systemd
 
 Its a daemon init. Usually the first process spawned by the kernel with PID 1 and is reponsible for spawning the other daemons necessary for the OS (network, cron, syslog, etc.).
+
+#+begin_src query
+path:./*
+#+end_src

@@ -1,0 +1,1 @@
+C'est un générateur fourni par Podman, il aide à gérer l'exécution des [[file:../../Conteneur.org][conteneurs]].

@@ -1,0 +1,5 @@
+C'est un programme exécutable chargé de produire une unité [[file:../Systemd.org][systemd]], souvent de type service.
+
+#+begin_src query
+path:./*
+#+end_src
