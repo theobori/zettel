@@ -1,0 +1,1 @@
+C'est une apostrophe. Une [[file:S-expression.org][s-expression]] qui en est préfixée devient une valeur littérale.

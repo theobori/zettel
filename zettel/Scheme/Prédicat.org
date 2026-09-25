@@ -1,0 +1,1 @@
+C'est une fonction qui retourne un booléen

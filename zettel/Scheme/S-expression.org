@@ -1,1 +1,1 @@
-C'est n'importe qu'elle expression correcte syntaxiquement.
+C'est une expression syntaxiquement correcte.
