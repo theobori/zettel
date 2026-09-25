@@ -1,0 +1,1 @@
+C'est une fonction aidant une fonction principale.

@@ -1,0 +1,1 @@
+C'est la correspondance entre une [[file:Variable.org][variable]] et sa valeur.

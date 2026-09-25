@@ -1,0 +1,5 @@
+C'est un language de programmation fonctionnelle dérivé du LISP. Il implémente le standard [[file:Scheme/RNRS.org][RNRS]].
+
+#+begin_src query
+path:./*
+#+end_src
