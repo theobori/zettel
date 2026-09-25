@@ -3,7 +3,10 @@
 :END:
 #+title: LOTR Rings of Power
 
-Quelques informations importantes à retenir. - Morgoth est 1er seigneur des ténébres. - L'Anneau Unique est un anneau qui controle tout les autres anneaux et son porteur, forgé par sauron. - Les Piévelus sont les Ancêtres des Hobbits.
+Ci-dessous une liste d'informations importantes à retenir pour mieux comprendre la série.
+- Morgoth est 1er seigneur des ténébres.
+- L'Anneau Unique est un anneau qui controle tout les autres anneaux et son porteur, forgé par sauron.
+- Les Piévelus sont les Ancêtres des Hobbits.
 
 #+begin_src query
 path:./*
