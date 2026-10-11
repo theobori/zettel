@@ -1,0 +1,1 @@
+C'est un protocole visant à sécuriser des communications. L'objectif est de fournir confidentialité, [[file:Glossaire/Intégrité.org][intégrité]] et authenticité.
