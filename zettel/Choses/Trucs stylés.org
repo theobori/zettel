@@ -11,8 +11,7 @@ Listes non exhaustives de trucs que j'aime bien ou que je trouve stylés.
 - https://xkcd.com/
 - https://azeria-labs.com/writing-arm-assembly-part-1/
 - https://www.scummvm.org/
-- nitter (voir instance [[https:xcancel.com][https://xcancel.com/]])
-- proxitok
+- [[https:xcancel.com]]
 - [[https://swizec.com/blog/the-wally-reflector/][https://swizec.com/blog/the-wally-reflectoér/]]
 - https://tilde.news/
 - https://webring.xxiivv.com/#icons
@@ -29,7 +28,7 @@ Listes non exhaustives de trucs que j'aime bien ou que je trouve stylés.
 - https://3hg.fr/
 - https://cpu.land/
 - [[http://crimethinc.com][crimethinc.com]]
-- je prends note de https://www.marginalia.nu/log/09-system-upgrade/
+- https://www.marginalia.nu
 - https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/
 - https://www.chapril.org/
 - https://ilinux.fr/fr
@@ -41,15 +40,12 @@ Listes non exhaustives de trucs que j'aime bien ou que je trouve stylés.
 - https://git.immae.eu/cgit/
 - https://www.verto.sh/
 - https://hub.docker.com/r/wernight/duplicity/
-- tetragon (security, observability throught eBPF)
 - https://eternal.lol/
-- XDP
 - https://wizardzines.com/
 - https://thephilosophyforum.com/
 - https://3drealms.com/
 - https://universal-blue.org/
 - https://www.torrent.ws/
-- heart of darkness
 - https://frame.work/fr/fr
 - https://www.cachix.org/
 - https://adelfaure.net/tools/jgs/
@@ -65,7 +61,7 @@ Listes non exhaustives de trucs que j'aime bien ou que je trouve stylés.
 - https://3ds.hacks.guide/
 - https://selfh.st/apps
 - https://demonic.net
-- Mystic BBS + wiki
+- https://www.mysticbbs.com/
 - https://16colo.rs/pack/fire-37/
 - https://animetosho.org/
 - https://osintframework.com/
@@ -101,6 +97,7 @@ Listes non exhaustives de trucs que j'aime bien ou que je trouve stylés.
 - https://friendo.monster
 - https://handthing.party
 - https://wallhaven.cc/user/lewdpatriot/favorites/935888
+- https://si3t.ch
 
 ** Liste de phrases
 
